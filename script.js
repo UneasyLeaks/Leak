@@ -3,9 +3,13 @@ const colors = {
   world_nether: "#ff6b6b",
   world_the_end: "#b58cff",
   unknown: "#ffd166",
+  userCheck: "#ffffff",
+  userCheckRing: "#8bd46e",
 };
 
-const updateNoticeKey = "uneasyvanilla:update-notice:2026-05-09-xaero-280-bases";
+const leakRadius = 3000;
+
+const updateNoticeKey = "uneasyvanilla:update-notice:2026-05-09-leak-checker";
 
 const state = {
   bases: [],
@@ -14,6 +18,7 @@ const state = {
   bounds: null,
   hover: null,
   viewMode: "graph",
+  checkedCoordinate: null,
 };
 
 const atlas = document.getElementById("atlasCanvas");
@@ -154,6 +159,31 @@ function drawAtlas() {
     atlasCtx.fill();
     atlasCtx.globalAlpha = 1;
   });
+
+  drawCheckedCoordinate();
+}
+
+function drawCheckedCoordinate() {
+  if (!state.checkedCoordinate) return;
+  const point = worldToScreen(state.checkedCoordinate.x, state.checkedCoordinate.z);
+  const radius = Math.max(9, Math.min(18, 7 + 0.0015 / state.view.scale));
+  const ringRadius = Math.max(radius + 5, Math.min(90, leakRadius * state.view.scale));
+
+  atlasCtx.beginPath();
+  atlasCtx.arc(point.x, point.y, ringRadius, 0, Math.PI * 2);
+  atlasCtx.strokeStyle = state.checkedCoordinate.leaked ? "#ff6b6b" : colors.userCheckRing;
+  atlasCtx.lineWidth = 2;
+  atlasCtx.setLineDash([8, 6]);
+  atlasCtx.stroke();
+  atlasCtx.setLineDash([]);
+
+  atlasCtx.beginPath();
+  atlasCtx.arc(point.x, point.y, radius, 0, Math.PI * 2);
+  atlasCtx.fillStyle = colors.userCheck;
+  atlasCtx.fill();
+  atlasCtx.lineWidth = 3;
+  atlasCtx.strokeStyle = state.checkedCoordinate.leaked ? "#ff6b6b" : colors.userCheckRing;
+  atlasCtx.stroke();
 }
 
 function drawGrid(width, height) {
@@ -248,6 +278,9 @@ function attachAtlasEvents() {
 function attachUiEvents() {
   document.getElementById("graphTab").addEventListener("click", () => setViewMode("graph"));
   document.getElementById("listTab").addEventListener("click", () => setViewMode("list"));
+  document.getElementById("openLeakCheck").addEventListener("click", openLeakCheck);
+  document.getElementById("closeLeakCheck").addEventListener("click", closeLeakCheck);
+  document.getElementById("leakCheckPanel").addEventListener("submit", checkLeakCoordinate);
   document.getElementById("baseSearch").addEventListener("input", renderBaseTable);
   document.getElementById("sortMode").addEventListener("change", renderBaseTable);
   document.getElementById("closeLightbox").addEventListener("click", closeLightbox);
@@ -258,6 +291,66 @@ function attachUiEvents() {
   window.addEventListener("keydown", (event) => {
     if (event.key === "Escape") closeLightbox();
   });
+}
+
+function openLeakCheck() {
+  setViewMode("graph");
+  const panel = document.getElementById("leakCheckPanel");
+  panel.hidden = false;
+  document.getElementById("leakX").focus();
+}
+
+function closeLeakCheck() {
+  document.getElementById("leakCheckPanel").hidden = true;
+}
+
+function checkLeakCoordinate(event) {
+  event.preventDefault();
+  const x = Number(document.getElementById("leakX").value);
+  const z = Number(document.getElementById("leakZ").value);
+  const result = document.getElementById("leakCheckResult");
+
+  if (!Number.isFinite(x) || !Number.isFinite(z)) {
+    result.className = "leak-check-result";
+    result.textContent = "Enter valid X and Z coordinates.";
+    return;
+  }
+
+  const nearest = findNearestKnownCoordinate(x, z);
+  const leaked = nearest && nearest.distance <= leakRadius;
+  state.checkedCoordinate = { x, z, leaked, nearest };
+  focusMapOnCoordinate(x, z);
+  drawAtlas();
+
+  if (leaked) {
+    result.className = "leak-check-result leaked";
+    result.innerHTML = `Leaked. Nearest known coordinate is ${formatNumber(Math.round(nearest.distance))} blocks away at Base ${nearest.base.id}.`;
+  } else {
+    result.className = "leak-check-result not-leaked";
+    result.textContent = "Not leaked. No known coordinate is close enough to this location.";
+  }
+}
+
+function findNearestKnownCoordinate(x, z) {
+  let nearest = null;
+  state.bases.forEach((base) => {
+    [{ ...base.center, source: "center" }, ...base.subBases.map((coord) => ({ ...coord, source: "sub-base" }))]
+      .forEach((coord) => {
+        const distance = Math.hypot(coord.x - x, coord.z - z);
+        if (!nearest || distance < nearest.distance) {
+          nearest = { base, coord, distance };
+        }
+      });
+  });
+  return nearest;
+}
+
+function focusMapOnCoordinate(x, z) {
+  const rect = atlas.getBoundingClientRect();
+  const targetScale = Math.max(state.view.scale, Math.min(0.08, 0.018));
+  state.view.scale = targetScale;
+  state.view.offsetX = rect.width / 2 - x * state.view.scale;
+  state.view.offsetZ = rect.height / 2 - z * state.view.scale;
 }
 
 function showUpdateNotice() {

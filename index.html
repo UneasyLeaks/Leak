@@ -4,8 +4,16 @@
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <title>UneasyVanilla Coordinate Leak</title>
+    <!-- Google tag (gtag.js) -->
+    <script async src="https://www.googletagmanager.com/gtag/js?id=G-G9SZ3RDK2N"></script>
+    <script>
+      window.dataLayer = window.dataLayer || [];
+      function gtag(){dataLayer.push(arguments);}
+      gtag("js", new Date());
+      gtag("config", "G-G9SZ3RDK2N");
+    </script>
     <link rel="icon" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 64 64'%3E%3Crect width='64' height='64' fill='%23111416'/%3E%3Ccircle cx='32' cy='32' r='15' fill='%235dd9d6'/%3E%3Cpath d='M32 5v54M5 32h54' stroke='%23ffd166' stroke-width='5'/%3E%3C/svg%3E">
-    <link rel="stylesheet" href="styles.css?v=2026-05-09-xaero280">
+    <link rel="stylesheet" href="styles.css?v=2026-05-09-leak-checker">
   </head>
   <body>
     <header class="topbar">
@@ -13,6 +21,7 @@
         <h1>UneasyVanilla Coordinate Leak</h1>
       </div>
       <div class="actions">
+        <button id="openLeakCheck" class="download" type="button">Am I leaked?</button>
         <button id="resetView" class="ghost" type="button">Reset View</button>
         <a class="ghost" href="intel.html">Alts & Bans</a>
         <a class="ghost" href="xaero.html">Xaero Map Files</a>
@@ -53,6 +62,22 @@
         <div id="graphView" class="graph-wrap">
           <canvas id="atlasCanvas" width="1600" height="900"></canvas>
           <div id="tooltip" class="tooltip" hidden></div>
+          <form id="leakCheckPanel" class="leak-check-panel" hidden>
+            <div>
+              <strong>Am I leaked?</strong>
+              <button id="closeLeakCheck" class="ghost compact-button" type="button" aria-label="Close leak check">Close</button>
+            </div>
+            <label>
+              X coordinate
+              <input id="leakX" type="text" inputmode="numeric" placeholder="12345" required>
+            </label>
+            <label>
+              Z coordinate
+              <input id="leakZ" type="text" inputmode="numeric" placeholder="-67890" required>
+            </label>
+            <button class="download" type="submit">Check Coordinate</button>
+            <p id="leakCheckResult" class="leak-check-result" aria-live="polite"></p>
+          </form>
         </div>
         <div id="listView" class="list-view" hidden>
           <div class="list-controls">
@@ -154,13 +179,13 @@
     <div id="updateNotice" class="update-notice" hidden>
       <div class="update-card" role="dialog" aria-modal="true" aria-labelledby="updateNoticeTitle">
         <span class="update-eyebrow">Map update</span>
-        <h2 id="updateNoticeTitle">280 new bases added</h2>
-        <p>We added 280 new base candidates from Xaero map data.</p>
+        <h2 id="updateNoticeTitle">New leak checker added</h2>
+        <p>Use the Am I leaked button to enter your X and Z coordinates, jump to them on the map, and check whether they match the leaked data.</p>
         <button id="dismissUpdateNotice" class="download" type="button">Got it</button>
       </div>
     </div>
 
     <script src="gallery-data.js"></script>
-    <script src="script.js?v=2026-05-09-xaero280"></script>
+    <script src="script.js?v=2026-05-09-leak-checker"></script>
   </body>
 </html>
