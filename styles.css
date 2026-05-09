@@ -321,6 +321,7 @@ canvas {
 
 #atlasCanvas {
   cursor: grab;
+  touch-action: none;
 }
 
 #atlasCanvas.dragging {

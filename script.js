@@ -235,16 +235,55 @@ function drawAxis(width, height) {
 function attachAtlasEvents() {
   let dragging = false;
   let last = null;
-  atlas.addEventListener("mousedown", (event) => {
+  const activePointers = new Map();
+  let pinch = null;
+
+  atlas.addEventListener("pointerdown", (event) => {
+    if (event.button !== undefined && event.button !== 0) return;
+    activePointers.set(event.pointerId, { x: event.clientX, y: event.clientY });
     dragging = true;
     last = { x: event.clientX, y: event.clientY };
+    atlas.setPointerCapture(event.pointerId);
     atlas.classList.add("dragging");
+
+    if (activePointers.size === 2) {
+      pinch = getPinchState();
+      dragging = false;
+    }
   });
-  window.addEventListener("mouseup", () => {
+
+  atlas.addEventListener("pointerup", (event) => {
+    activePointers.delete(event.pointerId);
     dragging = false;
+    pinch = null;
+    if (atlas.hasPointerCapture(event.pointerId)) {
+      atlas.releasePointerCapture(event.pointerId);
+    }
     atlas.classList.remove("dragging");
   });
-  window.addEventListener("mousemove", (event) => {
+
+  atlas.addEventListener("pointercancel", (event) => {
+    activePointers.delete(event.pointerId);
+    dragging = false;
+    pinch = null;
+    atlas.classList.remove("dragging");
+  });
+
+  atlas.addEventListener("pointermove", (event) => {
+    if (activePointers.has(event.pointerId)) {
+      activePointers.set(event.pointerId, { x: event.clientX, y: event.clientY });
+    }
+
+    if (activePointers.size === 2 && pinch) {
+      const current = getPinchState();
+      const factor = current.distance / pinch.distance;
+      state.view.scale = Math.max(0.000001, Math.min(0.08, pinch.scale * factor));
+      state.view.offsetX = current.center.x - pinch.world.x * state.view.scale;
+      state.view.offsetZ = current.center.y - pinch.world.z * state.view.scale;
+      drawAtlas();
+      return;
+    }
+
     if (dragging) {
       state.view.offsetX += event.clientX - last.x;
       state.view.offsetZ += event.clientY - last.y;
@@ -273,6 +312,22 @@ function attachAtlasEvents() {
     resetView();
     drawAll();
   });
+
+  function getPinchState() {
+    const points = [...activePointers.values()];
+    const center = {
+      x: (points[0].x + points[1].x) / 2,
+      y: (points[0].y + points[1].y) / 2,
+    };
+    const rect = atlas.getBoundingClientRect();
+    const screenCenter = { x: center.x - rect.left, y: center.y - rect.top };
+    return {
+      center: screenCenter,
+      distance: Math.hypot(points[0].x - points[1].x, points[0].y - points[1].y),
+      scale: state.view.scale,
+      world: screenToWorld(screenCenter.x, screenCenter.y),
+    };
+  }
 }
 
 function attachUiEvents() {
