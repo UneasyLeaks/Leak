@@ -1,0 +1,73 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>UneasyVanilla Xaero Map Files</title>
+    <link rel="stylesheet" href="styles.css">
+  </head>
+  <body>
+    <header class="topbar">
+      <div>
+        <h1>Xaero Map Files</h1>
+      </div>
+      <div class="actions">
+        <a class="ghost" href="index.html">Back to Atlas</a>
+        <a class="ghost" href="intel.html">Alts & Bans</a>
+      </div>
+    </header>
+
+    <main>
+      <section class="xaero-shell">
+        <div class="panel-head">
+          <div>
+            <h2>Download Bundle</h2>
+            <p>Split into 90 MiB parts so each file stays under GitHub's normal 100 MiB file limit.</p>
+          </div>
+          <strong>5 parts</strong>
+        </div>
+
+        <div class="download-grid">
+          <a href="xaero-downloads/xaero-map-files.tar.gz.part-aa" download>Part aa <span>90 MiB</span></a>
+          <a href="xaero-downloads/xaero-map-files.tar.gz.part-ab" download>Part ab <span>90 MiB</span></a>
+          <a href="xaero-downloads/xaero-map-files.tar.gz.part-ac" download>Part ac <span>90 MiB</span></a>
+          <a href="xaero-downloads/xaero-map-files.tar.gz.part-ad" download>Part ad <span>90 MiB</span></a>
+          <a href="xaero-downloads/xaero-map-files.tar.gz.part-ae" download>Part ae <span>90 MiB</span></a>
+        </div>
+
+        <div class="install-panel">
+          <h2>Rebuild After Download</h2>
+          <p>Download all five parts into one folder, rebuild the archive for your operating system, then extract it.</p>
+
+          <h3>Windows Command Prompt</h3>
+          <pre><code>copy /b xaero-map-files.tar.gz.part-aa+xaero-map-files.tar.gz.part-ab+xaero-map-files.tar.gz.part-ac+xaero-map-files.tar.gz.part-ad+xaero-map-files.tar.gz.part-ae xaero-map-files.tar.gz
+tar -xzf xaero-map-files.tar.gz</code></pre>
+
+          <h3>macOS</h3>
+          <pre><code>cat xaero-map-files.tar.gz.part-* &gt; xaero-map-files.tar.gz
+tar -xzf xaero-map-files.tar.gz</code></pre>
+
+          <h3>Linux</h3>
+          <pre><code>cat xaero-map-files.tar.gz.part-* &gt; xaero-map-files.tar.gz
+tar -xzf xaero-map-files.tar.gz</code></pre>
+
+          <p>Move the extracted <code>xaeros files</code> contents into the matching Xaero world-map folder in your Minecraft game directory.</p>
+          <ul class="install-paths">
+            <li><strong>Windows:</strong> <code>%APPDATA%\.minecraft\XaeroWorldMap</code></li>
+            <li><strong>macOS:</strong> <code>~/Library/Application Support/minecraft/XaeroWorldMap</code></li>
+            <li><strong>Linux:</strong> <code>~/.minecraft/XaeroWorldMap</code></li>
+          </ul>
+        </div>
+
+        <div class="install-panel">
+          <h2>SHA-256</h2>
+          <pre><code>74fe79e6ff9d49e0e32e4555b3e4dda85cae863645f0fac03132fc406322bedb  xaero-map-files.tar.gz.part-aa
+65fc613d7872e4ed4dfc43129ecb1d84338b97c7ecf24913b78dc14de2e5772f  xaero-map-files.tar.gz.part-ab
+fa12af05fe765394cbe2ef3afb0fa72b247616a931e31aa1be1b74bd7c4c990d  xaero-map-files.tar.gz.part-ac
+e3fe2918fc5a37e91b3b24cea6ebce1bccb07e80723e5289522306f4b829832e  xaero-map-files.tar.gz.part-ad
+ac03534b62716d60a9f6b9794caa1a8fd0f850eedcbc4c749e1cf65a4bb8d173  xaero-map-files.tar.gz.part-ae</code></pre>
+        </div>
+      </section>
+    </main>
+  </body>
+</html>

@@ -1,0 +1,94 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>UneasyVanilla Alts & Bans</title>
+    <link rel="icon" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 64 64'%3E%3Crect width='64' height='64' fill='%23111416'/%3E%3Ccircle cx='32' cy='32' r='15' fill='%235dd9d6'/%3E%3Cpath d='M32 5v54M5 32h54' stroke='%23ffd166' stroke-width='5'/%3E%3C/svg%3E">
+    <link rel="stylesheet" href="styles.css">
+  </head>
+  <body>
+    <header class="topbar">
+      <div>
+        <h1>Alts & Bans</h1>
+      </div>
+      <div class="actions">
+        <a class="ghost" href="index.html">Back to Atlas</a>
+        <a class="ghost" href="xaero.html">Xaero Map Files</a>
+        <a class="download" href="./alts_with_main.txt" download="UneasyVanilla-alts-with-main.txt">Download Alts</a>
+        <a class="download" href="./bans.txt" download="UneasyVanilla-bans.txt">Download Bans</a>
+      </div>
+    </header>
+
+    <main>
+      <section class="stats-grid intel-stats" aria-label="Intel statistics">
+        <article>
+          <span>Alt groups</span>
+          <strong id="altGroupCount">...</strong>
+        </article>
+        <article>
+          <span>Linked usernames</span>
+          <strong id="linkedUserCount">...</strong>
+        </article>
+        <article>
+          <span>Ban records</span>
+          <strong id="banRecordCount">...</strong>
+        </article>
+      </section>
+
+      <section class="intel-shell">
+        <div class="panel-head">
+          <div>
+            <h2 class="intel-title">Player Intel</h2>
+          </div>
+          <div class="panel-tools">
+            <div class="view-tabs" aria-label="Intel view">
+              <button id="altsTab" class="active" type="button">Alts</button>
+              <button id="bansTab" type="button">Bans</button>
+            </div>
+          </div>
+        </div>
+
+        <div id="altControls" class="intel-controls">
+          <input id="altSearch" type="search" placeholder="Search main accounts or alts">
+          <select id="altSort" aria-label="Sort alt groups">
+            <option value="group-size-desc">Largest alt groups</option>
+            <option value="main-asc">Main name A-Z</option>
+            <option value="banned-first">Banned mains first</option>
+            <option value="not-banned-first">Not banned first</option>
+          </select>
+        </div>
+
+        <div id="banControls" class="intel-controls" hidden>
+          <input id="banSearch" type="search" placeholder="Search banned players, dates, durations, or reasons">
+          <select id="banSort" aria-label="Sort bans">
+            <option value="date-desc">Newest bans</option>
+            <option value="duration-desc">Longest bans</option>
+            <option value="reason-asc">Ban reason A-Z</option>
+          </select>
+        </div>
+
+        <div id="altsView" class="intel-grid" aria-live="polite"></div>
+
+        <div id="bansView" class="bans-view" hidden>
+          <div class="table-wrap">
+            <table>
+              <thead>
+                <tr>
+                  <th>Player</th>
+                  <th>Date</th>
+                  <th>Duration</th>
+                  <th>Reason</th>
+                  <th>Profile</th>
+                </tr>
+              </thead>
+              <tbody id="banTable"></tbody>
+            </table>
+          </div>
+        </div>
+      </section>
+    </main>
+
+    <script src="intel.js"></script>
+  </body>
+</html>

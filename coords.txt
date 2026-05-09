@@ -1,0 +1,8309 @@
+Coordinate Bases
+================
+
+Total bases: 895
+Total sub-bases: 1743
+
+Base 1
+------
+Dimension: world
+Sub-bases: 1
+Center: X=-30000000 Y=100 Z=-30000000
+
+  1. X=-30000000 Y=100 Z=-30000000
+
+Base 2
+------
+Dimension: world
+Sub-bases: 1
+Center: X=12525391 Y=182 Z=29210405
+
+  1. X=12525391 Y=182 Z=29210405
+
+Base 3
+------
+Dimension: world
+Sub-bases: 1
+Center: X=-18142537 Y=-50 Z=-25527941
+
+  1. X=-18142537 Y=-50 Z=-25527941
+
+Base 4
+------
+Dimension: world
+Sub-bases: 6
+Center: X=720644 Y=-39.7 Z=-29865532.2
+
+  1. X=720558 Y=-33 Z=-29866260
+  2. X=720545 Y=-48 Z=-29866121
+  3. X=720547 Y=-49 Z=-29865893
+  4. X=720545 Y=-47 Z=-29865692
+  5. X=720469 Y=-49 Z=-29864845
+  6. X=721200 Y=-12 Z=-29864382
+
+Base 5
+------
+Dimension: world
+Sub-bases: 1
+Center: X=724977 Y=-17 Z=-29865798
+
+  1. X=724977 Y=-17 Z=-29865798
+
+Base 6
+------
+Dimension: world
+Sub-bases: 1
+Center: X=-79995 Y=-20 Z=8493844
+
+  1. X=-79995 Y=-20 Z=8493844
+
+Base 7
+------
+Dimension: world
+Sub-bases: 3
+Center: X=3059008.7 Y=-1.7 Z=7234973.7
+
+  1. X=3059193 Y=68 Z=7234955
+  2. X=3058872 Y=-16 Z=7235028
+  3. X=3058961 Y=-57 Z=7234938
+
+Base 8
+------
+Dimension: world
+Sub-bases: 1
+Center: X=3057098 Y=-49 Z=7233752
+
+  1. X=3057098 Y=-49 Z=7233752
+
+Base 9
+------
+Dimension: world
+Sub-bases: 1
+Center: X=2219078 Y=71 Z=7254228
+
+  1. X=2219078 Y=71 Z=7254228
+
+Base 10
+------
+Dimension: world
+Sub-bases: 1
+Center: X=2218513 Y=142 Z=7252914
+
+  1. X=2218513 Y=142 Z=7252914
+
+Base 11
+------
+Dimension: world
+Sub-bases: 3
+Center: X=1743408.3 Y=-19.7 Z=-5741941.7
+
+  1. X=1743475 Y=-8 Z=-5742000
+  2. X=1743328 Y=-36 Z=-5741931
+  3. X=1743422 Y=-15 Z=-5741894
+
+Base 12
+------
+Dimension: world
+Sub-bases: 1
+Center: X=-5537995 Y=-34 Z=-2273647
+
+  1. X=-5537995 Y=-34 Z=-2273647
+
+Base 13
+------
+Dimension: world
+Sub-bases: 2
+Center: X=-5536638 Y=97.5 Z=-2273195.5
+
+  1. X=-5536961 Y=107 Z=-2273106
+  2. X=-5536315 Y=88 Z=-2273285
+
+Base 14
+------
+Dimension: world
+Sub-bases: 2
+Center: X=5663184.5 Y=-32.5 Z=37007.5
+
+  1. X=5663298 Y=-50 Z=37007
+  2. X=5663071 Y=-15 Z=37008
+
+Base 15
+------
+Dimension: world
+Sub-bases: 1
+Center: X=-163679 Y=-28 Z=5541687
+
+  1. X=-163679 Y=-28 Z=5541687
+
+Base 16
+------
+Dimension: world
+Sub-bases: 1
+Center: X=891999 Y=-15 Z=-5227032
+
+  1. X=891999 Y=-15 Z=-5227032
+
+Base 17
+------
+Dimension: world
+Sub-bases: 2
+Center: X=-2104123.5 Y=-27.5 Z=4696413
+
+  1. X=-2104212 Y=-43 Z=4696438
+  2. X=-2104035 Y=-12 Z=4696388
+
+Base 18
+------
+Dimension: world
+Sub-bases: 1
+Center: X=5058450 Y=1 Z=-713610
+
+  1. X=5058450 Y=1 Z=-713610
+
+Base 19
+------
+Dimension: world
+Sub-bases: 3
+Center: X=5047602.3 Y=-29.3 Z=167200
+
+  1. X=5048193 Y=-23 Z=167234
+  2. X=5047317 Y=-39 Z=167101
+  3. X=5047297 Y=-26 Z=167265
+
+Base 20
+------
+Dimension: world
+Sub-bases: 1
+Center: X=5050694 Y=-51 Z=40464
+
+  1. X=5050694 Y=-51 Z=40464
+
+Base 21
+------
+Dimension: world
+Sub-bases: 3
+Center: X=5046442.3 Y=-26.3 Z=165397.3
+
+  1. X=5046944 Y=-34 Z=165076
+  2. X=5046276 Y=-40 Z=165583
+  3. X=5046107 Y=-5 Z=165533
+
+Base 22
+------
+Dimension: world_nether
+Sub-bases: 5
+Center: X=90436 Y=37.8 Z=-3732998.6
+
+  1. X=90084 Y=69 Z=-3733095
+  2. X=90450 Y=45 Z=-3733056
+  3. X=90550 Y=50 Z=-3733016
+  4. X=90765 Y=17 Z=-3732965
+  5. X=90331 Y=8 Z=-3732861
+
+Base 23
+------
+Dimension: world
+Sub-bases: 1
+Center: X=-3434324 Y=-48 Z=1091098
+
+  1. X=-3434324 Y=-48 Z=1091098
+
+Base 24
+------
+Dimension: world
+Sub-bases: 1
+Center: X=-2202688 Y=133 Z=2799764
+
+  1. X=-2202688 Y=133 Z=2799764
+
+Base 25
+------
+Dimension: world
+Sub-bases: 3
+Center: X=-1748756.3 Y=66.7 Z=-2894110
+
+  1. X=-1749158 Y=12 Z=-2894192
+  2. X=-1748849 Y=78 Z=-2894297
+  3. X=-1748262 Y=110 Z=-2893841
+
+Base 26
+------
+Dimension: world
+Sub-bases: 1
+Center: X=38574 Y=-18 Z=-3362914
+
+  1. X=38574 Y=-18 Z=-3362914
+
+Base 27
+------
+Dimension: world
+Sub-bases: 1
+Center: X=37014 Y=121 Z=-3362604
+
+  1. X=37014 Y=121 Z=-3362604
+
+Base 28
+------
+Dimension: world
+Sub-bases: 3
+Center: X=-3203637 Y=139.7 Z=560887.7
+
+  1. X=-3203865 Y=126 Z=561552
+  2. X=-3203863 Y=100 Z=560600
+  3. X=-3203183 Y=193 Z=560511
+
+Base 29
+------
+Dimension: world
+Sub-bases: 2
+Center: X=3200102 Y=-28.5 Z=60.5
+
+  1. X=3200146 Y=-34 Z=85
+  2. X=3200058 Y=-23 Z=36
+
+Base 30
+------
+Dimension: world
+Sub-bases: 1
+Center: X=3085716 Y=89 Z=-730209
+
+  1. X=3085716 Y=89 Z=-730209
+
+Base 31
+------
+Dimension: world
+Sub-bases: 1
+Center: X=-1674994 Y=-12 Z=-2077044
+
+  1. X=-1674994 Y=-12 Z=-2077044
+
+Base 32
+------
+Dimension: world
+Sub-bases: 2
+Center: X=273929.5 Y=-1 Z=2133320.5
+
+  1. X=273923 Y=9 Z=2133376
+  2. X=273936 Y=-11 Z=2133265
+
+Base 33
+------
+Dimension: world
+Sub-bases: 2
+Center: X=-2070051 Y=-32.5 Z=448221.5
+
+  1. X=-2070104 Y=-25 Z=448196
+  2. X=-2069998 Y=-40 Z=448247
+
+Base 34
+------
+Dimension: world
+Sub-bases: 1
+Center: X=-2068912 Y=-51 Z=447493
+
+  1. X=-2068912 Y=-51 Z=447493
+
+Base 35
+------
+Dimension: world
+Sub-bases: 6
+Source: Whisky 1
+Center: X=-2015004.8 Y=58.3 Z=247099.8
+
+  1. X=-2015534 Y=16 Z=247458
+  2. X=-2015451 Y=64 Z=247609
+  3. X=-2014970 Y=64 Z=246772
+  4. X=-2014551 Y=67 Z=247027
+  5. X=-2014523 Y=75 Z=246733
+  6. X=-2015000 Y=64 Z=247000
+
+Base 36
+------
+Dimension: unknown
+Sub-bases: 1
+Center: X=-2014934.5 Y=250 Z=246421.5
+
+  1. X=-2014934.5 Y=250 Z=246421.5
+
+Base 37
+------
+Dimension: world
+Sub-bases: 2
+Center: X=-9392 Y=30.5 Z=1904517.5
+
+  1. X=-9264 Y=-26 Z=1904686
+  2. X=-9520 Y=87 Z=1904349
+
+Base 38
+------
+Dimension: world
+Sub-bases: 7
+Center: X=1863980.4 Y=-45.3 Z=-3332
+
+  1. X=1864019 Y=-51 Z=-3689
+  2. X=1864002 Y=-52 Z=-3861
+  3. X=1864001 Y=-12 Z=-3000
+  4. X=1863997 Y=-48 Z=-3590
+  5. X=1863991 Y=-55 Z=-2884
+  6. X=1863987 Y=-46 Z=-3418
+  7. X=1863866 Y=-53 Z=-2882
+
+Base 39
+------
+Dimension: world
+Sub-bases: 6
+Center: X=-1732856.2 Y=29.3 Z=242660.2
+
+  1. X=-1732988 Y=-4 Z=242604
+  2. X=-1732943 Y=71 Z=242858
+  3. X=-1732977 Y=-46 Z=242502
+  4. X=-1732884 Y=70 Z=242652
+  5. X=-1732769 Y=-23 Z=242728
+  6. X=-1732576 Y=108 Z=242617
+
+Base 40
+------
+Dimension: world
+Sub-bases: 11
+Center: X=569221.4 Y=-9.9 Z=-1608644
+
+  1. X=569456 Y=-59 Z=-1608946
+  2. X=569011 Y=-18 Z=-1609068
+  3. X=568865 Y=72 Z=-1608912
+  4. X=569027 Y=-59 Z=-1608850
+  5. X=569152 Y=-17 Z=-1608798
+  6. X=569200 Y=75 Z=-1608641
+  7. X=569032 Y=-60 Z=-1608658
+  8. X=569641 Y=2 Z=-1608433
+  9. X=569557 Y=3 Z=-1608348
+  10. X=569372 Y=-6 Z=-1608375
+  11. X=569122 Y=-42 Z=-1608055
+
+Base 41
+------
+Dimension: world
+Sub-bases: 2
+Center: X=570833.5 Y=-19 Z=-1608225
+
+  1. X=570887 Y=-16 Z=-1608220
+  2. X=570780 Y=-22 Z=-1608230
+
+Base 42
+------
+Dimension: world
+Sub-bases: 1
+Center: X=1527362 Y=-37 Z=342606
+
+  1. X=1527362 Y=-37 Z=342606
+
+Base 43
+------
+Dimension: world
+Sub-bases: 1
+Center: X=-284127 Y=-7 Z=1419011
+
+  1. X=-284127 Y=-7 Z=1419011
+
+Base 44
+------
+Dimension: world
+Sub-bases: 2
+Center: X=1416833 Y=-58 Z=1715.5
+
+  1. X=1416876 Y=-58 Z=1599
+  2. X=1416790 Y=-58 Z=1832
+
+Base 45
+------
+Dimension: world
+Sub-bases: 1
+Center: X=-488 Y=65 Z=-1373152
+
+  1. X=-488 Y=65 Z=-1373152
+
+Base 46
+------
+Dimension: world
+Sub-bases: 4
+Center: X=-44182.2 Y=-8.5 Z=1371165.8
+
+  1. X=-44150 Y=-55 Z=1371352
+  2. X=-44212 Y=7 Z=1371204
+  3. X=-44214 Y=68 Z=1371102
+  4. X=-44153 Y=-54 Z=1371005
+
+Base 47
+------
+Dimension: world
+Sub-bases: 2
+Center: X=-44158.5 Y=-44 Z=1369877.5
+
+  1. X=-44210 Y=-38 Z=1369884
+  2. X=-44107 Y=-50 Z=1369871
+
+Base 48
+------
+Dimension: world
+Sub-bases: 1
+Center: X=-1332604 Y=-53 Z=-119497
+
+  1. X=-1332604 Y=-53 Z=-119497
+
+Base 49
+------
+Dimension: world
+Sub-bases: 1
+Center: X=-30470 Y=-26 Z=1287261
+
+  1. X=-30470 Y=-26 Z=1287261
+
+Base 50
+------
+Dimension: world
+Sub-bases: 3
+Center: X=1128602 Y=78.7 Z=594374.3
+
+  1. X=1128536 Y=64 Z=594569
+  2. X=1128709 Y=72 Z=594237
+  3. X=1128561 Y=100 Z=594317
+
+Base 51
+------
+Dimension: world
+Sub-bases: 1
+Center: X=1068943 Y=53 Z=508241
+
+  1. X=1068943 Y=53 Z=508241
+
+Base 52
+------
+Dimension: world
+Sub-bases: 1
+Center: X=-173377 Y=-37 Z=1127296
+
+  1. X=-173377 Y=-37 Z=1127296
+
+Base 53
+------
+Dimension: world
+Sub-bases: 5
+Center: X=-170921.8 Y=-17.6 Z=1127067
+
+  1. X=-170741 Y=-5 Z=1127299
+  2. X=-170882 Y=-29 Z=1127153
+  3. X=-171352 Y=-12 Z=1126938
+  4. X=-170726 Y=-42 Z=1127002
+  5. X=-170908 Y=0 Z=1126943
+
+Base 54
+------
+Dimension: world
+Sub-bases: 1
+Center: X=18108 Y=63 Z=-1095535
+
+  1. X=18108 Y=63 Z=-1095535
+
+Base 55
+------
+Dimension: world
+Sub-bases: 1
+Center: X=-121185 Y=-44 Z=-1023164
+
+  1. X=-121185 Y=-44 Z=-1023164
+
+Base 56
+------
+Dimension: world
+Sub-bases: 6
+Center: X=-114122.2 Y=-32.5 Z=-1016723.5
+
+  1. X=-113538 Y=-33 Z=-1017323
+  2. X=-114120 Y=-53 Z=-1017062
+  3. X=-113059 Y=-52 Z=-1017136
+  4. X=-114665 Y=-12 Z=-1016446
+  5. X=-114872 Y=-36 Z=-1016391
+  6. X=-114479 Y=-9 Z=-1015983
+
+Base 57
+------
+Dimension: world
+Sub-bases: 2
+Center: X=-113441.5 Y=-5 Z=-1015767.5
+
+  1. X=-113430 Y=6 Z=-1015831
+  2. X=-113453 Y=-16 Z=-1015704
+
+Base 58
+------
+Dimension: world
+Sub-bases: 2
+Center: X=-114225.5 Y=-5 Z=-1014551.5
+
+  1. X=-114438 Y=3 Z=-1014791
+  2. X=-114013 Y=-13 Z=-1014312
+
+Base 59
+------
+Dimension: world
+Sub-bases: 1
+Center: X=1012431 Y=-25 Z=21040
+
+  1. X=1012431 Y=-25 Z=21040
+
+Base 60
+------
+Dimension: world
+Sub-bases: 1
+Center: X=121 Y=-29 Z=-1000110
+
+  1. X=121 Y=-29 Z=-1000110
+
+Base 61
+------
+Dimension: world
+Sub-bases: 5
+Center: X=9476.2 Y=-9.2 Z=992398.6
+
+  1. X=9448 Y=-17 Z=992812
+  2. X=9687 Y=-33 Z=992587
+  3. X=9697 Y=-38 Z=992427
+  4. X=9369 Y=70 Z=992126
+  5. X=9180 Y=-28 Z=992041
+
+Base 62
+------
+Dimension: world_nether
+Sub-bases: 6
+Center: X=382170.3 Y=16 Z=904741.3
+
+  1. X=382621 Y=13 Z=905223
+  2. X=382550 Y=20 Z=905021
+  3. X=381785 Y=16 Z=904975
+  4. X=382004 Y=18 Z=904748
+  5. X=382147 Y=16 Z=904332
+  6. X=381915 Y=13 Z=904149
+
+Base 63
+------
+Dimension: world_nether
+Sub-bases: 1
+Center: X=249816 Y=35 Z=905403
+
+  1. X=249816 Y=35 Z=905403
+
+Base 64
+------
+Dimension: world
+Sub-bases: 2
+Center: X=12838.5 Y=-29 Z=-905450
+
+  1. X=12842 Y=-38 Z=-905527
+  2. X=12835 Y=-20 Z=-905373
+
+Base 65
+------
+Dimension: world
+Sub-bases: 1
+Center: X=-85220 Y=74 Z=-887357
+
+  1. X=-85220 Y=74 Z=-887357
+
+Base 66
+------
+Dimension: world
+Sub-bases: 2
+Center: X=241891.5 Y=-36 Z=857958.5
+
+  1. X=241819 Y=-55 Z=857995
+  2. X=241964 Y=-17 Z=857922
+
+Base 67
+------
+Dimension: world
+Sub-bases: 8
+Center: X=-207122.1 Y=-47.4 Z=831377
+
+  1. X=-207259 Y=-58 Z=831631
+  2. X=-206911 Y=-30 Z=831678
+  3. X=-207406 Y=-55 Z=831410
+  4. X=-206896 Y=-57 Z=831462
+  5. X=-206942 Y=-55 Z=831328
+  6. X=-207295 Y=-48 Z=831168
+  7. X=-207193 Y=-21 Z=831171
+  8. X=-207075 Y=-55 Z=831168
+
+Base 68
+------
+Dimension: world
+Sub-bases: 1
+Center: X=-205879 Y=-36 Z=831501
+
+  1. X=-205879 Y=-36 Z=831501
+
+Base 69
+------
+Dimension: world
+Sub-bases: 3
+Center: X=-36329.7 Y=23.7 Z=-837636.7
+
+  1. X=-36041 Y=134 Z=-837760
+  2. X=-36174 Y=-24 Z=-837668
+  3. X=-36774 Y=-39 Z=-837482
+
+Base 70
+------
+Dimension: world
+Sub-bases: 1
+Center: X=42601 Y=61 Z=834377
+
+  1. X=42601 Y=61 Z=834377
+
+Base 71
+------
+Dimension: world
+Sub-bases: 1
+Center: X=14444 Y=67 Z=-807840
+
+  1. X=14444 Y=67 Z=-807840
+
+Base 72
+------
+Dimension: world
+Sub-bases: 2
+Center: X=-92006.5 Y=21 Z=-802059.5
+
+  1. X=-91973 Y=71 Z=-802111
+  2. X=-92040 Y=-29 Z=-802008
+
+Base 73
+------
+Dimension: world
+Sub-bases: 1
+Center: X=11235 Y=-60 Z=-805375
+
+  1. X=11235 Y=-60 Z=-805375
+
+Base 74
+------
+Dimension: world
+Sub-bases: 1
+Center: X=13534 Y=-57 Z=-802297
+
+  1. X=13534 Y=-57 Z=-802297
+
+Base 75
+------
+Dimension: world
+Sub-bases: 2
+Center: X=14370.5 Y=-54 Z=-800925
+
+  1. X=14364 Y=-50 Z=-800991
+  2. X=14377 Y=-58 Z=-800859
+
+Base 76
+------
+Dimension: world
+Sub-bases: 1
+Center: X=-933 Y=-57 Z=-800742
+
+  1. X=-933 Y=-57 Z=-800742
+
+Base 77
+------
+Dimension: world
+Sub-bases: 2
+Center: X=73.5 Y=-11 Z=-800274
+
+  1. X=67 Y=-27 Z=-800326
+  2. X=80 Y=5 Z=-800222
+
+Base 78
+------
+Dimension: world
+Sub-bases: 1
+Center: X=800114 Y=-31 Z=-2245
+
+  1. X=800114 Y=-31 Z=-2245
+
+Base 79
+------
+Dimension: world
+Sub-bases: 3
+Center: X=17258 Y=87 Z=-799683
+
+  1. X=17372 Y=117 Z=-799830
+  2. X=17238 Y=63 Z=-799827
+  3. X=17164 Y=81 Z=-799392
+
+Base 80
+------
+Dimension: world
+Sub-bases: 4
+Center: X=-494.2 Y=-43.5 Z=-798976.5
+
+  1. X=-503 Y=-47 Z=-799152
+  2. X=-502 Y=-16 Z=-799042
+  3. X=-486 Y=-54 Z=-798934
+  4. X=-486 Y=-57 Z=-798778
+
+Base 81
+------
+Dimension: world
+Sub-bases: 1
+Center: X=-37306 Y=-61 Z=-783313
+
+  1. X=-37306 Y=-61 Z=-783313
+
+Base 82
+------
+Dimension: world
+Sub-bases: 3
+Center: X=-32063.7 Y=10 Z=-779079.7
+
+  1. X=-31791 Y=26 Z=-779260
+  2. X=-32192 Y=46 Z=-779048
+  3. X=-32208 Y=-42 Z=-778931
+
+Base 83
+------
+Dimension: world
+Sub-bases: 1
+Center: X=-30682 Y=-20 Z=-777444
+
+  1. X=-30682 Y=-20 Z=-777444
+
+Base 84
+------
+Dimension: world
+Sub-bases: 1
+Center: X=-83387 Y=-26 Z=-766289
+
+  1. X=-83387 Y=-26 Z=-766289
+
+Base 85
+------
+Dimension: world_nether
+Sub-bases: 1
+Center: X=218797 Y=13 Z=-717745
+
+  1. X=218797 Y=13 Z=-717745
+
+Base 86
+------
+Dimension: world
+Sub-bases: 1
+Center: X=58930 Y=-40 Z=738076
+
+  1. X=58930 Y=-40 Z=738076
+
+Base 87
+------
+Dimension: world
+Sub-bases: 1
+Center: X=-49 Y=13 Z=-719907
+
+  1. X=-49 Y=13 Z=-719907
+
+Base 88
+------
+Dimension: world
+Sub-bases: 1
+Center: X=712698 Y=-48 Z=5803
+
+  1. X=712698 Y=-48 Z=5803
+
+Base 89
+------
+Dimension: world
+Sub-bases: 1
+Center: X=59323 Y=65 Z=698179
+
+  1. X=59323 Y=65 Z=698179
+
+Base 90
+------
+Dimension: world
+Sub-bases: 4
+Center: X=26714.8 Y=-36.8 Z=671686.2
+
+  1. X=27462 Y=-7 Z=671783
+  2. X=26437 Y=-31 Z=671757
+  3. X=26528 Y=-50 Z=671715
+  4. X=26432 Y=-59 Z=671490
+
+Base 91
+------
+Dimension: world
+Sub-bases: 1
+Center: X=-23 Y=-17 Z=638563
+
+  1. X=-23 Y=-17 Z=638563
+
+Base 92
+------
+Dimension: world_nether
+Sub-bases: 1
+Center: X=631301 Y=80 Z=54
+
+  1. X=631301 Y=80 Z=54
+
+Base 93
+------
+Dimension: world_nether
+Sub-bases: 1
+Center: X=630713 Y=16 Z=3647
+
+  1. X=630713 Y=16 Z=3647
+
+Base 94
+------
+Dimension: world
+Sub-bases: 3
+Center: X=-442304.3 Y=-59 Z=437030.3
+
+  1. X=-442302 Y=-59 Z=437186
+  2. X=-442304 Y=-59 Z=437033
+  3. X=-442307 Y=-59 Z=436872
+
+Base 95
+------
+Dimension: world
+Sub-bases: 4
+Center: X=-610662.2 Y=45.5 Z=100586
+
+  1. X=-611374 Y=-53 Z=100579
+  2. X=-610544 Y=-53 Z=100579
+  3. X=-610390 Y=119 Z=100681
+  4. X=-610341 Y=169 Z=100505
+
+Base 96
+------
+Dimension: world
+Sub-bases: 1
+Center: X=-256565 Y=-8 Z=559463
+
+  1. X=-256565 Y=-8 Z=559463
+
+Base 97
+------
+Dimension: world
+Sub-bases: 11
+Center: X=-251619.3 Y=-5.8 Z=559740.4
+
+  1. X=-251612 Y=-9 Z=560645
+  2. X=-251144 Y=-20 Z=560745
+  3. X=-251709 Y=-22 Z=559872
+  4. X=-251655 Y=139 Z=559709
+  5. X=-251297 Y=-7 Z=559830
+  6. X=-251530 Y=-14 Z=559711
+  7. X=-251851 Y=-55 Z=559493
+  8. X=-251748 Y=-14 Z=559419
+  9. X=-251667 Y=-36 Z=559319
+  10. X=-251857 Y=-14 Z=559198
+  11. X=-251742 Y=-12 Z=559203
+
+Base 98
+------
+Dimension: world
+Sub-bases: 2
+Center: X=-253119 Y=-8 Z=559819
+
+  1. X=-253055 Y=-7 Z=559957
+  2. X=-253183 Y=-9 Z=559681
+
+Base 99
+------
+Dimension: world
+Sub-bases: 1
+Center: X=-249457 Y=-34 Z=555812
+
+  1. X=-249457 Y=-34 Z=555812
+
+Base 100
+------
+Dimension: world
+Sub-bases: 2
+Center: X=-408968.5 Y=-33.5 Z=-448060
+
+  1. X=-408921 Y=-25 Z=-448107
+  2. X=-409016 Y=-42 Z=-448013
+
+Base 101
+------
+Dimension: world
+Sub-bases: 1
+Center: X=-408390 Y=-33 Z=-446356
+
+  1. X=-408390 Y=-33 Z=-446356
+
+Base 102
+------
+Dimension: world
+Sub-bases: 3
+Center: X=-410941 Y=-52.3 Z=-404124.7
+
+  1. X=-410950 Y=-51 Z=-404245
+  2. X=-410929 Y=-54 Z=-404133
+  3. X=-410944 Y=-52 Z=-403996
+
+Base 103
+------
+Dimension: world
+Sub-bases: 1
+Center: X=6132 Y=65 Z=-572115
+
+  1. X=6132 Y=65 Z=-572115
+
+Base 104
+------
+Dimension: world
+Sub-bases: 1
+Center: X=-1464 Y=-8 Z=566578
+
+  1. X=-1464 Y=-8 Z=566578
+
+Base 105
+------
+Dimension: world
+Sub-bases: 1
+Center: X=969 Y=65 Z=-566285
+
+  1. X=969 Y=65 Z=-566285
+
+Base 106
+------
+Dimension: world
+Sub-bases: 2
+Center: X=78094 Y=-44.5 Z=538174.5
+
+  1. X=77851 Y=-53 Z=538361
+  2. X=78337 Y=-36 Z=537988
+
+Base 107
+------
+Dimension: world
+Sub-bases: 4
+Center: X=22209.8 Y=-45.8 Z=-513857
+
+  1. X=21830 Y=-29 Z=-514608
+  2. X=22387 Y=-41 Z=-513860
+  3. X=22311 Y=-57 Z=-513539
+  4. X=22311 Y=-56 Z=-513421
+
+Base 108
+------
+Dimension: world
+Sub-bases: 1
+Center: X=2259 Y=-49 Z=-482901
+
+  1. X=2259 Y=-49 Z=-482901
+
+Base 109
+------
+Dimension: world
+Sub-bases: 1
+Center: X=481185 Y=-15 Z=16381
+
+  1. X=481185 Y=-15 Z=16381
+
+Base 110
+------
+Dimension: world
+Sub-bases: 1
+Center: X=1870 Y=65 Z=-480641
+
+  1. X=1870 Y=65 Z=-480641
+
+Base 111
+------
+Dimension: world
+Sub-bases: 2
+Center: X=480174.5 Y=-27 Z=70.5
+
+  1. X=480226 Y=-27 Z=72
+  2. X=480123 Y=-27 Z=69
+
+Base 112
+------
+Dimension: world
+Sub-bases: 5
+Center: X=67823 Y=-19.8 Z=458460.4
+
+  1. X=67822 Y=-5 Z=458703
+  2. X=67878 Y=-42 Z=458601
+  3. X=67758 Y=-19 Z=458574
+  4. X=67240 Y=-26 Z=458484
+  5. X=68417 Y=-7 Z=457940
+
+Base 113
+------
+Dimension: world
+Sub-bases: 4
+Center: X=409382.2 Y=-28.8 Z=211127.5
+
+  1. X=409567 Y=-16 Z=211166
+  2. X=409460 Y=-46 Z=211233
+  3. X=409447 Y=-25 Z=211094
+  4. X=409055 Y=-28 Z=211017
+
+Base 114
+------
+Dimension: world
+Sub-bases: 1
+Center: X=407393 Y=69 Z=209299
+
+  1. X=407393 Y=69 Z=209299
+
+Base 115
+------
+Dimension: world
+Sub-bases: 1
+Center: X=405043 Y=64 Z=207965
+
+  1. X=405043 Y=64 Z=207965
+
+Base 116
+------
+Dimension: world
+Sub-bases: 1
+Center: X=-438107 Y=102 Z=86587
+
+  1. X=-438107 Y=102 Z=86587
+
+Base 117
+------
+Dimension: world_nether
+Sub-bases: 1
+Center: X=-116 Y=43 Z=437734
+
+  1. X=-116 Y=43 Z=437734
+
+Base 118
+------
+Dimension: world
+Sub-bases: 3
+Center: X=7601.7 Y=-19.7 Z=433353.3
+
+  1. X=7687 Y=-18 Z=433551
+  2. X=7686 Y=-26 Z=433255
+  3. X=7432 Y=-15 Z=433254
+
+Base 119
+------
+Dimension: world
+Sub-bases: 7
+Center: X=62167.4 Y=-29.3 Z=427304.9
+
+  1. X=62256 Y=-52 Z=427416
+  2. X=62132 Y=-37 Z=427423
+  3. X=62032 Y=-5 Z=427342
+  4. X=62130 Y=-5 Z=427306
+  5. X=62256 Y=-49 Z=427284
+  6. X=62256 Y=-53 Z=427181
+  7. X=62110 Y=-4 Z=427182
+
+Base 120
+------
+Dimension: world
+Sub-bases: 5
+Center: X=319295.4 Y=-28 Z=280605.4
+
+  1. X=319859 Y=-29 Z=281294
+  2. X=319588 Y=-39 Z=280527
+  3. X=319294 Y=-5 Z=280413
+  4. X=319186 Y=-25 Z=280299
+  5. X=318550 Y=-42 Z=280494
+
+Base 121
+------
+Dimension: world
+Sub-bases: 2
+Center: X=317384.5 Y=-2.5 Z=281115.5
+
+  1. X=317419 Y=-12 Z=281152
+  2. X=317350 Y=7 Z=281079
+
+Base 122
+------
+Dimension: world_nether
+Sub-bases: 3
+Center: X=-218019 Y=38.7 Z=-361975.3
+
+  1. X=-218094 Y=21 Z=-362013
+  2. X=-217984 Y=80 Z=-362061
+  3. X=-217979 Y=15 Z=-361852
+
+Base 123
+------
+Dimension: world
+Sub-bases: 1
+Center: X=318022 Y=-23 Z=278302
+
+  1. X=318022 Y=-23 Z=278302
+
+Base 124
+------
+Dimension: world
+Sub-bases: 1
+Center: X=57112 Y=64 Z=-418557
+
+  1. X=57112 Y=64 Z=-418557
+
+Base 125
+------
+Dimension: world_nether
+Sub-bases: 2
+Center: X=4234.5 Y=56 Z=-420725.5
+
+  1. X=3932 Y=94 Z=-420857
+  2. X=4537 Y=18 Z=-420594
+
+Base 126
+------
+Dimension: world
+Sub-bases: 1
+Center: X=32538 Y=-34 Z=-411848
+
+  1. X=32538 Y=-34 Z=-411848
+
+Base 127
+------
+Dimension: world
+Sub-bases: 1
+Center: X=314210 Y=11 Z=-262387
+
+  1. X=314210 Y=11 Z=-262387
+
+Base 128
+------
+Dimension: world
+Sub-bases: 1
+Center: X=755 Y=-43 Z=-399881
+
+  1. X=755 Y=-43 Z=-399881
+
+Base 129
+------
+Dimension: world
+Sub-bases: 4
+Center: X=289339 Y=-31 Z=-266068.8
+
+  1. X=289383 Y=-20 Z=-266301
+  2. X=289371 Y=-23 Z=-266058
+  3. X=289277 Y=-39 Z=-266017
+  4. X=289325 Y=-42 Z=-265899
+
+Base 130
+------
+Dimension: world
+Sub-bases: 2
+Center: X=-198504.5 Y=-31.5 Z=335853
+
+  1. X=-198587 Y=-18 Z=335895
+  2. X=-198422 Y=-45 Z=335811
+
+Base 131
+------
+Dimension: world
+Sub-bases: 5
+Center: X=-197757 Y=-22.6 Z=334713
+
+  1. X=-197390 Y=-6 Z=335157
+  2. X=-197511 Y=-27 Z=335078
+  3. X=-198133 Y=-23 Z=334465
+  4. X=-197940 Y=-24 Z=334405
+  5. X=-197811 Y=-33 Z=334460
+
+Base 132
+------
+Dimension: world
+Sub-bases: 2
+Center: X=21147.5 Y=-29 Z=-385212.5
+
+  1. X=21075 Y=-30 Z=-385259
+  2. X=21220 Y=-28 Z=-385166
+
+Base 133
+------
+Dimension: world
+Sub-bases: 2
+Source: Goth Mapforgers
+Center: X=352417.5 Y=62 Z=-130040
+
+  1. X=352335 Y=60 Z=-130080
+  2. X=352500 Y=64 Z=-130000
+
+Base 134
+------
+Dimension: world
+Sub-bases: 1
+Center: X=351418 Y=-47 Z=-128518
+
+  1. X=351418 Y=-47 Z=-128518
+
+Base 135
+------
+Dimension: world
+Sub-bases: 1
+Center: X=363658 Y=72 Z=-12775
+
+  1. X=363658 Y=72 Z=-12775
+
+Base 136
+------
+Dimension: world
+Sub-bases: 2
+Center: X=363096 Y=104 Z=-11479
+
+  1. X=363173 Y=91 Z=-11474
+  2. X=363019 Y=117 Z=-11484
+
+Base 137
+------
+Dimension: world
+Sub-bases: 1
+Center: X=12158 Y=-58 Z=354296
+
+  1. X=12158 Y=-58 Z=354296
+
+Base 138
+------
+Dimension: world_nether
+Sub-bases: 1
+Center: X=-136750 Y=39 Z=325674
+
+  1. X=-136750 Y=39 Z=325674
+
+Base 139
+------
+Dimension: world
+Sub-bases: 2
+Center: X=-191444 Y=21 Z=-293981
+
+  1. X=-191444 Y=31 Z=-294138
+  2. X=-191444 Y=11 Z=-293824
+
+Base 140
+------
+Dimension: world
+Sub-bases: 1
+Center: X=349715 Y=78 Z=-1266
+
+  1. X=349715 Y=78 Z=-1266
+
+Base 141
+------
+Dimension: world
+Sub-bases: 3
+Center: X=-190420.3 Y=69.3 Z=-292704
+
+  1. X=-190453 Y=66 Z=-292895
+  2. X=-189952 Y=79 Z=-293008
+  3. X=-190856 Y=63 Z=-292209
+
+Base 142
+------
+Dimension: world
+Sub-bases: 1
+Center: X=349192 Y=-13 Z=-52
+
+  1. X=349192 Y=-13 Z=-52
+
+Base 143
+------
+Dimension: world
+Sub-bases: 3
+Center: X=3645.7 Y=-50 Z=-329270.3
+
+  1. X=3579 Y=-45 Z=-329372
+  2. X=3638 Y=-54 Z=-329254
+  3. X=3720 Y=-51 Z=-329185
+
+Base 144
+------
+Dimension: world_nether
+Sub-bases: 1
+Center: X=-325755 Y=14 Z=25408
+
+  1. X=-325755 Y=14 Z=25408
+
+Base 145
+------
+Dimension: world
+Sub-bases: 1
+Center: X=315637 Y=-52 Z=72296
+
+  1. X=315637 Y=-52 Z=72296
+
+Base 146
+------
+Dimension: world
+Sub-bases: 1
+Center: X=1240 Y=-28 Z=-302491
+
+  1. X=1240 Y=-28 Z=-302491
+
+Base 147
+------
+Dimension: world
+Sub-bases: 1
+Center: X=-90 Y=-36 Z=-302449
+
+  1. X=-90 Y=-36 Z=-302449
+
+Base 148
+------
+Dimension: world
+Sub-bases: 2
+Center: X=-5700.5 Y=-19.5 Z=-298554
+
+  1. X=-5650 Y=4 Z=-298592
+  2. X=-5751 Y=-43 Z=-298516
+
+Base 149
+------
+Dimension: world
+Sub-bases: 4
+Center: X=-3151 Y=-23.5 Z=-298165.5
+
+  1. X=-3108 Y=-23 Z=-298629
+  2. X=-2990 Y=-46 Z=-298559
+  3. X=-3199 Y=-9 Z=-297801
+  4. X=-3307 Y=-16 Z=-297673
+
+Base 150
+------
+Dimension: world
+Sub-bases: 1
+Center: X=-1333 Y=-16 Z=-298212
+
+  1. X=-1333 Y=-16 Z=-298212
+
+Base 151
+------
+Dimension: world
+Sub-bases: 1
+Center: X=-1926 Y=-19 Z=-292452
+
+  1. X=-1926 Y=-19 Z=-292452
+
+Base 152
+------
+Dimension: world
+Sub-bases: 3
+Center: X=-514.7 Y=-34 Z=289420.3
+
+  1. X=-354 Y=-54 Z=289658
+  2. X=-943 Y=-11 Z=289337
+  3. X=-247 Y=-37 Z=289266
+
+Base 153
+------
+Dimension: world
+Sub-bases: 1
+Center: X=179490 Y=5 Z=221236
+
+  1. X=179490 Y=5 Z=221236
+
+Base 154
+------
+Dimension: world
+Sub-bases: 1
+Center: X=-1586 Y=-20 Z=-284622
+
+  1. X=-1586 Y=-20 Z=-284622
+
+Base 155
+------
+Dimension: world
+Sub-bases: 9
+Center: X=325.4 Y=-26.2 Z=-283712.9
+
+  1. X=31 Y=-42 Z=-284264
+  2. X=-13 Y=-60 Z=-283859
+  3. X=-25 Y=4 Z=-283675
+  4. X=-301 Y=133 Z=-283665
+  5. X=-163 Y=-48 Z=-283655
+  6. X=1251 Y=-54 Z=-283581
+  7. X=734 Y=-58 Z=-283575
+  8. X=1112 Y=-56 Z=-283570
+  9. X=303 Y=-55 Z=-283572
+
+Base 156
+------
+Dimension: world
+Sub-bases: 1
+Center: X=-396 Y=-44 Z=-281166
+
+  1. X=-396 Y=-44 Z=-281166
+
+Base 157
+------
+Dimension: world
+Sub-bases: 1
+Center: X=274429 Y=-35 Z=-1848
+
+  1. X=274429 Y=-35 Z=-1848
+
+Base 158
+------
+Dimension: world_nether
+Sub-bases: 1
+Center: X=19275 Y=15 Z=-262665
+
+  1. X=19275 Y=15 Z=-262665
+
+Base 159
+------
+Dimension: world_nether
+Sub-bases: 2
+Center: X=13607.5 Y=15 Z=-262098
+
+  1. X=13816 Y=16 Z=-262129
+  2. X=13399 Y=14 Z=-262067
+
+Base 160
+------
+Dimension: world
+Sub-bases: 1
+Center: X=-91995 Y=-11 Z=-240166
+
+  1. X=-91995 Y=-11 Z=-240166
+
+Base 161
+------
+Dimension: world
+Sub-bases: 1
+Center: X=529 Y=-28 Z=255764
+
+  1. X=529 Y=-28 Z=255764
+
+Base 162
+------
+Dimension: world_nether
+Sub-bases: 1
+Center: X=-250095 Y=78 Z=51563
+
+  1. X=-250095 Y=78 Z=51563
+
+Base 163
+------
+Dimension: world
+Sub-bases: 1
+Center: X=233289 Y=-31 Z=94248
+
+  1. X=233289 Y=-31 Z=94248
+
+Base 164
+------
+Dimension: world
+Sub-bases: 2
+Center: X=-38985.5 Y=22.5 Z=-245959.5
+
+  1. X=-39024 Y=34 Z=-246093
+  2. X=-38947 Y=11 Z=-245826
+
+Base 165
+------
+Dimension: world_nether
+Sub-bases: 1
+Center: X=-241679 Y=73 Z=45142
+
+  1. X=-241679 Y=73 Z=45142
+
+Base 166
+------
+Dimension: world_nether
+Sub-bases: 1
+Center: X=-236137 Y=47 Z=41693
+
+  1. X=-236137 Y=47 Z=41693
+
+Base 167
+------
+Dimension: world
+Sub-bases: 1
+Center: X=-234810 Y=96 Z=-17642
+
+  1. X=-234810 Y=96 Z=-17642
+
+Base 168
+------
+Dimension: world
+Sub-bases: 8
+Center: X=-219655.6 Y=-19.8 Z=-62278.1
+
+  1. X=-220415 Y=-54 Z=-63065
+  2. X=-220048 Y=-27 Z=-62567
+  3. X=-219945 Y=-33 Z=-62510
+  4. X=-219807 Y=-32 Z=-62528
+  5. X=-219212 Y=8 Z=-62376
+  6. X=-219112 Y=43 Z=-62460
+  7. X=-219395 Y=-29 Z=-61409
+  8. X=-219311 Y=-34 Z=-61310
+
+Base 169
+------
+Dimension: world
+Sub-bases: 7
+Center: X=-143365.9 Y=-21.9 Z=-178369.7
+
+  1. X=-143396 Y=66 Z=-178564
+  2. X=-143283 Y=-13 Z=-178584
+  3. X=-143099 Y=-45 Z=-178640
+  4. X=-143567 Y=-41 Z=-178263
+  5. X=-143432 Y=-51 Z=-178259
+  6. X=-143530 Y=-38 Z=-178163
+  7. X=-143254 Y=-31 Z=-178115
+
+Base 170
+------
+Dimension: world
+Sub-bases: 4
+Center: X=-1419 Y=-23 Z=223414.8
+
+  1. X=-1310 Y=-15 Z=223477
+  2. X=-1430 Y=-54 Z=223471
+  3. X=-1575 Y=-29 Z=223372
+  4. X=-1361 Y=6 Z=223339
+
+Base 171
+------
+Dimension: world
+Sub-bases: 1
+Center: X=-13184 Y=-45 Z=219309
+
+  1. X=-13184 Y=-45 Z=219309
+
+Base 172
+------
+Dimension: world_nether
+Sub-bases: 4
+Center: X=-216737 Y=29.2 Z=30330
+
+  1. X=-216876 Y=17 Z=30264
+  2. X=-216799 Y=17 Z=30187
+  3. X=-216674 Y=13 Z=30301
+  4. X=-216599 Y=70 Z=30568
+
+Base 173
+------
+Dimension: world_nether
+Sub-bases: 6
+Center: X=71164.5 Y=31.2 Z=-201423.3
+
+  1. X=71390 Y=12 Z=-201696
+  2. X=71270 Y=11 Z=-201703
+  3. X=71010 Y=14 Z=-201697
+  4. X=71131 Y=18 Z=-201190
+  5. X=71029 Y=17 Z=-201183
+  6. X=71157 Y=115 Z=-201071
+
+Base 174
+------
+Dimension: world
+Sub-bases: 3
+Center: X=-506.3 Y=-56.3 Z=212424
+
+  1. X=-529 Y=-54 Z=212628
+  2. X=-495 Y=-56 Z=212416
+  3. X=-495 Y=-59 Z=212228
+
+Base 175
+------
+Dimension: world
+Sub-bases: 1
+Center: X=210667 Y=-7 Z=9183
+
+  1. X=210667 Y=-7 Z=9183
+
+Base 176
+------
+Dimension: world
+Sub-bases: 2
+Source: Neomess
+Center: X=-191126 Y=24 Z=88989.5
+
+  1. X=-191068 Y=-16 Z=88979
+  2. X=-191184 Y=64 Z=89000
+
+Base 177
+------
+Dimension: world
+Sub-bases: 1
+Center: X=209311 Y=-15 Z=4702
+
+  1. X=209311 Y=-15 Z=4702
+
+Base 178
+------
+Dimension: world
+Sub-bases: 1
+Center: X=152033 Y=-61 Z=-143840
+
+  1. X=152033 Y=-61 Z=-143840
+
+Base 179
+------
+Dimension: world
+Sub-bases: 5
+Center: X=3292.4 Y=-40.4 Z=208472.2
+
+  1. X=3269 Y=-48 Z=208753
+  2. X=3629 Y=-34 Z=208455
+  3. X=3419 Y=-49 Z=208428
+  4. X=3091 Y=-18 Z=208432
+  5. X=3054 Y=-53 Z=208293
+
+Base 180
+------
+Dimension: world
+Sub-bases: 1
+Center: X=-100 Y=-59 Z=-207522
+
+  1. X=-100 Y=-59 Z=-207522
+
+Base 181
+------
+Dimension: world
+Sub-bases: 1
+Center: X=206402 Y=67 Z=-11510
+
+  1. X=206402 Y=67 Z=-11510
+
+Base 182
+------
+Dimension: world
+Sub-bases: 1
+Center: X=204509 Y=-45 Z=13849
+
+  1. X=204509 Y=-45 Z=13849
+
+Base 183
+------
+Dimension: world
+Sub-bases: 1
+Center: X=-163978 Y=-6 Z=-119300
+
+  1. X=-163978 Y=-6 Z=-119300
+
+Base 184
+------
+Dimension: world
+Sub-bases: 5
+Center: X=-22401 Y=-26.2 Z=201181.8
+
+  1. X=-22186 Y=-36 Z=201315
+  2. X=-22264 Y=-12 Z=201230
+  3. X=-22433 Y=-27 Z=201193
+  4. X=-22509 Y=-43 Z=201103
+  5. X=-22613 Y=-13 Z=201068
+
+Base 185
+------
+Dimension: world
+Sub-bases: 2
+Center: X=-25233.5 Y=-32.5 Z=-199806.5
+
+  1. X=-25287 Y=-51 Z=-199802
+  2. X=-25180 Y=-14 Z=-199811
+
+Base 186
+------
+Dimension: world
+Sub-bases: 1
+Center: X=-75150 Y=0 Z=186692
+
+  1. X=-75150 Y=0 Z=186692
+
+Base 187
+------
+Dimension: world
+Sub-bases: 3
+Center: X=158877 Y=-52.3 Z=121927.3
+
+  1. X=158860 Y=-52 Z=122074
+  2. X=158886 Y=-52 Z=121921
+  3. X=158885 Y=-53 Z=121787
+
+Base 188
+------
+Dimension: world
+Sub-bases: 1
+Center: X=-75368 Y=-52 Z=185041
+
+  1. X=-75368 Y=-52 Z=185041
+
+Base 189
+------
+Dimension: world
+Sub-bases: 5
+Center: X=134107.8 Y=-40.4 Z=137846.8
+
+  1. X=134176 Y=-54 Z=138228
+  2. X=134196 Y=-35 Z=137910
+  3. X=134175 Y=-50 Z=137786
+  4. X=134074 Y=-28 Z=137743
+  5. X=133918 Y=-35 Z=137567
+
+Base 190
+------
+Dimension: world
+Sub-bases: 1
+Center: X=-375 Y=-7 Z=190083
+
+  1. X=-375 Y=-7 Z=190083
+
+Base 191
+------
+Dimension: world
+Sub-bases: 1
+Center: X=-83388 Y=15 Z=167618
+
+  1. X=-83388 Y=15 Z=167618
+
+Base 192
+------
+Dimension: world
+Sub-bases: 1
+Center: X=157404 Y=-7 Z=80769
+
+  1. X=157404 Y=-7 Z=80769
+
+Base 193
+------
+Dimension: world
+Sub-bases: 1
+Center: X=-141459 Y=-44 Z=-103897
+
+  1. X=-141459 Y=-44 Z=-103897
+
+Base 194
+------
+Dimension: world
+Sub-bases: 3
+Center: X=156826 Y=3 Z=78377
+
+  1. X=156927 Y=-38 Z=78357
+  2. X=156775 Y=-16 Z=78477
+  3. X=156776 Y=63 Z=78297
+
+Base 195
+------
+Dimension: world
+Sub-bases: 1
+Center: X=-153028 Y=73 Z=-76473
+
+  1. X=-153028 Y=73 Z=-76473
+
+Base 196
+------
+Dimension: world
+Sub-bases: 3
+Center: X=-5307.7 Y=-35.7 Z=-170875.7
+
+  1. X=-5572 Y=-56 Z=-170967
+  2. X=-4983 Y=-26 Z=-170861
+  3. X=-5368 Y=-25 Z=-170799
+
+Base 197
+------
+Dimension: world
+Sub-bases: 1
+Center: X=-2923 Y=-52 Z=-170695
+
+  1. X=-2923 Y=-52 Z=-170695
+
+Base 198
+------
+Dimension: world
+Sub-bases: 1
+Center: X=16055 Y=-52 Z=166650
+
+  1. X=16055 Y=-52 Z=166650
+
+Base 199
+------
+Dimension: world
+Sub-bases: 1
+Center: X=14303 Y=-9 Z=165695
+
+  1. X=14303 Y=-9 Z=165695
+
+Base 200
+------
+Dimension: world
+Sub-bases: 10
+Center: X=-130524.2 Y=-32 Z=101629.1
+
+  1. X=-131125 Y=-11 Z=102067
+  2. X=-130540 Y=-21 Z=101778
+  3. X=-130577 Y=-26 Z=101680
+  4. X=-130663 Y=-10 Z=101567
+  5. X=-130520 Y=-52 Z=101588
+  6. X=-130198 Y=-43 Z=101997
+  7. X=-130209 Y=-56 Z=101787
+  8. X=-130467 Y=-29 Z=101427
+  9. X=-130499 Y=-46 Z=101264
+  10. X=-130444 Y=-26 Z=101136
+
+Base 201
+------
+Dimension: world
+Sub-bases: 3
+Center: X=12560.3 Y=-22 Z=165089.7
+
+  1. X=12431 Y=-18 Z=165294
+  2. X=12333 Y=-25 Z=165200
+  3. X=12917 Y=-23 Z=164775
+
+Base 202
+------
+Dimension: world_nether
+Sub-bases: 1
+Center: X=-4377 Y=17 Z=-164690
+
+  1. X=-4377 Y=17 Z=-164690
+
+Base 203
+------
+Dimension: world
+Sub-bases: 1
+Center: X=17364 Y=158 Z=-160130
+
+  1. X=17364 Y=158 Z=-160130
+
+Base 204
+------
+Dimension: world_nether
+Sub-bases: 4
+Center: X=-3850.2 Y=38.5 Z=160718.8
+
+  1. X=-3873 Y=13 Z=161012
+  2. X=-3864 Y=15 Z=160879
+  3. X=-3467 Y=63 Z=160655
+  4. X=-4197 Y=63 Z=160329
+
+Base 205
+------
+Dimension: world
+Sub-bases: 1
+Center: X=160914 Y=-48 Z=748
+
+  1. X=160914 Y=-48 Z=748
+
+Base 206
+------
+Dimension: world
+Sub-bases: 1
+Center: X=-106318 Y=-37 Z=-110098
+
+  1. X=-106318 Y=-37 Z=-110098
+
+Base 207
+------
+Dimension: world
+Sub-bases: 1
+Center: X=137033 Y=-41 Z=-65575
+
+  1. X=137033 Y=-41 Z=-65575
+
+Base 208
+------
+Dimension: world
+Sub-bases: 1
+Center: X=-148488 Y=73 Z=23601
+
+  1. X=-148488 Y=73 Z=23601
+
+Base 209
+------
+Dimension: world
+Sub-bases: 1
+Center: X=139446 Y=-41 Z=-52437
+
+  1. X=139446 Y=-41 Z=-52437
+
+Base 210
+------
+Dimension: world
+Sub-bases: 2
+Center: X=140145 Y=-38 Z=-47885.5
+
+  1. X=140600 Y=-52 Z=-47856
+  2. X=139690 Y=-24 Z=-47915
+
+Base 211
+------
+Dimension: world
+Sub-bases: 4
+Center: X=-108394.5 Y=-3.2 Z=99563.8
+
+  1. X=-108426 Y=-15 Z=99712
+  2. X=-108308 Y=-46 Z=99765
+  3. X=-108387 Y=-19 Z=99604
+  4. X=-108457 Y=67 Z=99174
+
+Base 212
+------
+Dimension: world
+Sub-bases: 1
+Center: X=-104285 Y=-52 Z=-102507
+
+  1. X=-104285 Y=-52 Z=-102507
+
+Base 213
+------
+Dimension: world
+Sub-bases: 1
+Center: X=101115 Y=34 Z=-100095
+
+  1. X=101115 Y=34 Z=-100095
+
+Base 214
+------
+Dimension: unknown
+Sub-bases: 1
+Center: X=139535.7 Y=1156.4 Z=24405.3
+
+  1. X=139535.7 Y=1156.4 Z=24405.3
+
+Base 215
+------
+Dimension: world
+Sub-bases: 3
+Center: X=99907.3 Y=-11 Z=-99973.7
+
+  1. X=100015 Y=64 Z=-100114
+  2. X=99907 Y=-44 Z=-99896
+  3. X=99800 Y=-53 Z=-99911
+
+Base 216
+------
+Dimension: world
+Sub-bases: 1
+Center: X=100496 Y=-1 Z=99630
+
+  1. X=100496 Y=-1 Z=99630
+
+Base 217
+------
+Dimension: world_nether
+Sub-bases: 1
+Center: X=-20572 Y=85 Z=-139484
+
+  1. X=-20572 Y=85 Z=-139484
+
+Base 218
+------
+Dimension: world
+Sub-bases: 1
+Center: X=-78 Y=-22 Z=140306
+
+  1. X=-78 Y=-22 Z=140306
+
+Base 219
+------
+Dimension: world
+Sub-bases: 1
+Center: X=-594 Y=-13 Z=138051
+
+  1. X=-594 Y=-13 Z=138051
+
+Base 220
+------
+Dimension: world
+Sub-bases: 1
+Center: X=116628 Y=-49 Z=60242
+
+  1. X=116628 Y=-49 Z=60242
+
+Base 221
+------
+Dimension: world
+Sub-bases: 4
+Center: X=73504 Y=-29.8 Z=-108513.8
+
+  1. X=73458 Y=-33 Z=-108673
+  2. X=73390 Y=-11 Z=-108596
+  3. X=73507 Y=-30 Z=-108456
+  4. X=73661 Y=-45 Z=-108330
+
+Base 222
+------
+Dimension: world_nether
+Sub-bases: 2
+Center: X=-16350 Y=38.5 Z=-127495
+
+  1. X=-16690 Y=63 Z=-127760
+  2. X=-16010 Y=14 Z=-127230
+
+Base 223
+------
+Dimension: world_nether
+Sub-bases: 18
+Center: X=-13885.7 Y=14.3 Z=-126788.8
+
+  1. X=-13786 Y=10 Z=-127886
+  2. X=-13806 Y=12 Z=-127682
+  3. X=-13751 Y=22 Z=-127030
+  4. X=-14903 Y=15 Z=-126885
+  5. X=-13852 Y=17 Z=-126981
+  6. X=-14093 Y=22 Z=-126894
+  7. X=-13761 Y=15 Z=-126878
+  8. X=-13856 Y=14 Z=-126840
+  9. X=-14357 Y=19 Z=-126718
+  10. X=-14920 Y=12 Z=-126620
+  11. X=-14657 Y=13 Z=-126645
+  12. X=-14251 Y=12 Z=-126688
+  13. X=-13899 Y=13 Z=-126703
+  14. X=-14163 Y=14 Z=-126495
+  15. X=-13132 Y=10 Z=-126387
+  16. X=-12897 Y=8 Z=-126400
+  17. X=-12922 Y=11 Z=-126286
+  18. X=-12937 Y=18 Z=-126180
+
+Base 224
+------
+Dimension: world_nether
+Sub-bases: 3
+Center: X=-18377.7 Y=14.3 Z=-124757.7
+
+  1. X=-18507 Y=18 Z=-124908
+  2. X=-18641 Y=12 Z=-124714
+  3. X=-17985 Y=13 Z=-124651
+
+Base 225
+------
+Dimension: world
+Sub-bases: 1
+Center: X=-7200 Y=-59 Z=-124913
+
+  1. X=-7200 Y=-59 Z=-124913
+
+Base 226
+------
+Dimension: world_nether
+Sub-bases: 4
+Center: X=1381.2 Y=16.8 Z=124315.5
+
+  1. X=1336 Y=16 Z=124498
+  2. X=1354 Y=17 Z=124357
+  3. X=1403 Y=18 Z=124263
+  4. X=1432 Y=16 Z=124144
+
+Base 227
+------
+Dimension: world
+Sub-bases: 3
+Center: X=-8359.3 Y=-34.3 Z=-123920.7
+
+  1. X=-8306 Y=-52 Z=-124132
+  2. X=-8303 Y=-54 Z=-123825
+  3. X=-8469 Y=3 Z=-123805
+
+Base 228
+------
+Dimension: world_the_end
+Sub-bases: 1
+Center: X=-42046 Y=59 Z=116781
+
+  1. X=-42046 Y=59 Z=116781
+
+Base 229
+------
+Dimension: world
+Sub-bases: 1
+Center: X=-10564 Y=-59 Z=-123663
+
+  1. X=-10564 Y=-59 Z=-123663
+
+Base 230
+------
+Dimension: world
+Sub-bases: 5
+Center: X=-647.8 Y=-55 Z=123976
+
+  1. X=-431 Y=-54 Z=124011
+  2. X=-632 Y=-54 Z=124009
+  3. X=-880 Y=-57 Z=123953
+  4. X=-518 Y=-53 Z=123955
+  5. X=-778 Y=-57 Z=123952
+
+Base 231
+------
+Dimension: world
+Sub-bases: 1
+Center: X=-110626 Y=-44 Z=-48077
+
+  1. X=-110626 Y=-44 Z=-48077
+
+Base 232
+------
+Dimension: world
+Sub-bases: 1
+Center: X=-113448 Y=-59 Z=27904
+
+  1. X=-113448 Y=-59 Z=27904
+
+Base 233
+------
+Dimension: world
+Sub-bases: 1
+Center: X=-4756 Y=-12 Z=116312
+
+  1. X=-4756 Y=-12 Z=116312
+
+Base 234
+------
+Dimension: world_nether
+Sub-bases: 1
+Center: X=-506 Y=114 Z=-115851
+
+  1. X=-506 Y=114 Z=-115851
+
+Base 235
+------
+Dimension: world_nether
+Sub-bases: 1
+Center: X=-28642 Y=39 Z=-111210
+
+  1. X=-28642 Y=39 Z=-111210
+
+Base 236
+------
+Dimension: world
+Sub-bases: 1
+Center: X=-113521 Y=-47 Z=-13949
+
+  1. X=-113521 Y=-47 Z=-13949
+
+Base 237
+------
+Dimension: world_nether
+Sub-bases: 1
+Center: X=-23606 Y=39 Z=-111442
+
+  1. X=-23606 Y=39 Z=-111442
+
+Base 238
+------
+Dimension: world_nether
+Sub-bases: 1
+Center: X=-18934 Y=39 Z=-111890
+
+  1. X=-18934 Y=39 Z=-111890
+
+Base 239
+------
+Dimension: world_nether
+Sub-bases: 4
+Center: X=1575 Y=15.5 Z=-113064.5
+
+  1. X=2126 Y=14 Z=-113142
+  2. X=1319 Y=16 Z=-113091
+  3. X=1566 Y=16 Z=-113036
+  4. X=1289 Y=16 Z=-112989
+
+Base 240
+------
+Dimension: world
+Sub-bases: 2
+Center: X=23442.5 Y=31 Z=110140.5
+
+  1. X=23314 Y=-27 Z=110427
+  2. X=23571 Y=89 Z=109854
+
+Base 241
+------
+Dimension: world_nether
+Sub-bases: 1
+Center: X=-15801 Y=69 Z=-111013
+
+  1. X=-15801 Y=69 Z=-111013
+
+Base 242
+------
+Dimension: world_nether
+Sub-bases: 2
+Center: X=-11113.5 Y=36.5 Z=-111236
+
+  1. X=-11547 Y=36 Z=-111299
+  2. X=-10680 Y=37 Z=-111173
+
+Base 243
+------
+Dimension: world_nether
+Sub-bases: 3
+Center: X=29730.7 Y=15.7 Z=107061
+
+  1. X=29588 Y=15 Z=107150
+  2. X=29988 Y=18 Z=107006
+  3. X=29616 Y=14 Z=107027
+
+Base 244
+------
+Dimension: world
+Sub-bases: 1
+Center: X=-94580 Y=68 Z=57204
+
+  1. X=-94580 Y=68 Z=57204
+
+Base 245
+------
+Dimension: world
+Sub-bases: 1
+Center: X=105360 Y=-20 Z=-32080
+
+  1. X=105360 Y=-20 Z=-32080
+
+Base 246
+------
+Dimension: world
+Sub-bases: 1
+Center: X=4084 Y=82 Z=107325
+
+  1. X=4084 Y=82 Z=107325
+
+Base 247
+------
+Dimension: world
+Sub-bases: 1
+Center: X=-11 Y=-27 Z=107204
+
+  1. X=-11 Y=-27 Z=107204
+
+Base 248
+------
+Dimension: world
+Sub-bases: 1
+Center: X=-96725 Y=63 Z=44087
+
+  1. X=-96725 Y=63 Z=44087
+
+Base 249
+------
+Dimension: world_nether
+Sub-bases: 19
+Center: X=-4977.5 Y=16.7 Z=-104472.5
+
+  1. X=-4899 Y=14 Z=-105262
+  2. X=-4770 Y=22 Z=-105202
+  3. X=-4939 Y=15 Z=-104896
+  4. X=-5151 Y=16 Z=-104781
+  5. X=-4944 Y=15 Z=-104737
+  6. X=-5074 Y=14 Z=-104681
+  7. X=-4817 Y=14 Z=-104669
+  8. X=-4650 Y=20 Z=-104625
+  9. X=-5180 Y=16 Z=-104560
+  10. X=-4895 Y=15 Z=-104514
+  11. X=-5071 Y=15 Z=-104456
+  12. X=-4803 Y=14 Z=-104434
+  13. X=-5067 Y=17 Z=-104340
+  14. X=-4868 Y=16 Z=-104274
+  15. X=-4733 Y=16 Z=-104242
+  16. X=-5234 Y=21 Z=-104113
+  17. X=-5018 Y=19 Z=-103962
+  18. X=-5280 Y=17 Z=-103699
+  19. X=-5179 Y=21 Z=-103531
+
+Base 250
+------
+Dimension: world
+Sub-bases: 1
+Center: X=75968 Y=-55 Z=-72671
+
+  1. X=75968 Y=-55 Z=-72671
+
+Base 251
+------
+Dimension: world
+Sub-bases: 1
+Center: X=-151 Y=12 Z=104491
+
+  1. X=-151 Y=12 Z=104491
+
+Base 252
+------
+Dimension: world_nether
+Sub-bases: 1
+Center: X=9994 Y=77 Z=103942
+
+  1. X=9994 Y=77 Z=103942
+
+Base 253
+------
+Dimension: world_nether
+Sub-bases: 1
+Center: X=-22 Y=118 Z=102974
+
+  1. X=-22 Y=118 Z=102974
+
+Base 254
+------
+Dimension: world
+Sub-bases: 1
+Center: X=99926 Y=62 Z=20553
+
+  1. X=99926 Y=62 Z=20553
+
+Base 255
+------
+Dimension: world_nether
+Sub-bases: 1
+Center: X=-11635 Y=12 Z=-100163
+
+  1. X=-11635 Y=12 Z=-100163
+
+Base 256
+------
+Dimension: world
+Sub-bases: 1
+Center: X=100166 Y=75 Z=1418
+
+  1. X=100166 Y=75 Z=1418
+
+Base 257
+------
+Dimension: world
+Sub-bases: 1
+Center: X=-99983 Y=-28 Z=-92
+
+  1. X=-99983 Y=-28 Z=-92
+
+Base 258
+------
+Dimension: world_nether
+Sub-bases: 3
+Center: X=1784.3 Y=49.3 Z=-99885
+
+  1. X=1796 Y=119 Z=-99935
+  2. X=1693 Y=12 Z=-99920
+  3. X=1864 Y=17 Z=-99800
+
+Base 259
+------
+Dimension: world_nether
+Sub-bases: 2
+Center: X=-4164.5 Y=16.5 Z=-97477.5
+
+  1. X=-4402 Y=17 Z=-97470
+  2. X=-3927 Y=16 Z=-97485
+
+Base 260
+------
+Dimension: world
+Sub-bases: 2
+Center: X=65342.5 Y=-34 Z=-71750
+
+  1. X=65402 Y=-41 Z=-71734
+  2. X=65283 Y=-27 Z=-71766
+
+Base 261
+------
+Dimension: world
+Sub-bases: 3
+Center: X=63578 Y=-37.3 Z=-72080
+
+  1. X=63803 Y=-49 Z=-72218
+  2. X=63695 Y=-17 Z=-72037
+  3. X=63236 Y=-46 Z=-71985
+
+Base 262
+------
+Dimension: world
+Sub-bases: 2
+Center: X=85880.5 Y=-9 Z=42750.5
+
+  1. X=85947 Y=-11 Z=42771
+  2. X=85814 Y=-7 Z=42730
+
+Base 263
+------
+Dimension: world
+Sub-bases: 1
+Center: X=777 Y=-17 Z=95905
+
+  1. X=777 Y=-17 Z=95905
+
+Base 264
+------
+Dimension: world
+Sub-bases: 1
+Center: X=-277 Y=-34 Z=-95577
+
+  1. X=-277 Y=-34 Z=-95577
+
+Base 265
+------
+Dimension: world
+Sub-bases: 1
+Center: X=64175 Y=11 Z=-68189
+
+  1. X=64175 Y=11 Z=-68189
+
+Base 266
+------
+Dimension: world
+Sub-bases: 4
+Center: X=82654.5 Y=-30.8 Z=41888.5
+
+  1. X=82831 Y=-44 Z=41867
+  2. X=82833 Y=-18 Z=41689
+  3. X=82528 Y=-45 Z=41959
+  4. X=82426 Y=-16 Z=42039
+
+Base 267
+------
+Dimension: world_nether
+Sub-bases: 2
+Center: X=-9096 Y=12 Z=-91496
+
+  1. X=-9005 Y=12 Z=-91614
+  2. X=-9187 Y=12 Z=-91378
+
+Base 268
+------
+Dimension: world_nether
+Sub-bases: 2
+Center: X=-4026.5 Y=14 Z=-91375.5
+
+  1. X=-4014 Y=12 Z=-91469
+  2. X=-4039 Y=16 Z=-91282
+
+Base 269
+------
+Dimension: world
+Sub-bases: 2
+Center: X=48905.5 Y=-26 Z=-76516.5
+
+  1. X=49101 Y=-18 Z=-76467
+  2. X=48710 Y=-34 Z=-76566
+
+Base 270
+------
+Dimension: world
+Sub-bases: 6
+Center: X=-2924.5 Y=-29 Z=-88162.7
+
+  1. X=-3155 Y=-45 Z=-88319
+  2. X=-2928 Y=-20 Z=-88263
+  3. X=-2811 Y=-50 Z=-88201
+  4. X=-2881 Y=-43 Z=-88104
+  5. X=-2975 Y=-9 Z=-88059
+  6. X=-2797 Y=-7 Z=-88030
+
+Base 271
+------
+Dimension: world
+Sub-bases: 1
+Center: X=-55 Y=-3 Z=88248
+
+  1. X=-55 Y=-3 Z=88248
+
+Base 272
+------
+Dimension: world
+Sub-bases: 1
+Center: X=-4688 Y=4 Z=-87854
+
+  1. X=-4688 Y=4 Z=-87854
+
+Base 273
+------
+Dimension: world
+Sub-bases: 1
+Center: X=77216 Y=-49 Z=38610
+
+  1. X=77216 Y=-49 Z=38610
+
+Base 274
+------
+Dimension: world
+Sub-bases: 3
+Center: X=-60930.3 Y=-11.7 Z=-59453.7
+
+  1. X=-61015 Y=-3 Z=-59494
+  2. X=-60910 Y=-14 Z=-59514
+  3. X=-60866 Y=-18 Z=-59353
+
+Base 275
+------
+Dimension: world
+Sub-bases: 1
+Center: X=-81068 Y=-47 Z=25031
+
+  1. X=-81068 Y=-47 Z=25031
+
+Base 276
+------
+Dimension: world_nether
+Sub-bases: 8
+Center: X=3334.2 Y=15.1 Z=83894.6
+
+  1. X=3352 Y=13 Z=84268
+  2. X=3281 Y=20 Z=84089
+  3. X=3445 Y=11 Z=84013
+  4. X=3544 Y=18 Z=83985
+  5. X=3444 Y=14 Z=83899
+  6. X=3203 Y=13 Z=83816
+  7. X=3203 Y=16 Z=83632
+  8. X=3202 Y=16 Z=83455
+
+Base 277
+------
+Dimension: world
+Sub-bases: 1
+Center: X=70226 Y=1 Z=-44687
+
+  1. X=70226 Y=1 Z=-44687
+
+Base 278
+------
+Dimension: world
+Sub-bases: 2
+Center: X=81269 Y=-29.5 Z=-1211.5
+
+  1. X=81449 Y=-31 Z=-1312
+  2. X=81089 Y=-28 Z=-1111
+
+Base 279
+------
+Dimension: world_nether
+Sub-bases: 2
+Center: X=4601.5 Y=15.5 Z=-80985.5
+
+  1. X=4594 Y=16 Z=-81082
+  2. X=4609 Y=15 Z=-80889
+
+Base 280
+------
+Dimension: world
+Sub-bases: 5
+Center: X=-80537.6 Y=-38.6 Z=706.6
+
+  1. X=-80725 Y=-38 Z=622
+  2. X=-80667 Y=-59 Z=1361
+  3. X=-80662 Y=-58 Z=872
+  4. X=-80590 Y=-24 Z=604
+  5. X=-80044 Y=-14 Z=74
+
+Base 281
+------
+Dimension: world
+Sub-bases: 1
+Center: X=44986 Y=-5 Z=-65092
+
+  1. X=44986 Y=-5 Z=-65092
+
+Base 282
+------
+Dimension: world_nether
+Sub-bases: 1
+Center: X=78662 Y=14 Z=5384
+
+  1. X=78662 Y=14 Z=5384
+
+Base 283
+------
+Dimension: world
+Sub-bases: 1
+Center: X=78424 Y=-56 Z=4180
+
+  1. X=78424 Y=-56 Z=4180
+
+Base 284
+------
+Dimension: world_nether
+Sub-bases: 1
+Center: X=78476 Y=9 Z=2401
+
+  1. X=78476 Y=9 Z=2401
+
+Base 285
+------
+Dimension: world_nether
+Sub-bases: 1
+Center: X=-3182 Y=117 Z=77286
+
+  1. X=-3182 Y=117 Z=77286
+
+Base 286
+------
+Dimension: world
+Sub-bases: 1
+Center: X=61654 Y=-32 Z=-45677
+
+  1. X=61654 Y=-32 Z=-45677
+
+Base 287
+------
+Dimension: world
+Sub-bases: 2
+Center: X=33064.5 Y=-26 Z=-68977
+
+  1. X=33103 Y=-25 Z=-69015
+  2. X=33026 Y=-27 Z=-68939
+
+Base 288
+------
+Dimension: world_nether
+Sub-bases: 3
+Center: X=-31441.7 Y=15 Z=69678.7
+
+  1. X=-31553 Y=15 Z=69707
+  2. X=-31337 Y=14 Z=69690
+  3. X=-31435 Y=16 Z=69639
+
+Base 289
+------
+Dimension: world_nether
+Sub-bases: 4
+Center: X=-50808 Y=13.5 Z=-55647.2
+
+  1. X=-51014 Y=13 Z=-56123
+  2. X=-50729 Y=14 Z=-56111
+  3. X=-50816 Y=13 Z=-55301
+  4. X=-50673 Y=14 Z=-55054
+
+Base 290
+------
+Dimension: world
+Sub-bases: 6
+Center: X=48446 Y=-12.3 Z=55144.2
+
+  1. X=48556 Y=-54 Z=55510
+  2. X=48566 Y=-6 Z=55304
+  3. X=48345 Y=-26 Z=55374
+  4. X=48424 Y=89 Z=55248
+  5. X=48517 Y=-19 Z=55020
+  6. X=48268 Y=-58 Z=54409
+
+Base 291
+------
+Dimension: world
+Sub-bases: 1
+Center: X=30474 Y=-15 Z=-65511
+
+  1. X=30474 Y=-15 Z=-65511
+
+Base 292
+------
+Dimension: world_nether
+Sub-bases: 1
+Center: X=-51120 Y=76 Z=-50511
+
+  1. X=-51120 Y=76 Z=-50511
+
+Base 293
+------
+Dimension: world_nether
+Sub-bases: 2
+Center: X=655.5 Y=32 Z=-71482.5
+
+  1. X=913 Y=32 Z=-71564
+  2. X=398 Y=32 Z=-71401
+
+Base 294
+------
+Dimension: world
+Sub-bases: 1
+Center: X=-9 Y=70 Z=71066
+
+  1. X=-9 Y=70 Z=71066
+
+Base 295
+------
+Dimension: world
+Sub-bases: 1
+Center: X=70252 Y=-43 Z=4179
+
+  1. X=70252 Y=-43 Z=4179
+
+Base 296
+------
+Dimension: world
+Sub-bases: 1
+Center: X=-70284 Y=48 Z=-2486
+
+  1. X=-70284 Y=48 Z=-2486
+
+Base 297
+------
+Dimension: world
+Sub-bases: 4
+Center: X=-68820 Y=7 Z=-2098.2
+
+  1. X=-68950 Y=-7 Z=-2149
+  2. X=-68937 Y=-23 Z=-2254
+  3. X=-68849 Y=-30 Z=-2138
+  4. X=-68544 Y=88 Z=-1852
+
+Base 298
+------
+Dimension: world
+Sub-bases: 1
+Center: X=-65580 Y=-36 Z=19388
+
+  1. X=-65580 Y=-36 Z=19388
+
+Base 299
+------
+Dimension: world
+Sub-bases: 1
+Center: X=31451 Y=100 Z=-60211
+
+  1. X=31451 Y=100 Z=-60211
+
+Base 300
+------
+Dimension: world
+Sub-bases: 1
+Center: X=-1433 Y=-56 Z=-67770
+
+  1. X=-1433 Y=-56 Z=-67770
+
+Base 301
+------
+Dimension: world
+Sub-bases: 1
+Center: X=-66261 Y=64 Z=11418
+
+  1. X=-66261 Y=64 Z=11418
+
+Base 302
+------
+Dimension: world
+Sub-bases: 1
+Center: X=-1426 Y=-55 Z=-66672
+
+  1. X=-1426 Y=-55 Z=-66672
+
+Base 303
+------
+Dimension: world_nether
+Sub-bases: 1
+Center: X=1038 Y=15 Z=-65749
+
+  1. X=1038 Y=15 Z=-65749
+
+Base 304
+------
+Dimension: world
+Sub-bases: 1
+Center: X=45412 Y=-26 Z=45996
+
+  1. X=45412 Y=-26 Z=45996
+
+Base 305
+------
+Dimension: world
+Sub-bases: 2
+Center: X=-399 Y=-44.5 Z=-64503.5
+
+  1. X=-846 Y=-32 Z=-64577
+  2. X=48 Y=-57 Z=-64430
+
+Base 306
+------
+Dimension: world_nether
+Sub-bases: 2
+Center: X=2851.5 Y=14.5 Z=-64376
+
+  1. X=2833 Y=12 Z=-64461
+  2. X=2870 Y=17 Z=-64291
+
+Base 307
+------
+Dimension: world
+Sub-bases: 4
+Center: X=30839 Y=-46 Z=56032
+
+  1. X=30968 Y=-55 Z=56088
+  2. X=30859 Y=-60 Z=56046
+  3. X=30684 Y=-27 Z=56064
+  4. X=30845 Y=-42 Z=55930
+
+Base 308
+------
+Dimension: world
+Sub-bases: 1
+Center: X=62195 Y=-49 Z=-1647
+
+  1. X=62195 Y=-49 Z=-1647
+
+Base 309
+------
+Dimension: world_nether
+Sub-bases: 1
+Center: X=4806 Y=23 Z=-60465
+
+  1. X=4806 Y=23 Z=-60465
+
+Base 310
+------
+Dimension: world_nether
+Sub-bases: 2
+Center: X=60434.5 Y=17.5 Z=2832.5
+
+  1. X=60463 Y=18 Z=2787
+  2. X=60406 Y=17 Z=2878
+
+Base 311
+------
+Dimension: world
+Sub-bases: 1
+Center: X=-43081 Y=-40 Z=-42382
+
+  1. X=-43081 Y=-40 Z=-42382
+
+Base 312
+------
+Dimension: world
+Sub-bases: 1
+Center: X=15771 Y=-14 Z=-58042
+
+  1. X=15771 Y=-14 Z=-58042
+
+Base 313
+------
+Dimension: world_nether
+Sub-bases: 1
+Center: X=4954 Y=22 Z=-59270
+
+  1. X=4954 Y=22 Z=-59270
+
+Base 314
+------
+Dimension: world
+Sub-bases: 1
+Center: X=-56258 Y=-25 Z=19232
+
+  1. X=-56258 Y=-25 Z=19232
+
+Base 315
+------
+Dimension: world
+Sub-bases: 1
+Center: X=-41778 Y=-54 Z=-41979
+
+  1. X=-41778 Y=-54 Z=-41979
+
+Base 316
+------
+Dimension: world
+Sub-bases: 1
+Center: X=-58741 Y=7 Z=19
+
+  1. X=-58741 Y=7 Z=19
+
+Base 317
+------
+Dimension: world
+Sub-bases: 2
+Center: X=55889 Y=-21.5 Z=17272
+
+  1. X=55998 Y=-20 Z=17278
+  2. X=55780 Y=-23 Z=17266
+
+Base 318
+------
+Dimension: world
+Sub-bases: 2
+Center: X=-41589.5 Y=-51 Z=-40752.5
+
+  1. X=-41521 Y=-49 Z=-40828
+  2. X=-41658 Y=-53 Z=-40677
+
+Base 319
+------
+Dimension: world_nether
+Sub-bases: 1
+Center: X=5269 Y=15 Z=-54609
+
+  1. X=5269 Y=15 Z=-54609
+
+Base 320
+------
+Dimension: world
+Sub-bases: 1
+Center: X=35453 Y=-23 Z=41615
+
+  1. X=35453 Y=-23 Z=41615
+
+Base 321
+------
+Dimension: world_nether
+Sub-bases: 1
+Center: X=970 Y=13 Z=54278
+
+  1. X=970 Y=13 Z=54278
+
+Base 322
+------
+Dimension: world
+Sub-bases: 1
+Center: X=52118 Y=15 Z=14994
+
+  1. X=52118 Y=15 Z=14994
+
+Base 323
+------
+Dimension: world
+Sub-bases: 1
+Center: X=44 Y=44 Z=53629
+
+  1. X=44 Y=44 Z=53629
+
+Base 324
+------
+Dimension: world
+Sub-bases: 3
+Center: X=-46005.3 Y=-31 Z=26833.3
+
+  1. X=-46109 Y=-15 Z=26880
+  2. X=-45976 Y=-52 Z=26933
+  3. X=-45931 Y=-26 Z=26687
+
+Base 325
+------
+Dimension: world_nether
+Sub-bases: 3
+Center: X=3536 Y=17 Z=52483.3
+
+  1. X=3667 Y=19 Z=53198
+  2. X=3538 Y=16 Z=52266
+  3. X=3403 Y=16 Z=51986
+
+Base 326
+------
+Dimension: world_nether
+Sub-bases: 5
+Center: X=39668.2 Y=14.4 Z=35140.4
+
+  1. X=39827 Y=15 Z=35182
+  2. X=39716 Y=16 Z=35276
+  3. X=39866 Y=15 Z=34971
+  4. X=39650 Y=11 Z=35081
+  5. X=39282 Y=15 Z=35192
+
+Base 327
+------
+Dimension: world
+Sub-bases: 2
+Center: X=5414.5 Y=-34.5 Z=-51915
+
+  1. X=5501 Y=-40 Z=-51910
+  2. X=5328 Y=-29 Z=-51920
+
+Base 328
+------
+Dimension: world_nether
+Sub-bases: 5
+Center: X=432 Y=14.6 Z=-51842.8
+
+  1. X=269 Y=19 Z=-51951
+  2. X=165 Y=14 Z=-51950
+  3. X=374 Y=15 Z=-51882
+  4. X=521 Y=13 Z=-51776
+  5. X=831 Y=12 Z=-51655
+
+Base 329
+------
+Dimension: world
+Sub-bases: 1
+Center: X=-39560 Y=68 Z=32949
+
+  1. X=-39560 Y=68 Z=32949
+
+Base 330
+------
+Dimension: world
+Sub-bases: 2
+Center: X=44376 Y=-10 Z=24356
+
+  1. X=44422 Y=-2 Z=24378
+  2. X=44330 Y=-18 Z=24334
+
+Base 331
+------
+Dimension: world
+Sub-bases: 1
+Center: X=-47543 Y=-15 Z=-16578
+
+  1. X=-47543 Y=-15 Z=-16578
+
+Base 332
+------
+Dimension: world
+Sub-bases: 1
+Center: X=44518 Y=-46 Z=22222
+
+  1. X=44518 Y=-46 Z=22222
+
+Base 333
+------
+Dimension: world_nether
+Sub-bases: 9
+Center: X=36216 Y=16 Z=-33150.2
+
+  1. X=36191 Y=16 Z=-33510
+  2. X=36460 Y=16 Z=-33121
+  3. X=36280 Y=18 Z=-33237
+  4. X=36161 Y=15 Z=-33289
+  5. X=36209 Y=14 Z=-33163
+  6. X=36070 Y=16 Z=-33212
+  7. X=36175 Y=19 Z=-33039
+  8. X=36067 Y=14 Z=-33076
+  9. X=36331 Y=16 Z=-32705
+
+Base 334
+------
+Dimension: world_nether
+Sub-bases: 4
+Center: X=-24212 Y=14 Z=42195.5
+
+  1. X=-24879 Y=17 Z=42014
+  2. X=-24179 Y=11 Z=42217
+  3. X=-23857 Y=15 Z=42344
+  4. X=-23933 Y=13 Z=42207
+
+Base 335
+------
+Dimension: world
+Sub-bases: 1
+Center: X=-44144 Y=-25 Z=-20056
+
+  1. X=-44144 Y=-25 Z=-20056
+
+Base 336
+------
+Dimension: world
+Sub-bases: 2
+Center: X=22493.5 Y=56.5 Z=41372.5
+
+  1. X=22437 Y=60 Z=41489
+  2. X=22550 Y=53 Z=41256
+
+Base 337
+------
+Dimension: world_nether
+Sub-bases: 4
+Center: X=45481.5 Y=15.2 Z=-4298.8
+
+  1. X=45637 Y=13 Z=-4437
+  2. X=45641 Y=12 Z=-4327
+  3. X=45326 Y=16 Z=-4273
+  4. X=45322 Y=20 Z=-4158
+
+Base 338
+------
+Dimension: world_nether
+Sub-bases: 1
+Center: X=-771 Y=12 Z=-45396
+
+  1. X=-771 Y=12 Z=-45396
+
+Base 339
+------
+Dimension: world
+Sub-bases: 6
+Center: X=25667.2 Y=15.5 Z=-36236.5
+
+  1. X=25792 Y=72 Z=-36499
+  2. X=25925 Y=-13 Z=-36341
+  3. X=25796 Y=50 Z=-36217
+  4. X=25766 Y=-11 Z=-36115
+  5. X=25417 Y=-21 Z=-36148
+  6. X=25307 Y=16 Z=-36099
+
+Base 340
+------
+Dimension: world_nether
+Sub-bases: 1
+Center: X=1564 Y=13 Z=44228
+
+  1. X=1564 Y=13 Z=44228
+
+Base 341
+------
+Dimension: world_nether
+Sub-bases: 1
+Center: X=43658 Y=47 Z=-164
+
+  1. X=43658 Y=47 Z=-164
+
+Base 342
+------
+Dimension: world_nether
+Sub-bases: 2
+Center: X=-1 Y=115.5 Z=43390.5
+
+  1. X=-2 Y=116 Z=43503
+  2. X=0 Y=115 Z=43278
+
+Base 343
+------
+Dimension: world
+Sub-bases: 2
+Center: X=10303 Y=64.5 Z=41783
+
+  1. X=10022 Y=61 Z=41896
+  2. X=10584 Y=68 Z=41670
+
+Base 344
+------
+Dimension: world
+Sub-bases: 1
+Center: X=7904 Y=-53 Z=42054
+
+  1. X=7904 Y=-53 Z=42054
+
+Base 345
+------
+Dimension: world_nether
+Sub-bases: 7
+Center: X=703.6 Y=14.9 Z=-40907.7
+
+  1. X=859 Y=17 Z=-41251
+  2. X=672 Y=20 Z=-41124
+  3. X=786 Y=15 Z=-41119
+  4. X=739 Y=13 Z=-40839
+  5. X=660 Y=10 Z=-40770
+  6. X=577 Y=19 Z=-40675
+  7. X=632 Y=10 Z=-40576
+
+Base 346
+------
+Dimension: world
+Sub-bases: 1
+Center: X=-110 Y=-59 Z=40101
+
+  1. X=-110 Y=-59 Z=40101
+
+Base 347
+------
+Dimension: world
+Sub-bases: 1
+Center: X=24382 Y=121 Z=-31815
+
+  1. X=24382 Y=121 Z=-31815
+
+Base 348
+------
+Dimension: world
+Sub-bases: 1
+Center: X=25813 Y=72 Z=-29757
+
+  1. X=25813 Y=72 Z=-29757
+
+Base 349
+------
+Dimension: world
+Sub-bases: 1
+Center: X=28700 Y=-23 Z=-26743
+
+  1. X=28700 Y=-23 Z=-26743
+
+Base 350
+------
+Dimension: world
+Sub-bases: 1
+Center: X=-12071 Y=-11 Z=-36664
+
+  1. X=-12071 Y=-11 Z=-36664
+
+Base 351
+------
+Dimension: world_nether
+Sub-bases: 5
+Center: X=-6.6 Y=15.4 Z=-37357.4
+
+  1. X=-88 Y=13 Z=-37589
+  2. X=24 Y=14 Z=-37422
+  3. X=98 Y=16 Z=-37323
+  4. X=-162 Y=20 Z=-37234
+  5. X=95 Y=14 Z=-37219
+
+Base 352
+------
+Dimension: world_nether
+Sub-bases: 1
+Center: X=-4 Y=120 Z=37464
+
+  1. X=-4 Y=120 Z=37464
+
+Base 353
+------
+Dimension: world
+Sub-bases: 1
+Center: X=-33396 Y=-30 Z=16948
+
+  1. X=-33396 Y=-30 Z=16948
+
+Base 354
+------
+Dimension: world
+Sub-bases: 1
+Center: X=-14010 Y=8 Z=33121
+
+  1. X=-14010 Y=8 Z=33121
+
+Base 355
+------
+Dimension: world
+Sub-bases: 1
+Center: X=21618 Y=-17 Z=-28664
+
+  1. X=21618 Y=-17 Z=-28664
+
+Base 356
+------
+Dimension: world_nether
+Sub-bases: 1
+Center: X=31886 Y=70 Z=14861
+
+  1. X=31886 Y=70 Z=14861
+
+Base 357
+------
+Dimension: world_nether
+Sub-bases: 1
+Center: X=21 Y=15 Z=-34189
+
+  1. X=21 Y=15 Z=-34189
+
+Base 358
+------
+Dimension: world_nether
+Sub-bases: 1
+Center: X=34117 Y=15 Z=71
+
+  1. X=34117 Y=15 Z=71
+
+Base 359
+------
+Dimension: world_nether
+Sub-bases: 1
+Center: X=50 Y=17 Z=34048
+
+  1. X=50 Y=17 Z=34048
+
+Base 360
+------
+Dimension: world
+Sub-bases: 2
+Center: X=3288.5 Y=-20.5 Z=-33397.5
+
+  1. X=3295 Y=12 Z=-33495
+  2. X=3282 Y=-53 Z=-33300
+
+Base 361
+------
+Dimension: world
+Sub-bases: 5
+Center: X=-33169.2 Y=-8.6 Z=-1837.2
+
+  1. X=-33408 Y=68 Z=-1985
+  2. X=-33178 Y=-18 Z=-1787
+  3. X=-33120 Y=-36 Z=-1925
+  4. X=-33101 Y=-38 Z=-1699
+  5. X=-33039 Y=-19 Z=-1790
+
+Base 362
+------
+Dimension: world
+Sub-bases: 1
+Center: X=9589 Y=-10 Z=31862
+
+  1. X=9589 Y=-10 Z=31862
+
+Base 363
+------
+Dimension: world_nether
+Sub-bases: 1
+Center: X=-27711 Y=17 Z=18287
+
+  1. X=-27711 Y=17 Z=18287
+
+Base 364
+------
+Dimension: world
+Sub-bases: 1
+Center: X=33027 Y=-41 Z=820
+
+  1. X=33027 Y=-41 Z=820
+
+Base 365
+------
+Dimension: world
+Sub-bases: 7
+Center: X=-2003.7 Y=-36 Z=32234.7
+
+  1. X=-2064 Y=-11 Z=32493
+  2. X=-2020 Y=-31 Z=32390
+  3. X=-2016 Y=-52 Z=32283
+  4. X=-2147 Y=-9 Z=32269
+  5. X=-1920 Y=-51 Z=32120
+  6. X=-2026 Y=-56 Z=32097
+  7. X=-1833 Y=-42 Z=31991
+
+Base 366
+------
+Dimension: world
+Sub-bases: 1
+Center: X=-13094 Y=-53 Z=-29574
+
+  1. X=-13094 Y=-53 Z=-29574
+
+Base 367
+------
+Dimension: world_nether
+Sub-bases: 1
+Center: X=91 Y=23 Z=31990
+
+  1. X=91 Y=23 Z=31990
+
+Base 368
+------
+Dimension: world
+Sub-bases: 1
+Center: X=6824 Y=-31 Z=30894
+
+  1. X=6824 Y=-31 Z=30894
+
+Base 369
+------
+Dimension: world
+Sub-bases: 1
+Center: X=16927 Y=-7 Z=-26588
+
+  1. X=16927 Y=-7 Z=-26588
+
+Base 370
+------
+Dimension: world_nether
+Sub-bases: 1
+Center: X=23790 Y=48 Z=20634
+
+  1. X=23790 Y=48 Z=20634
+
+Base 371
+------
+Dimension: world
+Sub-bases: 1
+Center: X=-31163 Y=-36 Z=168
+
+  1. X=-31163 Y=-36 Z=168
+
+Base 372
+------
+Dimension: world_nether
+Sub-bases: 1
+Center: X=-30921 Y=83 Z=-3710
+
+  1. X=-30921 Y=83 Z=-3710
+
+Base 373
+------
+Dimension: world
+Sub-bases: 1
+Center: X=-29903 Y=-11 Z=8469
+
+  1. X=-29903 Y=-11 Z=8469
+
+Base 374
+------
+Dimension: world
+Sub-bases: 1
+Center: X=28506 Y=-20 Z=10572
+
+  1. X=28506 Y=-20 Z=10572
+
+Base 375
+------
+Dimension: world_nether
+Sub-bases: 3
+Center: X=-122.3 Y=12.7 Z=-30210
+
+  1. X=-95 Y=16 Z=-30269
+  2. X=-42 Y=13 Z=-30183
+  3. X=-230 Y=9 Z=-30178
+
+Base 376
+------
+Dimension: world
+Sub-bases: 4
+Center: X=24734.5 Y=-34.2 Z=16952.5
+
+  1. X=24820 Y=-25 Z=16955
+  2. X=24734 Y=-46 Z=17017
+  3. X=24818 Y=-49 Z=16799
+  4. X=24566 Y=-17 Z=17039
+
+Base 377
+------
+Dimension: world
+Sub-bases: 1
+Center: X=18745 Y=-57 Z=-23082
+
+  1. X=18745 Y=-57 Z=-23082
+
+Base 378
+------
+Dimension: world
+Sub-bases: 1
+Center: X=-26334 Y=-25 Z=12793
+
+  1. X=-26334 Y=-25 Z=12793
+
+Base 379
+------
+Dimension: world_nether
+Sub-bases: 1
+Center: X=-28291 Y=13 Z=-6348
+
+  1. X=-28291 Y=13 Z=-6348
+
+Base 380
+------
+Dimension: world
+Sub-bases: 2
+Center: X=-24022 Y=-35.5 Z=16108
+
+  1. X=-24046 Y=-25 Z=16158
+  2. X=-23998 Y=-46 Z=16058
+
+Base 381
+------
+Dimension: world
+Sub-bases: 3
+Center: X=-28001.7 Y=-33.3 Z=-6983.3
+
+  1. X=-28170 Y=-40 Z=-6711
+  2. X=-27978 Y=-25 Z=-7125
+  3. X=-27857 Y=-35 Z=-7114
+
+Base 382
+------
+Dimension: world
+Sub-bases: 3
+Center: X=-21899.3 Y=-14 Z=-18707
+
+  1. X=-21861 Y=-38 Z=-18831
+  2. X=-21894 Y=5 Z=-18705
+  3. X=-21943 Y=-9 Z=-18585
+
+Base 383
+------
+Dimension: world
+Sub-bases: 3
+Center: X=28340 Y=-44 Z=-2623.3
+
+  1. X=28456 Y=-56 Z=-2623
+  2. X=28333 Y=-58 Z=-2628
+  3. X=28231 Y=-18 Z=-2619
+
+Base 384
+------
+Dimension: world_nether
+Sub-bases: 3
+Center: X=-27342.3 Y=14 Z=-7506.3
+
+  1. X=-27453 Y=13 Z=-7736
+  2. X=-27383 Y=13 Z=-7407
+  3. X=-27191 Y=16 Z=-7376
+
+Base 385
+------
+Dimension: world
+Sub-bases: 1
+Center: X=4195 Y=-4 Z=-28069
+
+  1. X=4195 Y=-4 Z=-28069
+
+Base 386
+------
+Dimension: world
+Sub-bases: 2
+Center: X=20092.5 Y=-49 Z=19915
+
+  1. X=20128 Y=-53 Z=19955
+  2. X=20057 Y=-45 Z=19875
+
+Base 387
+------
+Dimension: world_nether
+Sub-bases: 1
+Center: X=19887 Y=119 Z=-19879
+
+  1. X=19887 Y=119 Z=-19879
+
+Base 388
+------
+Dimension: world
+Sub-bases: 2
+Center: X=-25939.5 Y=-22.5 Z=-10720
+
+  1. X=-25972 Y=-11 Z=-10759
+  2. X=-25907 Y=-34 Z=-10681
+
+Base 389
+------
+Dimension: world
+Sub-bases: 1
+Center: X=-20730 Y=-33 Z=-18924
+
+  1. X=-20730 Y=-33 Z=-18924
+
+Base 390
+------
+Dimension: world_nether
+Sub-bases: 1
+Center: X=-30 Y=14 Z=28015
+
+  1. X=-30 Y=14 Z=28015
+
+Base 391
+------
+Dimension: world
+Sub-bases: 4
+Center: X=26672 Y=-31.5 Z=7488.5
+
+  1. X=26767 Y=-24 Z=7468
+  2. X=26667 Y=-22 Z=7515
+  3. X=26672 Y=-57 Z=7391
+  4. X=26582 Y=-23 Z=7580
+
+Base 392
+------
+Dimension: world_nether
+Sub-bases: 1
+Center: X=27444 Y=70 Z=1349
+
+  1. X=27444 Y=70 Z=1349
+
+Base 393
+------
+Dimension: world
+Sub-bases: 4
+Center: X=24884.5 Y=3 Z=10307.5
+
+  1. X=25083 Y=-30 Z=10470
+  2. X=24979 Y=-36 Z=10457
+  3. X=24844 Y=-19 Z=10439
+  4. X=24632 Y=97 Z=9864
+
+Base 394
+------
+Dimension: world_nether
+Sub-bases: 3
+Center: X=-24022.7 Y=16.3 Z=11438.7
+
+  1. X=-24160 Y=17 Z=11948
+  2. X=-24047 Y=16 Z=11289
+  3. X=-23861 Y=16 Z=11079
+
+Base 395
+------
+Dimension: world_nether
+Sub-bases: 1
+Center: X=25388 Y=78 Z=8095
+
+  1. X=25388 Y=78 Z=8095
+
+Base 396
+------
+Dimension: world
+Sub-bases: 5
+Center: X=25820.4 Y=43.2 Z=-79.4
+
+  1. X=26527 Y=68 Z=15
+  2. X=26139 Y=62 Z=-80
+  3. X=26076 Y=66 Z=-196
+  4. X=25202 Y=70 Z=-153
+  5. X=25158 Y=-50 Z=17
+
+Base 397
+------
+Dimension: world
+Sub-bases: 1
+Center: X=20959 Y=5 Z=-15975
+
+  1. X=20959 Y=5 Z=-15975
+
+Base 398
+------
+Dimension: world_nether
+Sub-bases: 3
+Center: X=409.7 Y=25.3 Z=-26153.3
+
+  1. X=569 Y=46 Z=-26191
+  2. X=260 Y=18 Z=-26167
+  3. X=400 Y=12 Z=-26102
+
+Base 399
+------
+Dimension: world
+Sub-bases: 1
+Center: X=-22776 Y=-29 Z=12780
+
+  1. X=-22776 Y=-29 Z=12780
+
+Base 400
+------
+Dimension: world
+Sub-bases: 2
+Center: X=-21970 Y=15.5 Z=13883.5
+
+  1. X=-22038 Y=69 Z=13886
+  2. X=-21902 Y=-38 Z=13881
+
+Base 401
+------
+Dimension: world
+Sub-bases: 2
+Center: X=-24951 Y=-40.5 Z=6937
+
+  1. X=-25009 Y=-36 Z=6906
+  2. X=-24893 Y=-45 Z=6968
+
+Base 402
+------
+Dimension: world
+Sub-bases: 1
+Center: X=-24552 Y=4 Z=8281
+
+  1. X=-24552 Y=4 Z=8281
+
+Base 403
+------
+Dimension: world
+Sub-bases: 1
+Center: X=23461 Y=-11 Z=-10455
+
+  1. X=23461 Y=-11 Z=-10455
+
+Base 404
+------
+Dimension: world
+Sub-bases: 1
+Center: X=-10062 Y=-28 Z=-23564
+
+  1. X=-10062 Y=-28 Z=-23564
+
+Base 405
+------
+Dimension: world
+Sub-bases: 1
+Center: X=19077 Y=-48 Z=-16929
+
+  1. X=19077 Y=-48 Z=-16929
+
+Base 406
+------
+Dimension: world_nether
+Sub-bases: 2
+Center: X=17728.5 Y=119 Z=-17727
+
+  1. X=17954 Y=119 Z=-17957
+  2. X=17503 Y=119 Z=-17497
+
+Base 407
+------
+Dimension: world
+Sub-bases: 1
+Center: X=4095 Y=12 Z=-24923
+
+  1. X=4095 Y=12 Z=-24923
+
+Base 408
+------
+Dimension: world_nether
+Sub-bases: 1
+Center: X=-3046 Y=15 Z=-25019
+
+  1. X=-3046 Y=15 Z=-25019
+
+Base 409
+------
+Dimension: world_nether
+Sub-bases: 1
+Center: X=-2606 Y=10 Z=25049
+
+  1. X=-2606 Y=10 Z=25049
+
+Base 410
+------
+Dimension: world
+Sub-bases: 2
+Center: X=25060 Y=-3.5 Z=1367.5
+
+  1. X=25112 Y=5 Z=1282
+  2. X=25008 Y=-12 Z=1453
+
+Base 411
+------
+Dimension: world_nether
+Sub-bases: 1
+Center: X=-9599 Y=15 Z=23136
+
+  1. X=-9599 Y=15 Z=23136
+
+Base 412
+------
+Dimension: world
+Sub-bases: 1
+Center: X=-65 Y=13 Z=-24450
+
+  1. X=-65 Y=13 Z=-24450
+
+Base 413
+------
+Dimension: world
+Sub-bases: 1
+Center: X=7846 Y=-14 Z=23052
+
+  1. X=7846 Y=-14 Z=23052
+
+Base 414
+------
+Dimension: world_nether
+Sub-bases: 1
+Center: X=23380 Y=13 Z=6463
+
+  1. X=23380 Y=13 Z=6463
+
+Base 415
+------
+Dimension: world
+Sub-bases: 1
+Center: X=-23893 Y=76 Z=3898
+
+  1. X=-23893 Y=76 Z=3898
+
+Base 416
+------
+Dimension: world
+Sub-bases: 1
+Center: X=-18581 Y=-29 Z=-15497
+
+  1. X=-18581 Y=-29 Z=-15497
+
+Base 417
+------
+Dimension: world_nether
+Sub-bases: 1
+Center: X=23756 Y=12 Z=4474
+
+  1. X=23756 Y=12 Z=4474
+
+Base 418
+------
+Dimension: world
+Sub-bases: 9
+Center: X=22726 Y=7.6 Z=18.8
+
+  1. X=24087 Y=-6 Z=403
+  2. X=23295 Y=-10 Z=178
+  3. X=23192 Y=14 Z=49
+  4. X=23183 Y=-13 Z=206
+  5. X=23075 Y=-53 Z=-373
+  6. X=22978 Y=-53 Z=-288
+  7. X=22133 Y=63 Z=-2
+  8. X=21354 Y=63 Z=-2
+  9. X=21237 Y=63 Z=-2
+
+Base 419
+------
+Dimension: world_nether
+Sub-bases: 1
+Center: X=16749 Y=13 Z=17119
+
+  1. X=16749 Y=13 Z=17119
+
+Base 420
+------
+Dimension: world_nether
+Sub-bases: 6
+Center: X=-656.5 Y=13.5 Z=-23304.7
+
+  1. X=-629 Y=12 Z=-23696
+  2. X=-800 Y=11 Z=-23409
+  3. X=-689 Y=15 Z=-23355
+  4. X=-896 Y=14 Z=-23338
+  5. X=-672 Y=11 Z=-23085
+  6. X=-253 Y=18 Z=-22945
+
+Base 421
+------
+Dimension: world
+Sub-bases: 1
+Center: X=59 Y=-36 Z=23482
+
+  1. X=59 Y=-36 Z=23482
+
+Base 422
+------
+Dimension: world_nether
+Sub-bases: 1
+Center: X=15468 Y=50 Z=-17180
+
+  1. X=15468 Y=50 Z=-17180
+
+Base 423
+------
+Dimension: world_nether
+Sub-bases: 3
+Center: X=20132 Y=13.7 Z=10388.3
+
+  1. X=20273 Y=12 Z=10871
+  2. X=20315 Y=16 Z=10084
+  3. X=19808 Y=13 Z=10210
+
+Base 424
+------
+Dimension: world
+Sub-bases: 2
+Center: X=-6665 Y=-54.5 Z=-21894
+
+  1. X=-6632 Y=-51 Z=-21942
+  2. X=-6698 Y=-58 Z=-21846
+
+Base 425
+------
+Dimension: world
+Sub-bases: 1
+Center: X=11548 Y=-45 Z=-19772
+
+  1. X=11548 Y=-45 Z=-19772
+
+Base 426
+------
+Dimension: world_nether
+Sub-bases: 1
+Center: X=10760 Y=115 Z=-19981
+
+  1. X=10760 Y=115 Z=-19981
+
+Base 427
+------
+Dimension: world
+Sub-bases: 1
+Center: X=-21897 Y=-14 Z=-5924
+
+  1. X=-21897 Y=-14 Z=-5924
+
+Base 428
+------
+Dimension: world_nether
+Sub-bases: 7
+Center: X=1602.4 Y=13.7 Z=-21744.6
+
+  1. X=2180 Y=10 Z=-22573
+  2. X=1570 Y=10 Z=-21978
+  3. X=1574 Y=12 Z=-21814
+  4. X=1572 Y=16 Z=-21651
+  5. X=1568 Y=19 Z=-21517
+  6. X=1569 Y=17 Z=-21390
+  7. X=1184 Y=12 Z=-21289
+
+Base 429
+------
+Dimension: world
+Sub-bases: 1
+Center: X=-22430 Y=100 Z=-3252
+
+  1. X=-22430 Y=100 Z=-3252
+
+Base 430
+------
+Dimension: world
+Sub-bases: 1
+Center: X=22536 Y=-58 Z=-1300
+
+  1. X=22536 Y=-58 Z=-1300
+
+Base 431
+------
+Dimension: world
+Sub-bases: 1
+Center: X=17374 Y=-5 Z=13941
+
+  1. X=17374 Y=-5 Z=13941
+
+Base 432
+------
+Dimension: world
+Sub-bases: 1
+Center: X=-16427 Y=-58 Z=14962
+
+  1. X=-16427 Y=-58 Z=14962
+
+Base 433
+------
+Dimension: world_nether
+Sub-bases: 1
+Center: X=19164 Y=16 Z=11154
+
+  1. X=19164 Y=16 Z=11154
+
+Base 434
+------
+Dimension: world_nether
+Sub-bases: 3
+Center: X=-19348 Y=22 Z=-9577
+
+  1. X=-19644 Y=11 Z=-9758
+  2. X=-19668 Y=10 Z=-9651
+  3. X=-18732 Y=45 Z=-9322
+
+Base 435
+------
+Dimension: world
+Sub-bases: 5
+Center: X=-12749.2 Y=-28.6 Z=-17349.2
+
+  1. X=-13252 Y=-22 Z=-17378
+  2. X=-12992 Y=-29 Z=-17313
+  3. X=-13112 Y=-19 Z=-17221
+  4. X=-12262 Y=-15 Z=-17522
+  5. X=-12128 Y=-58 Z=-17312
+
+Base 436
+------
+Dimension: world
+Sub-bases: 6
+Center: X=15622 Y=-45.7 Z=-14682.5
+
+  1. X=15612 Y=-49 Z=-14928
+  2. X=15762 Y=-32 Z=-14630
+  3. X=15612 Y=-51 Z=-14777
+  4. X=15582 Y=-46 Z=-14641
+  5. X=15442 Y=-49 Z=-14711
+  6. X=15722 Y=-47 Z=-14408
+
+Base 437
+------
+Dimension: world
+Sub-bases: 1
+Center: X=-9015 Y=-10 Z=-19542
+
+  1. X=-9015 Y=-10 Z=-19542
+
+Base 438
+------
+Dimension: world_nether
+Sub-bases: 3
+Center: X=-141.7 Y=37.3 Z=-21295
+
+  1. X=-304 Y=67 Z=-21450
+  2. X=-319 Y=13 Z=-21318
+  3. X=198 Y=32 Z=-21117
+
+Base 439
+------
+Dimension: world_nether
+Sub-bases: 3
+Center: X=21195 Y=16.3 Z=-169.3
+
+  1. X=21331 Y=19 Z=-215
+  2. X=21202 Y=14 Z=-175
+  3. X=21052 Y=16 Z=-118
+
+Base 440
+------
+Dimension: world_nether
+Sub-bases: 1
+Center: X=-20954 Y=19 Z=3293
+
+  1. X=-20954 Y=19 Z=3293
+
+Base 441
+------
+Dimension: world
+Sub-bases: 1
+Center: X=-20909 Y=37 Z=-2130
+
+  1. X=-20909 Y=37 Z=-2130
+
+Base 442
+------
+Dimension: world_nether
+Sub-bases: 1
+Center: X=11050 Y=39 Z=-17554
+
+  1. X=11050 Y=39 Z=-17554
+
+Base 443
+------
+Dimension: world
+Sub-bases: 1
+Center: X=1330 Y=-55 Z=20584
+
+  1. X=1330 Y=-55 Z=20584
+
+Base 444
+------
+Dimension: world
+Sub-bases: 1
+Center: X=6637 Y=-54 Z=-19442
+
+  1. X=6637 Y=-54 Z=-19442
+
+Base 445
+------
+Dimension: unknown
+Sub-bases: 1
+Center: X=-74.5 Y=113 Z=20202.5
+
+  1. X=-74.5 Y=113 Z=20202.5
+
+Base 446
+------
+Dimension: world_nether
+Sub-bases: 1
+Center: X=19582 Y=70 Z=4448
+
+  1. X=19582 Y=70 Z=4448
+
+Base 447
+------
+Dimension: world_nether
+Sub-bases: 1
+Center: X=14163 Y=119 Z=-14166
+
+  1. X=14163 Y=119 Z=-14166
+
+Base 448
+------
+Dimension: world
+Sub-bases: 1
+Center: X=20017 Y=63 Z=9
+
+  1. X=20017 Y=63 Z=9
+
+Base 449
+------
+Dimension: world_nether
+Sub-bases: 2
+Center: X=12641.5 Y=17 Z=15014
+
+  1. X=12676 Y=16 Z=15451
+  2. X=12607 Y=18 Z=14577
+
+Base 450
+------
+Dimension: world_nether
+Sub-bases: 2
+Center: X=-3099 Y=13.5 Z=-19221.5
+
+  1. X=-3125 Y=19 Z=-19673
+  2. X=-3073 Y=8 Z=-18770
+
+Base 451
+------
+Dimension: world
+Sub-bases: 1
+Center: X=-8311 Y=-40 Z=-17925
+
+  1. X=-8311 Y=-40 Z=-17925
+
+Base 452
+------
+Dimension: world_nether
+Sub-bases: 1
+Center: X=7403 Y=34 Z=-18318
+
+  1. X=7403 Y=34 Z=-18318
+
+Base 453
+------
+Dimension: world
+Sub-bases: 3
+Center: X=-14270 Y=-49.3 Z=-13576.3
+
+  1. X=-14329 Y=-54 Z=-13581
+  2. X=-14226 Y=-53 Z=-13658
+  3. X=-14255 Y=-41 Z=-13490
+
+Base 454
+------
+Dimension: world_nether
+Sub-bases: 1
+Center: X=-17888 Y=12 Z=8270
+
+  1. X=-17888 Y=12 Z=8270
+
+Base 455
+------
+Dimension: world_nether
+Sub-bases: 2
+Center: X=19165 Y=14 Z=-1798
+
+  1. X=19229 Y=18 Z=-1835
+  2. X=19101 Y=10 Z=-1761
+
+Base 456
+------
+Dimension: world
+Sub-bases: 1
+Center: X=10953 Y=-47 Z=-15591
+
+  1. X=10953 Y=-47 Z=-15591
+
+Base 457
+------
+Dimension: world_nether
+Sub-bases: 1
+Center: X=16956 Y=15 Z=-8112
+
+  1. X=16956 Y=15 Z=-8112
+
+Base 458
+------
+Dimension: world
+Sub-bases: 1
+Center: X=3557 Y=9 Z=18306
+
+  1. X=3557 Y=9 Z=18306
+
+Base 459
+------
+Dimension: world_nether
+Sub-bases: 1
+Center: X=-1052 Y=15 Z=-18320
+
+  1. X=-1052 Y=15 Z=-18320
+
+Base 460
+------
+Dimension: world_nether
+Sub-bases: 1
+Center: X=-13030 Y=19 Z=-12802
+
+  1. X=-13030 Y=19 Z=-12802
+
+Base 461
+------
+Dimension: world
+Sub-bases: 1
+Center: X=17737 Y=-34 Z=4018
+
+  1. X=17737 Y=-34 Z=4018
+
+Base 462
+------
+Dimension: world
+Sub-bases: 1
+Center: X=17254 Y=41 Z=5016
+
+  1. X=17254 Y=41 Z=5016
+
+Base 463
+------
+Dimension: world
+Sub-bases: 1
+Center: X=-11656 Y=-33 Z=13616
+
+  1. X=-11656 Y=-33 Z=13616
+
+Base 464
+------
+Dimension: world_nether
+Sub-bases: 22
+Center: X=-1917.3 Y=15 Z=-15787.3
+
+  1. X=-3297 Y=20 Z=-17488
+  2. X=-3391 Y=11 Z=-17260
+  3. X=-2720 Y=20 Z=-16803
+  4. X=-2520 Y=16 Z=-16817
+  5. X=-1908 Y=7 Z=-16212
+  6. X=-1454 Y=14 Z=-16204
+  7. X=-2111 Y=17 Z=-15903
+  8. X=-1302 Y=15 Z=-15906
+  9. X=-2077 Y=11 Z=-15754
+  10. X=-1335 Y=20 Z=-15768
+  11. X=-1744 Y=17 Z=-15696
+  12. X=-1600 Y=15 Z=-15692
+  13. X=-1877 Y=17 Z=-15618
+  14. X=-1731 Y=15 Z=-15575
+  15. X=-1295 Y=20 Z=-15401
+  16. X=-1289 Y=11 Z=-15285
+  17. X=-1669 Y=13 Z=-15127
+  18. X=-1342 Y=12 Z=-15119
+  19. X=-1666 Y=13 Z=-15023
+  20. X=-1934 Y=18 Z=-14916
+  21. X=-2155 Y=14 Z=-14880
+  22. X=-1764 Y=14 Z=-14874
+
+Base 465
+------
+Dimension: world
+Sub-bases: 1
+Center: X=-14498 Y=4 Z=-10152
+
+  1. X=-14498 Y=4 Z=-10152
+
+Base 466
+------
+Dimension: world_nether
+Sub-bases: 2
+Center: X=12283 Y=119.5 Z=-12500.5
+
+  1. X=12504 Y=119 Z=-12501
+  2. X=12062 Y=120 Z=-12500
+
+Base 467
+------
+Dimension: world
+Sub-bases: 1
+Center: X=-14242 Y=-15 Z=10436
+
+  1. X=-14242 Y=-15 Z=10436
+
+Base 468
+------
+Dimension: world_nether
+Sub-bases: 1
+Center: X=-14586 Y=39 Z=-9870
+
+  1. X=-14586 Y=39 Z=-9870
+
+Base 469
+------
+Dimension: world
+Sub-bases: 1
+Center: X=-13036 Y=5 Z=-11780
+
+  1. X=-13036 Y=5 Z=-11780
+
+Base 470
+------
+Dimension: world_nether
+Sub-bases: 1
+Center: X=-4 Y=10 Z=17532
+
+  1. X=-4 Y=10 Z=17532
+
+Base 471
+------
+Dimension: world
+Sub-bases: 1
+Center: X=-14972 Y=-43 Z=8662
+
+  1. X=-14972 Y=-43 Z=8662
+
+Base 472
+------
+Dimension: world
+Sub-bases: 1
+Center: X=-6269 Y=-28 Z=16111
+
+  1. X=-6269 Y=-28 Z=16111
+
+Base 473
+------
+Dimension: world
+Sub-bases: 1
+Center: X=17115 Y=4 Z=-185
+
+  1. X=17115 Y=4 Z=-185
+
+Base 474
+------
+Dimension: world_nether
+Sub-bases: 6
+Center: X=-11011.8 Y=16.3 Z=12820.7
+
+  1. X=-11103 Y=16 Z=12949
+  2. X=-10896 Y=17 Z=13055
+  3. X=-11056 Y=18 Z=12849
+  4. X=-11060 Y=14 Z=12722
+  5. X=-10898 Y=16 Z=12753
+  6. X=-11058 Y=17 Z=12596
+
+Base 475
+------
+Dimension: world
+Sub-bases: 1
+Center: X=-17001 Y=67 Z=164
+
+  1. X=-17001 Y=67 Z=164
+
+Base 476
+------
+Dimension: world_nether
+Sub-bases: 2
+Center: X=7878 Y=15 Z=-14747.5
+
+  1. X=8078 Y=15 Z=-14909
+  2. X=7678 Y=15 Z=-14586
+
+Base 477
+------
+Dimension: world
+Sub-bases: 1
+Center: X=92 Y=-4 Z=16905
+
+  1. X=92 Y=-4 Z=16905
+
+Base 478
+------
+Dimension: world
+Sub-bases: 1
+Center: X=-15142 Y=78 Z=7229
+
+  1. X=-15142 Y=78 Z=7229
+
+Base 479
+------
+Dimension: world_nether
+Sub-bases: 11
+Center: X=-15598 Y=23.5 Z=4362.6
+
+  1. X=-16044 Y=16 Z=4604
+  2. X=-16064 Y=18 Z=4494
+  3. X=-15991 Y=21 Z=4194
+  4. X=-16009 Y=13 Z=4016
+  5. X=-15795 Y=55 Z=4784
+  6. X=-15905 Y=9 Z=4018
+  7. X=-15815 Y=21 Z=4147
+  8. X=-15733 Y=21 Z=4285
+  9. X=-15430 Y=23 Z=4354
+  10. X=-14462 Y=39 Z=4538
+  11. X=-14330 Y=22 Z=4555
+
+Base 480
+------
+Dimension: world_nether
+Sub-bases: 4
+Center: X=11403.2 Y=14.8 Z=-11483.5
+
+  1. X=11487 Y=13 Z=-11605
+  2. X=11443 Y=15 Z=-11487
+  3. X=11300 Y=16 Z=-11472
+  4. X=11383 Y=15 Z=-11370
+
+Base 481
+------
+Dimension: world
+Sub-bases: 5
+Center: X=-8397.6 Y=-43 Z=13690.2
+
+  1. X=-8301 Y=-54 Z=13861
+  2. X=-8476 Y=7 Z=13699
+  3. X=-8516 Y=-58 Z=13607
+  4. X=-8290 Y=-56 Z=13728
+  5. X=-8405 Y=-54 Z=13556
+
+Base 482
+------
+Dimension: world
+Sub-bases: 3
+Center: X=-13025 Y=-38 Z=-8909.7
+
+  1. X=-13019 Y=-31 Z=-9005
+  2. X=-13088 Y=-36 Z=-8843
+  3. X=-12968 Y=-47 Z=-8881
+
+Base 483
+------
+Dimension: world
+Sub-bases: 2
+Center: X=-15029 Y=-53.5 Z=-3326
+
+  1. X=-15029 Y=-53 Z=-3389
+  2. X=-15029 Y=-54 Z=-3263
+
+Base 484
+------
+Dimension: world
+Sub-bases: 1
+Center: X=-10771 Y=15 Z=10801
+
+  1. X=-10771 Y=15 Z=10801
+
+Base 485
+------
+Dimension: world
+Sub-bases: 2
+Center: X=10023 Y=-41 Z=-11003
+
+  1. X=10077 Y=-34 Z=-10997
+  2. X=9969 Y=-48 Z=-11009
+
+Base 486
+------
+Dimension: world_nether
+Sub-bases: 1
+Center: X=7150 Y=14 Z=-13090
+
+  1. X=7150 Y=14 Z=-13090
+
+Base 487
+------
+Dimension: world
+Sub-bases: 1
+Center: X=11584 Y=13 Z=9349
+
+  1. X=11584 Y=13 Z=9349
+
+Base 488
+------
+Dimension: world
+Sub-bases: 2
+Center: X=4723.5 Y=-13 Z=13761
+
+  1. X=4516 Y=-52 Z=13873
+  2. X=4931 Y=26 Z=13649
+
+Base 489
+------
+Dimension: world_nether
+Sub-bases: 1
+Center: X=12835 Y=18 Z=-6930
+
+  1. X=12835 Y=18 Z=-6930
+
+Base 490
+------
+Dimension: world_nether
+Sub-bases: 5
+Center: X=-156 Y=36.2 Z=14342
+
+  1. X=-198 Y=19 Z=14531
+  2. X=-204 Y=12 Z=14418
+  3. X=-260 Y=18 Z=14330
+  4. X=-120 Y=15 Z=14307
+  5. X=2 Y=117 Z=14124
+
+Base 491
+------
+Dimension: world
+Sub-bases: 3
+Center: X=-1891.7 Y=13.7 Z=-13924
+
+  1. X=-2139 Y=73 Z=-14060
+  2. X=-1527 Y=-34 Z=-13933
+  3. X=-2009 Y=2 Z=-13779
+
+Base 492
+------
+Dimension: world
+Sub-bases: 1
+Center: X=14144 Y=-24 Z=1185
+
+  1. X=14144 Y=-24 Z=1185
+
+Base 493
+------
+Dimension: world
+Sub-bases: 5
+Center: X=12644.4 Y=-39.2 Z=5233.2
+
+  1. X=12882 Y=-52 Z=4902
+  2. X=12440 Y=-3 Z=5809
+  3. X=12667 Y=-51 Z=5252
+  4. X=12683 Y=-53 Z=5064
+  5. X=12550 Y=-37 Z=5139
+
+Base 494
+------
+Dimension: world
+Sub-bases: 1
+Center: X=13719 Y=72 Z=146
+
+  1. X=13719 Y=72 Z=146
+
+Base 495
+------
+Dimension: world_nether
+Sub-bases: 3
+Center: X=12960.7 Y=15 Z=-4124.3
+
+  1. X=13056 Y=13 Z=-4158
+  2. X=12958 Y=16 Z=-4065
+  3. X=12868 Y=16 Z=-4150
+
+Base 496
+------
+Dimension: world
+Sub-bases: 1
+Center: X=10722 Y=-45 Z=8352
+
+  1. X=10722 Y=-45 Z=8352
+
+Base 497
+------
+Dimension: world_nether
+Sub-bases: 4
+Center: X=-13347 Y=13.5 Z=-132.8
+
+  1. X=-13587 Y=13 Z=-165
+  2. X=-13342 Y=12 Z=-133
+  3. X=-13242 Y=10 Z=-167
+  4. X=-13217 Y=19 Z=-66
+
+Base 498
+------
+Dimension: world_nether
+Sub-bases: 2
+Center: X=-12477.5 Y=13 Z=4899.5
+
+  1. X=-12513 Y=15 Z=4945
+  2. X=-12442 Y=11 Z=4854
+
+Base 499
+------
+Dimension: world
+Sub-bases: 2
+Center: X=-191.5 Y=0.5 Z=-13310.5
+
+  1. X=39 Y=-52 Z=-13433
+  2. X=-422 Y=53 Z=-13188
+
+Base 500
+------
+Dimension: world_nether
+Sub-bases: 10
+Center: X=-9989 Y=21.5 Z=8098.3
+
+  1. X=-10744 Y=21 Z=8050
+  2. X=-10744 Y=23 Z=7874
+  3. X=-10023 Y=21 Z=8606
+  4. X=-10012 Y=22 Z=8463
+  5. X=-9889 Y=22 Z=8510
+  6. X=-10134 Y=21 Z=8171
+  7. X=-9844 Y=22 Z=7962
+  8. X=-9785 Y=21 Z=7807
+  9. X=-9301 Y=20 Z=7879
+  10. X=-9414 Y=22 Z=7661
+
+Base 501
+------
+Dimension: world_nether
+Sub-bases: 1
+Center: X=13415 Y=72 Z=-223
+
+  1. X=13415 Y=72 Z=-223
+
+Base 502
+------
+Dimension: world
+Sub-bases: 1
+Center: X=-9880 Y=8 Z=8936
+
+  1. X=-9880 Y=8 Z=8936
+
+Base 503
+------
+Dimension: world
+Sub-bases: 2
+Center: X=-12232.5 Y=-19.5 Z=4296.5
+
+  1. X=-12549 Y=-38 Z=4003
+  2. X=-11916 Y=-1 Z=4590
+
+Base 504
+------
+Dimension: world_nether
+Sub-bases: 2
+Center: X=-35.5 Y=76 Z=12917
+
+  1. X=9 Y=113 Z=13096
+  2. X=-80 Y=39 Z=12738
+
+Base 505
+------
+Dimension: world_nether
+Sub-bases: 1
+Center: X=1063 Y=14 Z=-12892
+
+  1. X=1063 Y=14 Z=-12892
+
+Base 506
+------
+Dimension: world
+Sub-bases: 1
+Center: X=-7803 Y=-23 Z=10269
+
+  1. X=-7803 Y=-23 Z=10269
+
+Base 507
+------
+Dimension: world
+Sub-bases: 1
+Center: X=870 Y=64 Z=12745
+
+  1. X=870 Y=64 Z=12745
+
+Base 508
+------
+Dimension: world
+Sub-bases: 3
+Center: X=-7666.3 Y=-58.3 Z=-10139.3
+
+  1. X=-7616 Y=-57 Z=-10249
+  2. X=-7690 Y=-59 Z=-10157
+  3. X=-7693 Y=-59 Z=-10012
+
+Base 509
+------
+Dimension: world_nether
+Sub-bases: 2
+Center: X=5486.5 Y=13.5 Z=-11213
+
+  1. X=5726 Y=14 Z=-11401
+  2. X=5247 Y=13 Z=-11025
+
+Base 510
+------
+Dimension: world_nether
+Sub-bases: 1
+Center: X=12653 Y=16 Z=669
+
+  1. X=12653 Y=16 Z=669
+
+Base 511
+------
+Dimension: world
+Sub-bases: 1
+Center: X=-10268 Y=-10 Z=6944
+
+  1. X=-10268 Y=-10 Z=6944
+
+Base 512
+------
+Dimension: world
+Sub-bases: 1
+Center: X=-1943 Y=-56 Z=12070
+
+  1. X=-1943 Y=-56 Z=12070
+
+Base 513
+------
+Dimension: world
+Sub-bases: 5
+Center: X=-11703.4 Y=-7.2 Z=2531.6
+
+  1. X=-11800 Y=-25 Z=2531
+  2. X=-11674 Y=-28 Z=2746
+  3. X=-11788 Y=-61 Z=2146
+  4. X=-11683 Y=70 Z=2471
+  5. X=-11572 Y=8 Z=2764
+
+Base 514
+------
+Dimension: world
+Sub-bases: 1
+Center: X=-4928 Y=-32 Z=10902
+
+  1. X=-4928 Y=-32 Z=10902
+
+Base 515
+------
+Dimension: world
+Sub-bases: 1
+Center: X=-2630 Y=-29 Z=-11657
+
+  1. X=-2630 Y=-29 Z=-11657
+
+Base 516
+------
+Dimension: world_nether
+Sub-bases: 1
+Center: X=8041 Y=13 Z=-8710
+
+  1. X=8041 Y=13 Z=-8710
+
+Base 517
+------
+Dimension: world
+Sub-bases: 2
+Center: X=-11228.5 Y=-4.5 Z=-3316
+
+  1. X=-11288 Y=-10 Z=-3319
+  2. X=-11169 Y=1 Z=-3313
+
+Base 518
+------
+Dimension: world
+Sub-bases: 2
+Center: X=-11610 Y=-26 Z=-628
+
+  1. X=-11657 Y=-46 Z=-604
+  2. X=-11563 Y=-6 Z=-652
+
+Base 519
+------
+Dimension: world
+Sub-bases: 2
+Center: X=-6809 Y=-44 Z=9240
+
+  1. X=-6858 Y=-45 Z=9251
+  2. X=-6760 Y=-43 Z=9229
+
+Base 520
+------
+Dimension: world
+Sub-bases: 6
+Center: X=6284.7 Y=-11 Z=-9454.8
+
+  1. X=6454 Y=-22 Z=-9505
+  2. X=6342 Y=-39 Z=-9542
+  3. X=6247 Y=-50 Z=-9575
+  4. X=6239 Y=-49 Z=-9456
+  5. X=6285 Y=136 Z=-9290
+  6. X=6141 Y=-42 Z=-9361
+
+Base 521
+------
+Dimension: world
+Sub-bases: 1
+Center: X=-1272 Y=-43 Z=-11417
+
+  1. X=-1272 Y=-43 Z=-11417
+
+Base 522
+------
+Dimension: world_nether
+Sub-bases: 3
+Center: X=-6773.3 Y=21 Z=-8959.7
+
+  1. X=-7080 Y=19 Z=-8878
+  2. X=-6593 Y=22 Z=-9245
+  3. X=-6647 Y=22 Z=-8756
+
+Base 523
+------
+Dimension: world_nether
+Sub-bases: 8
+Center: X=-394.8 Y=16.2 Z=-11005.2
+
+  1. X=-289 Y=15 Z=-11330
+  2. X=-118 Y=14 Z=-11325
+  3. X=-224 Y=17 Z=-11236
+  4. X=-290 Y=15 Z=-11065
+  5. X=-628 Y=18 Z=-10969
+  6. X=-521 Y=18 Z=-10788
+  7. X=-615 Y=17 Z=-10675
+  8. X=-473 Y=16 Z=-10654
+
+Base 524
+------
+Dimension: world_nether
+Sub-bases: 1
+Center: X=8505 Y=73 Z=-7071
+
+  1. X=8505 Y=73 Z=-7071
+
+Base 525
+------
+Dimension: world
+Sub-bases: 1
+Center: X=-71 Y=64 Z=10939
+
+  1. X=-71 Y=64 Z=10939
+
+Base 526
+------
+Dimension: world
+Sub-bases: 1
+Center: X=-9437 Y=6 Z=5329
+
+  1. X=-9437 Y=6 Z=5329
+
+Base 527
+------
+Dimension: world
+Sub-bases: 2
+Center: X=9285 Y=-12 Z=5455.5
+
+  1. X=9311 Y=12 Z=5503
+  2. X=9259 Y=-36 Z=5408
+
+Base 528
+------
+Dimension: world
+Sub-bases: 2
+Center: X=10231 Y=-3 Z=-2556.5
+
+  1. X=10282 Y=13 Z=-2495
+  2. X=10180 Y=-19 Z=-2618
+
+Base 529
+------
+Dimension: world_nether
+Sub-bases: 1
+Center: X=10230 Y=61 Z=2415
+
+  1. X=10230 Y=61 Z=2415
+
+Base 530
+------
+Dimension: world
+Sub-bases: 5
+Center: X=9300.4 Y=-24.8 Z=4276.8
+
+  1. X=9551 Y=-55 Z=4284
+  2. X=9436 Y=-39 Z=4297
+  3. X=9257 Y=13 Z=4403
+  4. X=9194 Y=14 Z=4242
+  5. X=9064 Y=-57 Z=4158
+
+Base 531
+------
+Dimension: world
+Sub-bases: 3
+Center: X=1617 Y=-3.7 Z=9889.3
+
+  1. X=1358 Y=8 Z=10249
+  2. X=1747 Y=14 Z=9809
+  3. X=1746 Y=-33 Z=9610
+
+Base 532
+------
+Dimension: world_nether
+Sub-bases: 4
+Center: X=693.5 Y=13.8 Z=10129.2
+
+  1. X=784 Y=15 Z=10262
+  2. X=525 Y=13 Z=10177
+  3. X=501 Y=11 Z=10069
+  4. X=964 Y=16 Z=10009
+
+Base 533
+------
+Dimension: world
+Sub-bases: 2
+Center: X=-4231 Y=-58.5 Z=-8802
+
+  1. X=-4312 Y=-59 Z=-9252
+  2. X=-4150 Y=-58 Z=-8352
+
+Base 534
+------
+Dimension: world
+Sub-bases: 3
+Center: X=4892 Y=-36 Z=-8556.7
+
+  1. X=5126 Y=-50 Z=-8750
+  2. X=4845 Y=-21 Z=-8448
+  3. X=4705 Y=-37 Z=-8472
+
+Base 535
+------
+Dimension: world
+Sub-bases: 1
+Center: X=-1353 Y=163 Z=10035
+
+  1. X=-1353 Y=163 Z=10035
+
+Base 536
+------
+Dimension: world_nether
+Sub-bases: 15
+Center: X=6096.2 Y=15.8 Z=6938.3
+
+  1. X=6733 Y=15 Z=7379
+  2. X=6594 Y=18 Z=7307
+  3. X=6437 Y=17 Z=7284
+  4. X=6066 Y=16 Z=7251
+  5. X=5965 Y=15 Z=7160
+  6. X=6367 Y=15 Z=6751
+  7. X=6119 Y=15 Z=6905
+  8. X=5974 Y=15 Z=7023
+  9. X=6012 Y=16 Z=6869
+  10. X=5825 Y=13 Z=6998
+  11. X=6080 Y=16 Z=6727
+  12. X=5949 Y=18 Z=6756
+  13. X=5784 Y=16 Z=6797
+  14. X=5784 Y=16 Z=6529
+  15. X=5754 Y=16 Z=6339
+
+Base 537
+------
+Dimension: world
+Sub-bases: 1
+Center: X=6900 Y=-60 Z=7217
+
+  1. X=6900 Y=-60 Z=7217
+
+Base 538
+------
+Dimension: world_nether
+Sub-bases: 2
+Center: X=-6107 Y=21 Z=-7562.5
+
+  1. X=-6293 Y=20 Z=-7556
+  2. X=-5921 Y=22 Z=-7569
+
+Base 539
+------
+Dimension: world
+Sub-bases: 1
+Center: X=5394 Y=5 Z=8057
+
+  1. X=5394 Y=5 Z=8057
+
+Base 540
+------
+Dimension: world_nether
+Sub-bases: 1
+Center: X=8891 Y=14 Z=2367
+
+  1. X=8891 Y=14 Z=2367
+
+Base 541
+------
+Dimension: world
+Sub-bases: 1
+Center: X=-7727 Y=63 Z=-4868
+
+  1. X=-7727 Y=63 Z=-4868
+
+Base 542
+------
+Dimension: world
+Sub-bases: 2
+Center: X=6029 Y=-56 Z=-6748
+
+  1. X=6080 Y=-56 Z=-6752
+  2. X=5978 Y=-56 Z=-6744
+
+Base 543
+------
+Dimension: world_nether
+Sub-bases: 2
+Center: X=-5327 Y=19.5 Z=-6544.5
+
+  1. X=-5425 Y=19 Z=-6589
+  2. X=-5229 Y=20 Z=-6500
+
+Base 544
+------
+Dimension: world
+Sub-bases: 13
+Center: X=-42.8 Y=-21.8 Z=7616.7
+
+  1. X=10 Y=-57 Z=8520
+  2. X=800 Y=-59 Z=8196
+  3. X=-25 Y=8 Z=8114
+  4. X=-57 Y=-24 Z=7939
+  5. X=56 Y=-59 Z=7737
+  6. X=-127 Y=64 Z=7715
+  7. X=-825 Y=13 Z=7619
+  8. X=802 Y=67 Z=7397
+  9. X=1 Y=-53 Z=7344
+  10. X=-5 Y=-59 Z=7238
+  11. X=-1396 Y=-29 Z=7062
+  12. X=213 Y=-39 Z=7105
+  13. X=-4 Y=-57 Z=7031
+
+Base 545
+------
+Dimension: world_nether
+Sub-bases: 1
+Center: X=3606 Y=64 Z=-7656
+
+  1. X=3606 Y=64 Z=-7656
+
+Base 546
+------
+Dimension: world
+Sub-bases: 2
+Center: X=7716 Y=-50.5 Z=3427
+
+  1. X=7713 Y=-51 Z=3479
+  2. X=7719 Y=-50 Z=3375
+
+Base 547
+------
+Dimension: world
+Sub-bases: 2
+Center: X=4624.5 Y=-50 Z=6936
+
+  1. X=4637 Y=-58 Z=7068
+  2. X=4612 Y=-42 Z=6804
+
+Base 548
+------
+Dimension: world
+Sub-bases: 1
+Center: X=-2648 Y=-51 Z=7966
+
+  1. X=-2648 Y=-51 Z=7966
+
+Base 549
+------
+Dimension: world
+Sub-bases: 2
+Center: X=8208 Y=10.5 Z=901.5
+
+  1. X=8276 Y=10 Z=1213
+  2. X=8140 Y=11 Z=590
+
+Base 550
+------
+Dimension: world
+Sub-bases: 1
+Center: X=-7919 Y=9 Z=2632
+
+  1. X=-7919 Y=9 Z=2632
+
+Base 551
+------
+Dimension: unknown
+Sub-bases: 1
+Center: X=2000.5 Y=200 Z=8000.5
+
+  1. X=2000.5 Y=200 Z=8000.5
+
+Base 552
+------
+Dimension: unknown
+Sub-bases: 1
+Center: X=2000.5 Y=200 Z=-7999.5
+
+  1. X=2000.5 Y=200 Z=-7999.5
+
+Base 553
+------
+Dimension: world
+Sub-bases: 1
+Center: X=6986 Y=12 Z=4237
+
+  1. X=6986 Y=12 Z=4237
+
+Base 554
+------
+Dimension: world
+Sub-bases: 1
+Center: X=-1291 Y=-30 Z=-8021
+
+  1. X=-1291 Y=-30 Z=-8021
+
+Base 555
+------
+Dimension: world
+Sub-bases: 11
+Center: X=-6865.6 Y=-21.2 Z=794.6
+
+  1. X=-8027 Y=11 Z=600
+  2. X=-7566 Y=35 Z=484
+  3. X=-7210 Y=-26 Z=302
+  4. X=-7181 Y=-35 Z=402
+  5. X=-6938 Y=-54 Z=1014
+  6. X=-6700 Y=-38 Z=1056
+  7. X=-6602 Y=-32 Z=990
+  8. X=-6464 Y=-55 Z=1006
+  9. X=-6350 Y=-6 Z=908
+  10. X=-6239 Y=-17 Z=1061
+  11. X=-6245 Y=-16 Z=918
+
+Base 556
+------
+Dimension: world_nether
+Sub-bases: 2
+Center: X=3827.5 Y=14.5 Z=6925
+
+  1. X=3880 Y=11 Z=7003
+  2. X=3775 Y=18 Z=6847
+
+Base 557
+------
+Dimension: world
+Sub-bases: 4
+Center: X=56.5 Y=27.5 Z=-7349
+
+  1. X=33 Y=70 Z=-7974
+  2. X=253 Y=65 Z=-7731
+  3. X=80 Y=4 Z=-7299
+  4. X=-140 Y=-29 Z=-6392
+
+Base 558
+------
+Dimension: world
+Sub-bases: 8
+Center: X=-4770 Y=-3.6 Z=5674.1
+
+  1. X=-4789 Y=3 Z=6229
+  2. X=-4664 Y=12 Z=6233
+  3. X=-4699 Y=13 Z=6089
+  4. X=-4610 Y=13 Z=5956
+  5. X=-4724 Y=12 Z=5722
+  6. X=-4747 Y=-45 Z=5328
+  7. X=-5181 Y=-27 Z=4807
+  8. X=-4746 Y=-10 Z=5029
+
+Base 559
+------
+Dimension: world_nether
+Sub-bases: 1
+Center: X=-7685 Y=64 Z=1566
+
+  1. X=-7685 Y=64 Z=1566
+
+Base 560
+------
+Dimension: world_nether
+Sub-bases: 1
+Center: X=-3214 Y=17 Z=6884
+
+  1. X=-3214 Y=17 Z=6884
+
+Base 561
+------
+Dimension: world
+Sub-bases: 4
+Center: X=2648 Y=-17.2 Z=6784.5
+
+  1. X=2328 Y=-32 Z=7178
+  2. X=2367 Y=-27 Z=6914
+  3. X=2975 Y=13 Z=6621
+  4. X=2922 Y=-23 Z=6425
+
+Base 562
+------
+Dimension: world
+Sub-bases: 2
+Center: X=-6987 Y=6 Z=-1935
+
+  1. X=-7117 Y=64 Z=-2102
+  2. X=-6857 Y=-52 Z=-1768
+
+Base 563
+------
+Dimension: world_nether
+Sub-bases: 3
+Center: X=-1051 Y=15.7 Z=7155
+
+  1. X=-1108 Y=14 Z=7212
+  2. X=-944 Y=17 Z=7187
+  3. X=-1101 Y=16 Z=7066
+
+Base 564
+------
+Dimension: world_nether
+Sub-bases: 2
+Center: X=-259 Y=17 Z=-7134.5
+
+  1. X=-207 Y=20 Z=-7207
+  2. X=-311 Y=14 Z=-7062
+
+Base 565
+------
+Dimension: world
+Sub-bases: 3
+Center: X=-5525 Y=21 Z=3627.3
+
+  1. X=-6253 Y=39 Z=3440
+  2. X=-5598 Y=-43 Z=3697
+  3. X=-4724 Y=67 Z=3745
+
+Base 566
+------
+Dimension: world
+Sub-bases: 2
+Center: X=6926 Y=-37.5 Z=-181
+
+  1. X=7042 Y=-25 Z=-167
+  2. X=6810 Y=-50 Z=-195
+
+Base 567
+------
+Dimension: world
+Sub-bases: 1
+Center: X=-3509 Y=30 Z=6063
+
+  1. X=-3509 Y=30 Z=6063
+
+Base 568
+------
+Dimension: world_nether
+Sub-bases: 1
+Center: X=-3793 Y=12 Z=-5878
+
+  1. X=-3793 Y=12 Z=-5878
+
+Base 569
+------
+Dimension: world
+Sub-bases: 5
+Center: X=5135.6 Y=-36.4 Z=-4079.4
+
+  1. X=5828 Y=-59 Z=-3661
+  2. X=5683 Y=-57 Z=-3652
+  3. X=4950 Y=11 Z=-4266
+  4. X=4708 Y=-51 Z=-4442
+  5. X=4509 Y=-26 Z=-4376
+
+Base 570
+------
+Dimension: world_nether
+Sub-bases: 1
+Center: X=6537 Y=57 Z=1795
+
+  1. X=6537 Y=57 Z=1795
+
+Base 571
+------
+Dimension: world_nether
+Sub-bases: 1
+Center: X=1602 Y=39 Z=-6358
+
+  1. X=1602 Y=39 Z=-6358
+
+Base 572
+------
+Dimension: unknown
+Sub-bases: 5
+Center: X=517.9 Y=160.2 Z=5883.5
+
+  1. X=138.5 Y=105 Z=6493.5
+  2. X=693.5 Y=238 Z=6128.5
+  3. X=1000.5 Y=100 Z=6000.5
+  4. X=589.5 Y=174 Z=5826.5
+  5. X=167.5 Y=184 Z=4968.5
+
+Base 573
+------
+Dimension: world
+Sub-bases: 3
+Center: X=3109 Y=4.7 Z=5308
+
+  1. X=3681 Y=88 Z=5287
+  2. X=2895 Y=-19 Z=5306
+  3. X=2751 Y=-55 Z=5331
+
+Base 574
+------
+Dimension: world
+Sub-bases: 142
+Center: X=-585.9 Y=-3.6 Z=-139.5
+
+  1. X=-6308 Y=10 Z=-148
+  2. X=-6301 Y=26 Z=-269
+  3. X=-5328 Y=-53 Z=48
+  4. X=-1852 Y=15 Z=-4706
+  5. X=-2707 Y=61 Z=-3968
+  6. X=-4625 Y=-28 Z=965
+  7. X=-4523 Y=-49 Z=1068
+  8. X=-2401 Y=-42 Z=-3972
+  9. X=-2535 Y=77 Z=3851
+  10. X=-4550 Y=25 Z=664
+  11. X=-4417 Y=-34 Z=1102
+  12. X=-1799 Y=-27 Z=4136
+  13. X=-4394 Y=-46 Z=959
+  14. X=-2302 Y=-53 Z=-3822
+  15. X=-2460 Y=-53 Z=3687
+  16. X=-3505 Y=37 Z=2438
+  17. X=-2414 Y=71 Z=-3466
+  18. X=-4139 Y=8 Z=-1
+  19. X=-4123 Y=5 Z=127
+  20. X=-3919 Y=66 Z=979
+  21. X=-2791 Y=13 Z=2831
+  22. X=-2610 Y=-4 Z=-2991
+  23. X=-2657 Y=-20 Z=-2899
+  24. X=311 Y=6 Z=-3856
+  25. X=9 Y=-51 Z=3697
+  26. X=3251 Y=-7 Z=-1624
+  27. X=-2944 Y=69 Z=-2081
+  28. X=-3597 Y=5 Z=134
+  29. X=3119 Y=-16 Z=-1749
+  30. X=3531 Y=5 Z=-337
+  31. X=2772 Y=-57 Z=2105
+  32. X=-3410 Y=83 Z=-102
+  33. X=-3329 Y=11 Z=100
+  34. X=-2384 Y=-17 Z=2310
+  35. X=266 Y=-59 Z=3260
+  36. X=-16 Y=-32 Z=3235
+  37. X=-3205 Y=8 Z=23
+  38. X=3022 Y=12 Z=-1003
+  39. X=242 Y=12 Z=-3114
+  40. X=1774 Y=-37 Z=2536
+  41. X=2794 Y=4 Z=1318
+  42. X=-2959 Y=9 Z=739
+  43. X=243 Y=80 Z=-2983
+  44. X=663 Y=10 Z=-2868
+  45. X=939 Y=-17 Z=-2780
+  46. X=2674 Y=3 Z=-1202
+  47. X=2094 Y=12 Z=2034
+  48. X=725 Y=-24 Z=-2756
+  49. X=831 Y=-49 Z=-2724
+  50. X=2489 Y=-35 Z=-1348
+  51. X=1820 Y=-57 Z=2128
+  52. X=2716 Y=6 Z=-348
+  53. X=1049 Y=-34 Z=-2471
+  54. X=-2271 Y=73 Z=-1395
+  55. X=-219 Y=24 Z=2642
+  56. X=2636 Y=14 Z=-250
+  57. X=2586 Y=-36 Z=-392
+  58. X=1839 Y=6 Z=1847
+  59. X=-2166 Y=-18 Z=1446
+  60. X=-2518 Y=-17 Z=510
+  61. X=2444 Y=5 Z=790
+  62. X=-353 Y=62 Z=2542
+  63. X=2557 Y=-19 Z=-165
+  64. X=2063 Y=4 Z=1444
+  65. X=1793 Y=12 Z=1757
+  66. X=927 Y=-32 Z=-2315
+  67. X=-1354 Y=13 Z=-2083
+  68. X=755 Y=9 Z=-2299
+  69. X=-1833 Y=6 Z=1579
+  70. X=2192 Y=-47 Z=-1017
+  71. X=-2150 Y=60 Z=-1040
+  72. X=-427 Y=58 Z=-2312
+  73. X=-2 Y=-33 Z=-2303
+  74. X=-1793 Y=9 Z=1444
+  75. X=-2069 Y=-58 Z=-957
+  76. X=-1145 Y=-58 Z=-1957
+  77. X=1891 Y=-48 Z=-1242
+  78. X=104 Y=-27 Z=-2249
+  79. X=283 Y=-54 Z=-2230
+  80. X=-1813 Y=6 Z=1286
+  81. X=1676 Y=-35 Z=1406
+  82. X=-2158 Y=14 Z=326
+  83. X=-2163 Y=4 Z=-271
+  84. X=-962 Y=11 Z=-1928
+  85. X=1845 Y=-57 Z=-1094
+  86. X=-2076 Y=-11 Z=-466
+  87. X=-2088 Y=13 Z=-363
+  88. X=-1891 Y=-36 Z=-933
+  89. X=177 Y=-24 Z=-2097
+  90. X=2100 Y=-26 Z=-82
+  91. X=-2012 Y=7 Z=-574
+  92. X=1918 Y=-59 Z=-822
+  93. X=-1924 Y=-59 Z=780
+  94. X=-734 Y=55 Z=-1940
+  95. X=286 Y=-3 Z=2053
+  96. X=-707 Y=63 Z=1947
+  97. X=-1049 Y=-28 Z=-1776
+  98. X=-232 Y=-11 Z=-2041
+  99. X=407 Y=-18 Z=-1981
+  100. X=36 Y=-5 Z=2005
+  101. X=-1941 Y=13 Z=304
+  102. X=-1616 Y=11 Z=-1002
+  103. X=-1866 Y=-49 Z=-270
+  104. X=551 Y=-41 Z=1784
+  105. X=-1834 Y=9 Z=285
+  106. X=-986 Y=59 Z=-1570
+  107. X=327 Y=-59 Z=1794
+  108. X=-1783 Y=-40 Z=-345
+  109. X=-1688 Y=43 Z=659
+  110. X=-109 Y=1 Z=1774
+  111. X=1625 Y=-45 Z=500
+  112. X=-982 Y=-60 Z=1380
+  113. X=-1066 Y=12 Z=1266
+  114. X=1131 Y=-16 Z=-1191
+  115. X=-1593 Y=-33 Z=326
+  116. X=-1551 Y=-40 Z=427
+  117. X=-1438 Y=-41 Z=-685
+  118. X=979 Y=-44 Z=1243
+  119. X=-1486 Y=14 Z=-531
+  120. X=163 Y=-13 Z=-1551
+  121. X=584 Y=-11 Z=1440
+  122. X=532 Y=15 Z=-1400
+  123. X=-23 Y=-17 Z=1437
+  124. X=-1078 Y=-38 Z=-935
+  125. X=1026 Y=8 Z=961
+  126. X=611 Y=-23 Z=1220
+  127. X=1078 Y=4 Z=807
+  128. X=1124 Y=69 Z=686
+  129. X=-314 Y=-7 Z=1239
+  130. X=468 Y=-58 Z=-1176
+  131. X=1227 Y=46 Z=-75
+  132. X=-869 Y=-18 Z=-827
+  133. X=490 Y=-14 Z=1086
+  134. X=506 Y=13 Z=-1071
+  135. X=355 Y=-40 Z=1102
+  136. X=16 Y=-36 Z=-1147
+  137. X=994 Y=62 Z=536
+  138. X=-894 Y=-60 Z=535
+  139. X=300 Y=12 Z=993
+  140. X=-416 Y=-33 Z=-944
+  141. X=1006 Y=64 Z=5
+  142. X=9 Y=311 Z=-1000
+
+Base 575
+------
+Dimension: world
+Sub-bases: 2
+Center: X=-5517.5 Y=-38.5 Z=-2540
+
+  1. X=-5580 Y=-39 Z=-2564
+  2. X=-5455 Y=-38 Z=-2516
+
+Base 576
+------
+Dimension: world
+Sub-bases: 6
+Center: X=4505.3 Y=-48.7 Z=2950.3
+
+  1. X=5053 Y=-47 Z=3280
+  2. X=4953 Y=-55 Z=3259
+  3. X=4831 Y=-61 Z=3257
+  4. X=4370 Y=-31 Z=3253
+  5. X=3988 Y=-44 Z=2339
+  6. X=3837 Y=-54 Z=2314
+
+Base 577
+------
+Dimension: world
+Sub-bases: 8
+Center: X=1262.4 Y=-17 Z=5047.8
+
+  1. X=1111 Y=-50 Z=5912
+  2. X=1093 Y=13 Z=5792
+  3. X=762 Y=4 Z=5809
+  4. X=1149 Y=-18 Z=5340
+  5. X=1443 Y=-6 Z=4791
+  6. X=831 Y=11 Z=4796
+  7. X=1875 Y=-56 Z=4021
+  8. X=1835 Y=-34 Z=3921
+
+Base 578
+------
+Dimension: world_nether
+Sub-bases: 1
+Center: X=4827 Y=15 Z=3401
+
+  1. X=4827 Y=15 Z=3401
+
+Base 579
+------
+Dimension: world_nether
+Sub-bases: 1
+Center: X=-2633 Y=17 Z=-5186
+
+  1. X=-2633 Y=17 Z=-5186
+
+Base 580
+------
+Dimension: world
+Sub-bases: 3
+Center: X=4631.7 Y=8.3 Z=-2590
+
+  1. X=5271 Y=11 Z=-2306
+  2. X=4245 Y=-58 Z=-2875
+  3. X=4379 Y=72 Z=-2589
+
+Base 581
+------
+Dimension: world_nether
+Sub-bases: 1
+Center: X=2364 Y=13 Z=5151
+
+  1. X=2364 Y=13 Z=5151
+
+Base 582
+------
+Dimension: world
+Sub-bases: 1
+Center: X=5591 Y=65 Z=664
+
+  1. X=5591 Y=65 Z=664
+
+Base 583
+------
+Dimension: world
+Sub-bases: 1
+Center: X=3076 Y=-39 Z=-4698
+
+  1. X=3076 Y=-39 Z=-4698
+
+Base 584
+------
+Dimension: world
+Sub-bases: 1
+Center: X=4976 Y=71 Z=1958
+
+  1. X=4976 Y=71 Z=1958
+
+Base 585
+------
+Dimension: world_nether
+Sub-bases: 1
+Center: X=4972 Y=15 Z=-1562
+
+  1. X=4972 Y=15 Z=-1562
+
+Base 586
+------
+Dimension: world
+Sub-bases: 1
+Center: X=-3566 Y=-27 Z=3716
+
+  1. X=-3566 Y=-27 Z=3716
+
+Base 587
+------
+Dimension: world
+Sub-bases: 1
+Center: X=-3949 Y=-52 Z=-3249
+
+  1. X=-3949 Y=-52 Z=-3249
+
+Base 588
+------
+Dimension: world_nether
+Sub-bases: 1
+Center: X=383 Y=14 Z=4938
+
+  1. X=383 Y=14 Z=4938
+
+Base 589
+------
+Dimension: world
+Sub-bases: 2
+Center: X=4619 Y=4.5 Z=37.5
+
+  1. X=4709 Y=-54 Z=75
+  2. X=4529 Y=63 Z=0
+
+Base 590
+------
+Dimension: world
+Sub-bases: 3
+Center: X=2953.7 Y=-34.7 Z=-3282
+
+  1. X=3191 Y=-51 Z=-3441
+  2. X=2892 Y=-27 Z=-3235
+  3. X=2778 Y=-26 Z=-3170
+
+Base 591
+------
+Dimension: world
+Sub-bases: 2
+Center: X=-758 Y=11.5 Z=4522.5
+
+  1. X=-815 Y=12 Z=4522
+  2. X=-701 Y=11 Z=4523
+
+Base 592
+------
+Dimension: world
+Sub-bases: 1
+Center: X=2856 Y=-32 Z=3114
+
+  1. X=2856 Y=-32 Z=3114
+
+Base 593
+------
+Dimension: world
+Sub-bases: 1
+Center: X=-3866 Y=-58 Z=-1614
+
+  1. X=-3866 Y=-58 Z=-1614
+
+Base 594
+------
+Dimension: world
+Sub-bases: 3
+Center: X=-852.7 Y=10.7 Z=-3784.3
+
+  1. X=-1046 Y=-44 Z=-3936
+  2. X=-736 Y=11 Z=-3923
+  3. X=-776 Y=65 Z=-3494
+
+Base 595
+------
+Dimension: world_nether
+Sub-bases: 1
+Center: X=3243 Y=16 Z=2356
+
+  1. X=3243 Y=16 Z=2356
+
+Base 596
+------
+Dimension: unknown
+Sub-bases: 1
+Center: X=3283.5 Y=64 Z=1708.5
+
+  1. X=3283.5 Y=64 Z=1708.5
+
+Base 597
+------
+Dimension: world_nether
+Sub-bases: 1
+Center: X=-2524 Y=121 Z=2567
+
+  1. X=-2524 Y=121 Z=2567
+
+Base 598
+------
+Dimension: world_nether
+Sub-bases: 1
+Center: X=3480 Y=63 Z=-321
+
+  1. X=3480 Y=63 Z=-321
+
+Base 599
+------
+Dimension: world_nether
+Sub-bases: 1
+Center: X=595 Y=92 Z=-3217
+
+  1. X=595 Y=92 Z=-3217
+
+Base 600
+------
+Dimension: world_nether
+Sub-bases: 1
+Center: X=1267 Y=13 Z=2586
+
+  1. X=1267 Y=13 Z=2586
+
+Base 601
+------
+Dimension: world_nether
+Sub-bases: 1
+Center: X=-374 Y=29 Z=-1503
+
+  1. X=-374 Y=29 Z=-1503
+
+Base 602
+------
+Dimension: world_nether
+Sub-bases: 1
+Center: X=1011 Y=121 Z=2
+
+  1. X=1011 Y=121 Z=2
+
+Base 603
+------
+Dimension: world_the_end
+Sub-bases: 1
+Source: Badmines, 4flow, tete old end base
+Center: X=-42190 Y=64 Z=116160
+
+  1. X=-42190 Y=64 Z=116160
+
+Base 604
+------
+Dimension: world
+Sub-bases: 1
+Source: V2r, Marty Etc
+Center: X=-1090000 Y=64 Z=2610000
+
+  1. X=-1090000 Y=64 Z=2610000
+
+Base 605
+------
+Dimension: world
+Sub-bases: 1
+Source: Worldborder base
+Center: X=720000 Y=64 Z=-29865000
+
+  1. X=720000 Y=64 Z=-29865000
+
+Base 606
+------
+Dimension: world
+Sub-bases: 1
+Source: Vendarien Base
+Center: X=-1035800 Y=64 Z=-296600
+
+  1. X=-1035800 Y=64 Z=-296600
+
+Base 607
+------
+Dimension: world_nether
+Sub-bases: 1
+Source: Moppl Nether Perimeter
+Center: X=1010200 Y=64 Z=305000
+
+  1. X=1010200 Y=64 Z=305000
+
+Base 608
+------
+Dimension: world
+Sub-bases: 1
+Source: Loid, Rile, Dabble Base
+Center: X=-5537103 Y=64 Z=-2273046
+
+  1. X=-5537103 Y=64 Z=-2273046
+
+Base 609
+------
+Dimension: world
+Sub-bases: 1
+Source: Yoyos_ Base
+Center: X=-94781 Y=64 Z=2615439
+
+  1. X=-94781 Y=64 Z=2615439
+
+Base 610
+------
+Dimension: world
+Sub-bases: 1
+Source: Camshaft5 Base
+Center: X=-188262 Y=64 Z=-1117777
+
+  1. X=-188262 Y=64 Z=-1117777
+
+Base 611
+------
+Dimension: world
+Sub-bases: 1
+Source: Masherc Location?
+Center: X=-4210761 Y=64 Z=6294211
+
+  1. X=-4210761 Y=64 Z=6294211
+
+Base 612
+------
+Dimension: world
+Sub-bases: 1
+Source: Maju, Oztin, Badmines, Stixx, etc.
+Center: X=-1749127 Y=64 Z=-2893607
+
+  1. X=-1749127 Y=64 Z=-2893607
+
+Base 613
+------
+Dimension: world
+Sub-bases: 1
+Source: Victortheviking, dark_sage00 etc
+Center: X=491000 Y=64 Z=-5738431
+
+  1. X=491000 Y=64 Z=-5738431
+
+Base 614
+------
+Dimension: world
+Sub-bases: 1
+Source: Mjp_gcc etc
+Center: X=-31784 Y=64 Z=-779100
+
+  1. X=-31784 Y=64 Z=-779100
+
+Base 615
+------
+Dimension: world
+Sub-bases: 1
+Source: GS/Goldman
+Center: X=12525900 Y=64 Z=29208718
+
+  1. X=12525900 Y=64 Z=29208718
+
+Base 616
+------
+Dimension: world
+Sub-bases: 1
+Source: Xaero island candidate (Multiplayer_test.uneasyvanilla (1).com / null / mw$default / component 2, regions 2)
+Center: X=24183296 Y=64 Z=-28916992
+
+  1. X=24183296 Y=64 Z=-28916992
+
+Base 617
+------
+Dimension: world_nether
+Sub-bases: 1
+Source: Xaero island candidate (Multiplayer_uneasyvanilla (1).com / DIM-1 / mw$default / component 2, regions 44)
+Center: X=0 Y=64 Z=-2001408
+
+  1. X=0 Y=64 Z=-2001408
+
+Base 618
+------
+Dimension: world_nether
+Sub-bases: 1
+Source: Xaero island candidate (Multiplayer_uneasyvanilla (1).com / DIM-1 / mw$default / component 4, regions 18)
+Center: X=0 Y=64 Z=138496
+
+  1. X=0 Y=64 Z=138496
+
+Base 619
+------
+Dimension: world_nether
+Sub-bases: 1
+Source: Xaero island candidate (Multiplayer_uneasyvanilla (1).com / DIM-1 / mw$default / component 6, regions 15)
+Center: X=-178091 Y=64 Z=-71253
+
+  1. X=-178091 Y=64 Z=-71253
+
+Base 620
+------
+Dimension: world_nether
+Sub-bases: 1
+Source: Xaero island candidate (Multiplayer_uneasyvanilla (1).com / DIM-1 / mw$default / component 7, regions 12)
+Center: X=0 Y=64 Z=-147968
+
+  1. X=0 Y=64 Z=-147968
+
+Base 621
+------
+Dimension: world_nether
+Sub-bases: 1
+Source: Xaero island candidate (Multiplayer_uneasyvanilla (1).com / DIM-1 / mw$default / component 9, regions 12)
+Center: X=-206848 Y=64 Z=256
+
+  1. X=-206848 Y=64 Z=256
+
+Base 622
+------
+Dimension: world_nether
+Sub-bases: 1
+Source: Xaero island candidate (Multiplayer_uneasyvanilla (1).com / DIM-1 / mw$default / component 10, regions 12)
+Center: X=-21504 Y=64 Z=141824
+
+  1. X=-21504 Y=64 Z=141824
+
+Base 623
+------
+Dimension: world_nether
+Sub-bases: 1
+Source: Xaero island candidate (Multiplayer_uneasyvanilla (1).com / DIM-1 / mw$default / component 11, regions 11)
+Center: X=50479 Y=64 Z=-954
+
+  1. X=50479 Y=64 Z=-954
+
+Base 624
+------
+Dimension: world_nether
+Sub-bases: 1
+Source: Xaero island candidate (Multiplayer_uneasyvanilla (1).com / DIM-1 / mw$default / component 12, regions 11)
+Center: X=-4166 Y=64 Z=4445
+
+  1. X=-4166 Y=64 Z=4445
+
+Base 625
+------
+Dimension: world_nether
+Sub-bases: 1
+Source: Xaero island candidate (Multiplayer_uneasyvanilla (1).com / DIM-1 / mw$default / component 14, regions 10)
+Center: X=0 Y=64 Z=-58624
+
+  1. X=0 Y=64 Z=-58624
+
+Base 626
+------
+Dimension: world_nether
+Sub-bases: 1
+Source: Xaero island candidate (Multiplayer_uneasyvanilla (1).com / DIM-1 / mw$default / component 18, regions 9)
+Center: X=-270990 Y=64 Z=313
+
+  1. X=-270990 Y=64 Z=313
+
+Base 627
+------
+Dimension: world_nether
+Sub-bases: 1
+Source: Xaero island candidate (Multiplayer_uneasyvanilla (1).com / DIM-1 / mw$default / component 39, regions 6)
+Center: X=-25856 Y=64 Z=0
+
+  1. X=-25856 Y=64 Z=0
+
+Base 628
+------
+Dimension: world_nether
+Sub-bases: 1
+Source: Xaero island candidate (Multiplayer_uneasyvanilla (1).com / DIM-1 / mw$default / component 41, regions 6)
+Center: X=4352 Y=64 Z=-72192
+
+  1. X=4352 Y=64 Z=-72192
+
+Base 629
+------
+Dimension: world_nether
+Sub-bases: 1
+Source: Xaero island candidate (Multiplayer_uneasyvanilla (1).com / DIM-1 / mw$default / component 48, regions 6)
+Center: X=-400213 Y=64 Z=69973
+
+  1. X=-400213 Y=64 Z=69973
+
+Base 630
+------
+Dimension: world_nether
+Sub-bases: 1
+Source: Xaero island candidate (Multiplayer_uneasyvanilla (1).com / DIM-1 / mw$default / component 49, regions 6)
+Center: X=126208 Y=64 Z=1536
+
+  1. X=126208 Y=64 Z=1536
+
+Base 631
+------
+Dimension: world_nether
+Sub-bases: 1
+Source: Xaero island candidate (Multiplayer_uneasyvanilla (1).com / DIM-1 / mw$default / component 59, regions 5)
+Center: X=385587 Y=64 Z=-90880
+
+  1. X=385587 Y=64 Z=-90880
+
+Base 632
+------
+Dimension: world_nether
+Sub-bases: 1
+Source: Xaero island candidate (Multiplayer_uneasyvanilla (1).com / DIM-1 / mw$default / component 60, regions 5)
+Center: X=-326810 Y=64 Z=27597
+
+  1. X=-326810 Y=64 Z=27597
+
+Base 633
+------
+Dimension: world_nether
+Sub-bases: 1
+Source: Xaero island candidate (Multiplayer_uneasyvanilla (1).com / DIM-1 / mw$default / component 62, regions 4)
+Center: X=0 Y=64 Z=-3749888
+
+  1. X=0 Y=64 Z=-3749888
+
+Base 634
+------
+Dimension: world_nether
+Sub-bases: 1
+Source: Xaero island candidate (Multiplayer_uneasyvanilla (1).com / DIM-1 / mw$default / component 63, regions 4)
+Center: X=-16384 Y=64 Z=0
+
+  1. X=-16384 Y=64 Z=0
+
+Base 635
+------
+Dimension: world_nether
+Sub-bases: 1
+Source: Xaero island candidate (Multiplayer_uneasyvanilla (1).com / DIM-1 / mw$default / component 69, regions 4)
+Center: X=0 Y=64 Z=-3705344
+
+  1. X=0 Y=64 Z=-3705344
+
+Base 636
+------
+Dimension: world_nether
+Sub-bases: 1
+Source: Xaero island candidate (Multiplayer_uneasyvanilla (1).com / DIM-1 / mw$default / component 75, regions 4)
+Center: X=0 Y=64 Z=-3062784
+
+  1. X=0 Y=64 Z=-3062784
+
+Base 637
+------
+Dimension: world_nether
+Sub-bases: 1
+Source: Xaero island candidate (Multiplayer_uneasyvanilla (1).com / DIM-1 / mw$default / component 76, regions 4)
+Center: X=5120 Y=64 Z=5120
+
+  1. X=5120 Y=64 Z=5120
+
+Base 638
+------
+Dimension: world_nether
+Sub-bases: 1
+Source: Xaero island candidate (Multiplayer_uneasyvanilla (1).com / DIM-1 / mw$default / component 78, regions 4)
+Center: X=-116736 Y=64 Z=-3072
+
+  1. X=-116736 Y=64 Z=-3072
+
+Base 639
+------
+Dimension: world_nether
+Sub-bases: 1
+Source: Xaero island candidate (Multiplayer_uneasyvanilla (1).com / DIM-1 / mw$default / component 79, regions 4)
+Center: X=-293888 Y=64 Z=19456
+
+  1. X=-293888 Y=64 Z=19456
+
+Base 640
+------
+Dimension: world_nether
+Sub-bases: 1
+Source: Xaero island candidate (Multiplayer_uneasyvanilla (1).com / DIM-1 / mw$default / component 86, regions 4)
+Center: X=40960 Y=64 Z=14336
+
+  1. X=40960 Y=64 Z=14336
+
+Base 641
+------
+Dimension: world_nether
+Sub-bases: 1
+Source: Xaero island candidate (Multiplayer_uneasyvanilla (1).com / DIM-1 / mw$default / component 90, regions 4)
+Center: X=0 Y=64 Z=-1971200
+
+  1. X=0 Y=64 Z=-1971200
+
+Base 642
+------
+Dimension: world_nether
+Sub-bases: 1
+Source: Xaero island candidate (Multiplayer_uneasyvanilla (1).com / DIM-1 / mw$default / component 92, regions 4)
+Center: X=-5632 Y=64 Z=171520
+
+  1. X=-5632 Y=64 Z=171520
+
+Base 643
+------
+Dimension: world_nether
+Sub-bases: 1
+Source: Xaero island candidate (Multiplayer_uneasyvanilla (1).com / DIM-1 / mw$default / component 94, regions 4)
+Center: X=0 Y=64 Z=78336
+
+  1. X=0 Y=64 Z=78336
+
+Base 644
+------
+Dimension: world_nether
+Sub-bases: 1
+Source: Xaero island candidate (Multiplayer_uneasyvanilla (1).com / DIM-1 / mw$default / component 98, regions 4)
+Center: X=-73728 Y=64 Z=123904
+
+  1. X=-73728 Y=64 Z=123904
+
+Base 645
+------
+Dimension: world_nether
+Sub-bases: 1
+Source: Xaero island candidate (Multiplayer_uneasyvanilla (1).com / DIM-1 / mw$default / component 100, regions 4)
+Center: X=-9728 Y=64 Z=-9728
+
+  1. X=-9728 Y=64 Z=-9728
+
+Base 646
+------
+Dimension: world_nether
+Sub-bases: 1
+Source: Xaero island candidate (Multiplayer_uneasyvanilla (1).com / DIM-1 / mw$default / component 103, regions 4)
+Center: X=6144 Y=64 Z=0
+
+  1. X=6144 Y=64 Z=0
+
+Base 647
+------
+Dimension: world_nether
+Sub-bases: 1
+Source: Xaero island candidate (Multiplayer_uneasyvanilla (1).com / DIM-1 / mw$default / component 105, regions 4)
+Center: X=0 Y=64 Z=-1926656
+
+  1. X=0 Y=64 Z=-1926656
+
+Base 648
+------
+Dimension: world_nether
+Sub-bases: 1
+Source: Xaero island candidate (Multiplayer_uneasyvanilla (1).com / DIM-1 / mw$default / component 109, regions 4)
+Center: X=0 Y=64 Z=-32256
+
+  1. X=0 Y=64 Z=-32256
+
+Base 649
+------
+Dimension: world_nether
+Sub-bases: 1
+Source: Xaero island candidate (Multiplayer_uneasyvanilla (1).com / DIM-1 / mw$default / component 110, regions 4)
+Center: X=626688 Y=64 Z=15360
+
+  1. X=626688 Y=64 Z=15360
+
+Base 650
+------
+Dimension: world_nether
+Sub-bases: 1
+Source: Xaero island candidate (Multiplayer_uneasyvanilla (1).com / DIM-1 / mw$default / component 114, regions 4)
+Center: X=43008 Y=64 Z=9728
+
+  1. X=43008 Y=64 Z=9728
+
+Base 651
+------
+Dimension: world_nether
+Sub-bases: 1
+Source: Xaero island candidate (Multiplayer_uneasyvanilla (1).com / DIM-1 / mw$default / component 115, regions 4)
+Center: X=0 Y=64 Z=-3082752
+
+  1. X=0 Y=64 Z=-3082752
+
+Base 652
+------
+Dimension: world_nether
+Sub-bases: 1
+Source: Xaero island candidate (Multiplayer_uneasyvanilla (1).com / DIM-1 / mw$default / component 116, regions 4)
+Center: X=-58880 Y=64 Z=0
+
+  1. X=-58880 Y=64 Z=0
+
+Base 653
+------
+Dimension: world_nether
+Sub-bases: 1
+Source: Xaero island candidate (Multiplayer_uneasyvanilla (1).com / DIM-1 / mw$default / component 117, regions 4)
+Center: X=1565696 Y=64 Z=3651072
+
+  1. X=1565696 Y=64 Z=3651072
+
+Base 654
+------
+Dimension: world_nether
+Sub-bases: 1
+Source: Xaero island candidate (Multiplayer_uneasyvanilla (1).com / DIM-1 / mw$default / component 122, regions 4)
+Center: X=0 Y=64 Z=-97280
+
+  1. X=0 Y=64 Z=-97280
+
+Base 655
+------
+Dimension: world_nether
+Sub-bases: 1
+Source: Xaero island candidate (Multiplayer_uneasyvanilla (1).com / DIM-1 / mw$default / component 127, regions 4)
+Center: X=0 Y=64 Z=-164352
+
+  1. X=0 Y=64 Z=-164352
+
+Base 656
+------
+Dimension: world_nether
+Sub-bases: 1
+Source: Xaero island candidate (Multiplayer_uneasyvanilla (1).com / DIM-1 / mw$default / component 137, regions 3)
+Center: X=177408 Y=64 Z=1280
+
+  1. X=177408 Y=64 Z=1280
+
+Base 657
+------
+Dimension: world_nether
+Sub-bases: 1
+Source: Xaero island candidate (Multiplayer_uneasyvanilla (1).com / DIM-1 / mw$default / component 141, regions 2)
+Center: X=217856 Y=64 Z=0
+
+  1. X=217856 Y=64 Z=0
+
+Base 658
+------
+Dimension: world_nether
+Sub-bases: 1
+Source: Xaero island candidate (Multiplayer_uneasyvanilla (1).com / DIM-1 / mw$default / component 142, regions 2)
+Center: X=-254720 Y=64 Z=56320
+
+  1. X=-254720 Y=64 Z=56320
+
+Base 659
+------
+Dimension: world_nether
+Sub-bases: 1
+Source: Xaero island candidate (Multiplayer_uneasyvanilla (1).com / DIM-1 / mw$default / component 144, regions 2)
+Center: X=-42240 Y=64 Z=0
+
+  1. X=-42240 Y=64 Z=0
+
+Base 660
+------
+Dimension: world_nether
+Sub-bases: 1
+Source: Xaero island candidate (Multiplayer_uneasyvanilla (1).com / DIM-1 / mw$default / component 147, regions 2)
+Center: X=-35328 Y=64 Z=177408
+
+  1. X=-35328 Y=64 Z=177408
+
+Base 661
+------
+Dimension: world_nether
+Sub-bases: 1
+Source: Xaero island candidate (Multiplayer_uneasyvanilla (1).com / DIM-1 / mw$default / component 151, regions 2)
+Center: X=-11008 Y=64 Z=-3759616
+
+  1. X=-11008 Y=64 Z=-3759616
+
+Base 662
+------
+Dimension: world_nether
+Sub-bases: 1
+Source: Xaero island candidate (Multiplayer_uneasyvanilla (1).com / DIM-1 / mw$default / component 153, regions 2)
+Center: X=-10496 Y=64 Z=-95744
+
+  1. X=-10496 Y=64 Z=-95744
+
+Base 663
+------
+Dimension: world_nether
+Sub-bases: 1
+Source: Xaero island candidate (Multiplayer_uneasyvanilla (1).com / DIM-1 / mw$default / component 154, regions 2)
+Center: X=0 Y=64 Z=6400
+
+  1. X=0 Y=64 Z=6400
+
+Base 664
+------
+Dimension: world_nether
+Sub-bases: 1
+Source: Xaero island candidate (Multiplayer_uneasyvanilla (1).com / DIM-1 / mw$default / component 155, regions 2)
+Center: X=-29440 Y=64 Z=-2048
+
+  1. X=-29440 Y=64 Z=-2048
+
+Base 665
+------
+Dimension: world_nether
+Sub-bases: 1
+Source: Xaero island candidate (Multiplayer_uneasyvanilla (1).com / DIM-1 / mw$default / component 159, regions 2)
+Center: X=-300032 Y=64 Z=21248
+
+  1. X=-300032 Y=64 Z=21248
+
+Base 666
+------
+Dimension: world_nether
+Sub-bases: 1
+Source: Xaero island candidate (Multiplayer_uneasyvanilla (1).com / DIM-1 / mw$default / component 160, regions 2)
+Center: X=16896 Y=64 Z=-256
+
+  1. X=16896 Y=64 Z=-256
+
+Base 667
+------
+Dimension: world_nether
+Sub-bases: 1
+Source: Xaero island candidate (Multiplayer_uneasyvanilla (1).com / DIM-1 / mw$default / component 169, regions 2)
+Center: X=0 Y=64 Z=-88832
+
+  1. X=0 Y=64 Z=-88832
+
+Base 668
+------
+Dimension: world_nether
+Sub-bases: 1
+Source: Xaero island candidate (Multiplayer_uneasyvanilla (1).com / DIM-1 / mw$default / component 175, regions 2)
+Center: X=0 Y=64 Z=141568
+
+  1. X=0 Y=64 Z=141568
+
+Base 669
+------
+Dimension: world_nether
+Sub-bases: 1
+Source: Xaero island candidate (Multiplayer_uneasyvanilla (1).com / DIM-1 / mw$default / component 176, regions 2)
+Center: X=25088 Y=64 Z=-93440
+
+  1. X=25088 Y=64 Z=-93440
+
+Base 670
+------
+Dimension: world_nether
+Sub-bases: 1
+Source: Xaero island candidate (Multiplayer_uneasyvanilla (1).com / DIM-1 / mw$default / component 184, regions 2)
+Center: X=-264960 Y=64 Z=0
+
+  1. X=-264960 Y=64 Z=0
+
+Base 671
+------
+Dimension: world_nether
+Sub-bases: 1
+Source: Xaero island candidate (Multiplayer_uneasyvanilla (1).com / DIM-1 / mw$default / component 185, regions 2)
+Center: X=-154112 Y=64 Z=92416
+
+  1. X=-154112 Y=64 Z=92416
+
+Base 672
+------
+Dimension: world_nether
+Sub-bases: 1
+Source: Xaero island candidate (Multiplayer_uneasyvanilla (1).com / DIM-1 / mw$default / component 186, regions 2)
+Center: X=-17920 Y=64 Z=-19200
+
+  1. X=-17920 Y=64 Z=-19200
+
+Base 673
+------
+Dimension: world_nether
+Sub-bases: 1
+Source: Xaero island candidate (Multiplayer_uneasyvanilla (1).com / DIM-1 / mw$default / component 190, regions 2)
+Center: X=54016 Y=64 Z=902144
+
+  1. X=54016 Y=64 Z=902144
+
+Base 674
+------
+Dimension: world_nether
+Sub-bases: 1
+Source: Xaero island candidate (Multiplayer_uneasyvanilla (1).com / DIM-1 / mw$default / component 201, regions 2)
+Center: X=8448 Y=64 Z=512
+
+  1. X=8448 Y=64 Z=512
+
+Base 675
+------
+Dimension: world_nether
+Sub-bases: 1
+Source: Xaero island candidate (Multiplayer_uneasyvanilla (1).com / DIM-1 / mw$default / component 215, regions 1)
+Center: X=-23808 Y=64 Z=-139520
+
+  1. X=-23808 Y=64 Z=-139520
+
+Base 676
+------
+Dimension: world_nether
+Sub-bases: 1
+Source: Xaero island candidate (Multiplayer_uneasyvanilla (1).com / DIM-1 / mw$default / component 216, regions 1)
+Center: X=-30464 Y=64 Z=30464
+
+  1. X=-30464 Y=64 Z=30464
+
+Base 677
+------
+Dimension: world_nether
+Sub-bases: 1
+Source: Xaero island candidate (Multiplayer_uneasyvanilla (1).com / DIM-1 / mw$default / component 218, regions 1)
+Center: X=-154880 Y=64 Z=91392
+
+  1. X=-154880 Y=64 Z=91392
+
+Base 678
+------
+Dimension: world_nether
+Sub-bases: 1
+Source: Xaero island candidate (Multiplayer_uneasyvanilla (1).com / DIM-1 / mw$default / component 219, regions 1)
+Center: X=-276224 Y=64 Z=256
+
+  1. X=-276224 Y=64 Z=256
+
+Base 679
+------
+Dimension: world_nether
+Sub-bases: 1
+Source: Xaero island candidate (Multiplayer_uneasyvanilla (1).com / DIM-1 / mw$default / component 222, regions 1)
+Center: X=-1280 Y=64 Z=1280
+
+  1. X=-1280 Y=64 Z=1280
+
+Base 680
+------
+Dimension: world_the_end
+Sub-bases: 1
+Source: Xaero island candidate (Multiplayer_uneasyvanilla (1).com / DIM1 / mw$default / component 2, regions 12)
+Center: X=512 Y=64 Z=0
+
+  1. X=512 Y=64 Z=0
+
+Base 681
+------
+Dimension: world_the_end
+Sub-bases: 1
+Source: Xaero island candidate (Multiplayer_uneasyvanilla (1).com / DIM1 / mw$default / component 3, regions 6)
+Center: X=-53504 Y=64 Z=109056
+
+  1. X=-53504 Y=64 Z=109056
+
+Base 682
+------
+Dimension: world_the_end
+Sub-bases: 1
+Source: Xaero island candidate (Multiplayer_uneasyvanilla (1).com / DIM1 / mw$default / component 4, regions 4)
+Center: X=66560 Y=64 Z=1024
+
+  1. X=66560 Y=64 Z=1024
+
+Base 683
+------
+Dimension: world_the_end
+Sub-bases: 1
+Source: Xaero island candidate (Multiplayer_uneasyvanilla (1).com / DIM1 / mw$default / component 5, regions 4)
+Center: X=227328 Y=64 Z=-33792
+
+  1. X=227328 Y=64 Z=-33792
+
+Base 684
+------
+Dimension: world_the_end
+Sub-bases: 1
+Source: Xaero island candidate (Multiplayer_uneasyvanilla (1).com / DIM1 / mw$default / component 6, regions 4)
+Center: X=57344 Y=64 Z=2048
+
+  1. X=57344 Y=64 Z=2048
+
+Base 685
+------
+Dimension: world_the_end
+Sub-bases: 1
+Source: Xaero island candidate (Multiplayer_uneasyvanilla (1).com / DIM1 / mw$default / component 7, regions 4)
+Center: X=-116736 Y=64 Z=8192
+
+  1. X=-116736 Y=64 Z=8192
+
+Base 686
+------
+Dimension: world_the_end
+Sub-bases: 1
+Source: Xaero island candidate (Multiplayer_uneasyvanilla (1).com / DIM1 / mw$default / component 8, regions 4)
+Center: X=2560 Y=64 Z=3072
+
+  1. X=2560 Y=64 Z=3072
+
+Base 687
+------
+Dimension: world_the_end
+Sub-bases: 1
+Source: Xaero island candidate (Multiplayer_uneasyvanilla (1).com / DIM1 / mw$default / component 10, regions 4)
+Center: X=53760 Y=64 Z=8704
+
+  1. X=53760 Y=64 Z=8704
+
+Base 688
+------
+Dimension: world_the_end
+Sub-bases: 1
+Source: Xaero island candidate (Multiplayer_uneasyvanilla (1).com / DIM1 / mw$default / component 11, regions 4)
+Center: X=55296 Y=64 Z=0
+
+  1. X=55296 Y=64 Z=0
+
+Base 689
+------
+Dimension: world_the_end
+Sub-bases: 1
+Source: Xaero island candidate (Multiplayer_uneasyvanilla (1).com / DIM1 / mw$default / component 12, regions 3)
+Center: X=64085 Y=64 Z=-35755
+
+  1. X=64085 Y=64 Z=-35755
+
+Base 690
+------
+Dimension: world_the_end
+Sub-bases: 1
+Source: Xaero island candidate (Multiplayer_uneasyvanilla (1).com / DIM1 / mw$default / component 13, regions 3)
+Center: X=-127573 Y=64 Z=65621
+
+  1. X=-127573 Y=64 Z=65621
+
+Base 691
+------
+Dimension: world_the_end
+Sub-bases: 1
+Source: Xaero island candidate (Multiplayer_uneasyvanilla (1).com / DIM1 / mw$default / component 14, regions 3)
+Center: X=-132181 Y=64 Z=69205
+
+  1. X=-132181 Y=64 Z=69205
+
+Base 692
+------
+Dimension: world_the_end
+Sub-bases: 1
+Source: Xaero island candidate (Multiplayer_uneasyvanilla (1).com / DIM1 / mw$default / component 15, regions 2)
+Center: X=-14848 Y=64 Z=-19712
+
+  1. X=-14848 Y=64 Z=-19712
+
+Base 693
+------
+Dimension: world_the_end
+Sub-bases: 1
+Source: Xaero island candidate (Multiplayer_uneasyvanilla (1).com / DIM1 / mw$default / component 16, regions 2)
+Center: X=524288 Y=64 Z=507136
+
+  1. X=524288 Y=64 Z=507136
+
+Base 694
+------
+Dimension: world_the_end
+Sub-bases: 1
+Source: Xaero island candidate (Multiplayer_uneasyvanilla (1).com / DIM1 / mw$default / component 17, regions 2)
+Center: X=51200 Y=64 Z=-55552
+
+  1. X=51200 Y=64 Z=-55552
+
+Base 695
+------
+Dimension: world_the_end
+Sub-bases: 1
+Source: Xaero island candidate (Multiplayer_uneasyvanilla (1).com / DIM1 / mw$default / component 18, regions 2)
+Center: X=-26368 Y=64 Z=142336
+
+  1. X=-26368 Y=64 Z=142336
+
+Base 696
+------
+Dimension: world_the_end
+Sub-bases: 1
+Source: Xaero island candidate (Multiplayer_uneasyvanilla (1).com / DIM1 / mw$default / component 19, regions 2)
+Center: X=-394240 Y=64 Z=395008
+
+  1. X=-394240 Y=64 Z=395008
+
+Base 697
+------
+Dimension: world_the_end
+Sub-bases: 1
+Source: Xaero island candidate (Multiplayer_uneasyvanilla (1).com / DIM1 / mw$default / component 20, regions 2)
+Center: X=-3072 Y=64 Z=71424
+
+  1. X=-3072 Y=64 Z=71424
+
+Base 698
+------
+Dimension: world_the_end
+Sub-bases: 1
+Source: Xaero island candidate (Multiplayer_uneasyvanilla (1).com / DIM1 / mw$default / component 21, regions 2)
+Center: X=16640 Y=64 Z=-4096
+
+  1. X=16640 Y=64 Z=-4096
+
+Base 699
+------
+Dimension: world_the_end
+Sub-bases: 1
+Source: Xaero island candidate (Multiplayer_uneasyvanilla (1).com / DIM1 / mw$default / component 22, regions 1)
+Center: X=62720 Y=64 Z=12032
+
+  1. X=62720 Y=64 Z=12032
+
+Base 700
+------
+Dimension: world_the_end
+Sub-bases: 1
+Source: Xaero island candidate (Multiplayer_uneasyvanilla (1).com / DIM1 / mw$default / component 23, regions 1)
+Center: X=-90880 Y=64 Z=256
+
+  1. X=-90880 Y=64 Z=256
+
+Base 701
+------
+Dimension: world_the_end
+Sub-bases: 1
+Source: Xaero island candidate (Multiplayer_uneasyvanilla (1).com / DIM1 / mw$default / component 24, regions 1)
+Center: X=-9984 Y=64 Z=17664
+
+  1. X=-9984 Y=64 Z=17664
+
+Base 702
+------
+Dimension: world_the_end
+Sub-bases: 1
+Source: Xaero island candidate (Multiplayer_uneasyvanilla (1).com / DIM1 / mw$default / component 25, regions 1)
+Center: X=39680 Y=64 Z=124160
+
+  1. X=39680 Y=64 Z=124160
+
+Base 703
+------
+Dimension: world_the_end
+Sub-bases: 1
+Source: Xaero island candidate (Multiplayer_uneasyvanilla (1).com / DIM1 / mw$default / component 26, regions 1)
+Center: X=-6912 Y=64 Z=-2304
+
+  1. X=-6912 Y=64 Z=-2304
+
+Base 704
+------
+Dimension: world_the_end
+Sub-bases: 1
+Source: Xaero island candidate (Multiplayer_uneasyvanilla (1).com / DIM1 / mw$default / component 27, regions 1)
+Center: X=-23808 Y=64 Z=13056
+
+  1. X=-23808 Y=64 Z=13056
+
+Base 705
+------
+Dimension: world
+Sub-bases: 1
+Source: Xaero island candidate (Multiplayer_uneasyvanilla (1).com / null / mw$default / component 6, regions 25)
+Center: X=-360397 Y=64 Z=-1668762
+
+  1. X=-360397 Y=64 Z=-1668762
+
+Base 706
+------
+Dimension: world
+Sub-bases: 1
+Source: Xaero island candidate (Multiplayer_uneasyvanilla (1).com / null / mw$default / component 15, regions 16)
+Center: X=-33056 Y=64 Z=39264
+
+  1. X=-33056 Y=64 Z=39264
+
+Base 707
+------
+Dimension: world
+Sub-bases: 1
+Source: Xaero island candidate (Multiplayer_uneasyvanilla (1).com / null / mw$default / component 20, regions 14)
+Center: X=188379 Y=64 Z=-392777
+
+  1. X=188379 Y=64 Z=-392777
+
+Base 708
+------
+Dimension: world
+Sub-bases: 1
+Source: Xaero island candidate (Multiplayer_uneasyvanilla (1).com / null / mw$default / component 23, regions 13)
+Center: X=2186063 Y=64 Z=314663
+
+  1. X=2186063 Y=64 Z=314663
+
+Base 709
+------
+Dimension: world
+Sub-bases: 1
+Source: Xaero island candidate (Multiplayer_uneasyvanilla (1).com / null / mw$default / component 25, regions 13)
+Center: X=-30582 Y=64 Z=-96197
+
+  1. X=-30582 Y=64 Z=-96197
+
+Base 710
+------
+Dimension: world
+Sub-bases: 1
+Source: Xaero island candidate (Multiplayer_uneasyvanilla (1).com / null / mw$default / component 28, regions 12)
+Center: X=3084800 Y=64 Z=-727637
+
+  1. X=3084800 Y=64 Z=-727637
+
+Base 711
+------
+Dimension: world
+Sub-bases: 1
+Source: Xaero island candidate (Multiplayer_uneasyvanilla (1).com / null / mw$default / component 29, regions 12)
+Center: X=7997440 Y=64 Z=1919232
+
+  1. X=7997440 Y=64 Z=1919232
+
+Base 712
+------
+Dimension: world
+Sub-bases: 1
+Source: Xaero island candidate (Multiplayer_uneasyvanilla (1).com / null / mw$default / component 45, regions 9)
+Center: X=7936 Y=64 Z=-6912
+
+  1. X=7936 Y=64 Z=-6912
+
+Base 713
+------
+Dimension: world
+Sub-bases: 1
+Source: Xaero island candidate (Multiplayer_uneasyvanilla (1).com / null / mw$default / component 48, regions 9)
+Center: X=121543 Y=64 Z=-106012
+
+  1. X=121543 Y=64 Z=-106012
+
+Base 714
+------
+Dimension: world
+Sub-bases: 1
+Source: Xaero island candidate (Multiplayer_uneasyvanilla (1).com / null / mw$default / component 50, regions 8)
+Center: X=-1419072 Y=64 Z=-588480
+
+  1. X=-1419072 Y=64 Z=-588480
+
+Base 715
+------
+Dimension: world
+Sub-bases: 1
+Source: Xaero island candidate (Multiplayer_uneasyvanilla (1).com / null / mw$default / component 56, regions 8)
+Center: X=779584 Y=64 Z=-5440
+
+  1. X=779584 Y=64 Z=-5440
+
+Base 716
+------
+Dimension: world
+Sub-bases: 1
+Source: Xaero island candidate (Multiplayer_uneasyvanilla (1).com / null / mw$default / component 61, regions 7)
+Center: X=-1433856 Y=64 Z=-564992
+
+  1. X=-1433856 Y=64 Z=-564992
+
+Base 717
+------
+Dimension: world
+Sub-bases: 1
+Source: Xaero island candidate (Multiplayer_uneasyvanilla (1).com / null / mw$default / component 67, regions 7)
+Center: X=-88832 Y=64 Z=101632
+
+  1. X=-88832 Y=64 Z=101632
+
+Base 718
+------
+Dimension: world
+Sub-bases: 1
+Source: Xaero island candidate (Multiplayer_uneasyvanilla (1).com / null / mw$default / component 68, regions 7)
+Center: X=-8960 Y=64 Z=79470
+
+  1. X=-8960 Y=64 Z=79470
+
+Base 719
+------
+Dimension: world
+Sub-bases: 1
+Source: Xaero island candidate (Multiplayer_uneasyvanilla (1).com / null / mw$default / component 71, regions 7)
+Center: X=-25710 Y=64 Z=4645
+
+  1. X=-25710 Y=64 Z=4645
+
+Base 720
+------
+Dimension: world
+Sub-bases: 1
+Source: Xaero island candidate (Multiplayer_uneasyvanilla (1).com / null / mw$default / component 72, regions 7)
+Center: X=-2606555 Y=64 Z=202203
+
+  1. X=-2606555 Y=64 Z=202203
+
+Base 721
+------
+Dimension: world
+Sub-bases: 1
+Source: Xaero island candidate (Multiplayer_uneasyvanilla (1).com / null / mw$default / component 83, regions 6)
+Center: X=1024 Y=64 Z=-264448
+
+  1. X=1024 Y=64 Z=-264448
+
+Base 722
+------
+Dimension: world
+Sub-bases: 1
+Source: Xaero island candidate (Multiplayer_uneasyvanilla (1).com / null / mw$default / component 88, regions 6)
+Center: X=14336 Y=64 Z=-1792
+
+  1. X=14336 Y=64 Z=-1792
+
+Base 723
+------
+Dimension: world
+Sub-bases: 1
+Source: Xaero island candidate (Multiplayer_uneasyvanilla (1).com / null / mw$default / component 90, regions 6)
+Center: X=-680192 Y=64 Z=265216
+
+  1. X=-680192 Y=64 Z=265216
+
+Base 724
+------
+Dimension: world
+Sub-bases: 1
+Source: Xaero island candidate (Multiplayer_uneasyvanilla (1).com / null / mw$default / component 97, regions 6)
+Center: X=100693 Y=64 Z=1613056
+
+  1. X=100693 Y=64 Z=1613056
+
+Base 725
+------
+Dimension: world
+Sub-bases: 1
+Source: Xaero island candidate (Multiplayer_uneasyvanilla (1).com / null / mw$default / component 103, regions 6)
+Center: X=-1037824 Y=64 Z=-299008
+
+  1. X=-1037824 Y=64 Z=-299008
+
+Base 726
+------
+Dimension: world
+Sub-bases: 1
+Source: Xaero island candidate (Multiplayer_uneasyvanilla (1).com / null / mw$default / component 106, regions 6)
+Center: X=14415360 Y=64 Z=29345024
+
+  1. X=14415360 Y=64 Z=29345024
+
+Base 727
+------
+Dimension: world
+Sub-bases: 1
+Source: Xaero island candidate (Multiplayer_uneasyvanilla (1).com / null / mw$default / component 116, regions 5)
+Center: X=-1265408 Y=64 Z=706714
+
+  1. X=-1265408 Y=64 Z=706714
+
+Base 728
+------
+Dimension: world
+Sub-bases: 1
+Source: Xaero island candidate (Multiplayer_uneasyvanilla (1).com / null / mw$default / component 119, regions 5)
+Center: X=5685402 Y=64 Z=75213
+
+  1. X=5685402 Y=64 Z=75213
+
+Base 729
+------
+Dimension: world
+Sub-bases: 1
+Source: Xaero island candidate (Multiplayer_uneasyvanilla (1).com / null / mw$default / component 132, regions 4)
+Center: X=-4230656 Y=64 Z=6231552
+
+  1. X=-4230656 Y=64 Z=6231552
+
+Base 730
+------
+Dimension: world
+Sub-bases: 1
+Source: Xaero island candidate (Multiplayer_uneasyvanilla (1).com / null / mw$default / component 135, regions 4)
+Center: X=88064 Y=64 Z=-139776
+
+  1. X=88064 Y=64 Z=-139776
+
+Base 731
+------
+Dimension: world
+Sub-bases: 1
+Source: Xaero island candidate (Multiplayer_uneasyvanilla (1).com / null / mw$default / component 138, regions 4)
+Center: X=-43520 Y=64 Z=18944
+
+  1. X=-43520 Y=64 Z=18944
+
+Base 732
+------
+Dimension: world
+Sub-bases: 1
+Source: Xaero island candidate (Multiplayer_uneasyvanilla (1).com / null / mw$default / component 143, regions 4)
+Center: X=-934400 Y=64 Z=-25088
+
+  1. X=-934400 Y=64 Z=-25088
+
+Base 733
+------
+Dimension: world
+Sub-bases: 1
+Source: Xaero island candidate (Multiplayer_uneasyvanilla (1).com / null / mw$default / component 144, regions 4)
+Center: X=39424 Y=64 Z=-3360256
+
+  1. X=39424 Y=64 Z=-3360256
+
+Base 734
+------
+Dimension: world
+Sub-bases: 1
+Source: Xaero island candidate (Multiplayer_uneasyvanilla (1).com / null / mw$default / component 147, regions 4)
+Center: X=80384 Y=64 Z=4096
+
+  1. X=80384 Y=64 Z=4096
+
+Base 735
+------
+Dimension: world
+Sub-bases: 1
+Source: Xaero island candidate (Multiplayer_uneasyvanilla (1).com / null / mw$default / component 151, regions 4)
+Center: X=-34048 Y=64 Z=-779648
+
+  1. X=-34048 Y=64 Z=-779648
+
+Base 736
+------
+Dimension: world
+Sub-bases: 1
+Source: Xaero island candidate (Multiplayer_uneasyvanilla (1).com / null / mw$default / component 152, regions 4)
+Center: X=-23552 Y=64 Z=14336
+
+  1. X=-23552 Y=64 Z=14336
+
+Base 737
+------
+Dimension: world
+Sub-bases: 1
+Source: Xaero island candidate (Multiplayer_uneasyvanilla (1).com / null / mw$default / component 154, regions 4)
+Center: X=12800 Y=64 Z=39936
+
+  1. X=12800 Y=64 Z=39936
+
+Base 738
+------
+Dimension: world
+Sub-bases: 1
+Source: Xaero island candidate (Multiplayer_uneasyvanilla (1).com / null / mw$default / component 159, regions 4)
+Center: X=18944 Y=64 Z=-20224
+
+  1. X=18944 Y=64 Z=-20224
+
+Base 739
+------
+Dimension: world
+Sub-bases: 1
+Source: Xaero island candidate (Multiplayer_uneasyvanilla (1).com / null / mw$default / component 167, regions 4)
+Center: X=-107520 Y=64 Z=96768
+
+  1. X=-107520 Y=64 Z=96768
+
+Base 740
+------
+Dimension: world
+Sub-bases: 1
+Source: Xaero island candidate (Multiplayer_uneasyvanilla (1).com / null / mw$default / component 170, regions 4)
+Center: X=-244224 Y=64 Z=-29184
+
+  1. X=-244224 Y=64 Z=-29184
+
+Base 741
+------
+Dimension: world
+Sub-bases: 1
+Source: Xaero island candidate (Multiplayer_uneasyvanilla (1).com / null / mw$default / component 174, regions 4)
+Center: X=67072 Y=64 Z=4096
+
+  1. X=67072 Y=64 Z=4096
+
+Base 742
+------
+Dimension: world
+Sub-bases: 1
+Source: Xaero island candidate (Multiplayer_uneasyvanilla (1).com / null / mw$default / component 175, regions 4)
+Center: X=1536 Y=64 Z=-571392
+
+  1. X=1536 Y=64 Z=-571392
+
+Base 743
+------
+Dimension: world
+Sub-bases: 1
+Source: Xaero island candidate (Multiplayer_uneasyvanilla (1).com / null / mw$default / component 177, regions 4)
+Center: X=-285696 Y=64 Z=-1348608
+
+  1. X=-285696 Y=64 Z=-1348608
+
+Base 744
+------
+Dimension: world
+Sub-bases: 1
+Source: Xaero island candidate (Multiplayer_uneasyvanilla (1).com / null / mw$default / component 178, regions 4)
+Center: X=492032 Y=64 Z=-5737984
+
+  1. X=492032 Y=64 Z=-5737984
+
+Base 745
+------
+Dimension: world
+Sub-bases: 1
+Source: Xaero island candidate (Multiplayer_uneasyvanilla (1).com / null / mw$default / component 179, regions 4)
+Center: X=1389568 Y=64 Z=-128000
+
+  1. X=1389568 Y=64 Z=-128000
+
+Base 746
+------
+Dimension: world
+Sub-bases: 1
+Source: Xaero island candidate (Multiplayer_uneasyvanilla (1).com / null / mw$default / component 181, regions 4)
+Center: X=-87552 Y=64 Z=-30000128
+
+  1. X=-87552 Y=64 Z=-30000128
+
+Base 747
+------
+Dimension: world
+Sub-bases: 1
+Source: Xaero island candidate (Multiplayer_uneasyvanilla (1).com / null / mw$default / component 182, regions 4)
+Center: X=7398912 Y=64 Z=1732096
+
+  1. X=7398912 Y=64 Z=1732096
+
+Base 748
+------
+Dimension: world
+Sub-bases: 1
+Source: Xaero island candidate (Multiplayer_uneasyvanilla (1).com / null / mw$default / component 184, regions 4)
+Center: X=-1733120 Y=64 Z=248832
+
+  1. X=-1733120 Y=64 Z=248832
+
+Base 749
+------
+Dimension: world
+Sub-bases: 1
+Source: Xaero island candidate (Multiplayer_uneasyvanilla (1).com / null / mw$default / component 191, regions 4)
+Center: X=1746944 Y=64 Z=-5742592
+
+  1. X=1746944 Y=64 Z=-5742592
+
+Base 750
+------
+Dimension: world
+Sub-bases: 1
+Source: Xaero island candidate (Multiplayer_uneasyvanilla (1).com / null / mw$default / component 192, regions 4)
+Center: X=4684288 Y=64 Z=-805888
+
+  1. X=4684288 Y=64 Z=-805888
+
+Base 751
+------
+Dimension: world
+Sub-bases: 1
+Source: Xaero island candidate (Multiplayer_uneasyvanilla (1).com / null / mw$default / component 193, regions 4)
+Center: X=0 Y=64 Z=-17408
+
+  1. X=0 Y=64 Z=-17408
+
+Base 752
+------
+Dimension: world
+Sub-bases: 1
+Source: Xaero island candidate (Multiplayer_uneasyvanilla (1).com / null / mw$default / component 197, regions 4)
+Center: X=6144 Y=64 Z=39936
+
+  1. X=6144 Y=64 Z=39936
+
+Base 753
+------
+Dimension: world
+Sub-bases: 1
+Source: Xaero island candidate (Multiplayer_uneasyvanilla (1).com / null / mw$default / component 201, regions 4)
+Center: X=-28160 Y=64 Z=-9216
+
+  1. X=-28160 Y=64 Z=-9216
+
+Base 754
+------
+Dimension: world
+Sub-bases: 1
+Source: Xaero island candidate (Multiplayer_uneasyvanilla (1).com / null / mw$default / component 205, regions 4)
+Center: X=17408 Y=64 Z=-1094144
+
+  1. X=17408 Y=64 Z=-1094144
+
+Base 755
+------
+Dimension: world
+Sub-bases: 1
+Source: Xaero island candidate (Multiplayer_uneasyvanilla (1).com / null / mw$default / component 209, regions 4)
+Center: X=512 Y=64 Z=18944
+
+  1. X=512 Y=64 Z=18944
+
+Base 756
+------
+Dimension: world
+Sub-bases: 1
+Source: Xaero island candidate (Multiplayer_uneasyvanilla (1).com / null / mw$default / component 212, regions 4)
+Center: X=2271744 Y=64 Z=425984
+
+  1. X=2271744 Y=64 Z=425984
+
+Base 757
+------
+Dimension: world
+Sub-bases: 1
+Source: Xaero island candidate (Multiplayer_uneasyvanilla (1).com / null / mw$default / component 216, regions 4)
+Center: X=89600 Y=64 Z=5632
+
+  1. X=89600 Y=64 Z=5632
+
+Base 758
+------
+Dimension: world
+Sub-bases: 1
+Source: Xaero island candidate (Multiplayer_uneasyvanilla (1).com / null / mw$default / component 218, regions 4)
+Center: X=491520 Y=64 Z=77312
+
+  1. X=491520 Y=64 Z=77312
+
+Base 759
+------
+Dimension: world
+Sub-bases: 1
+Source: Xaero island candidate (Multiplayer_uneasyvanilla (1).com / null / mw$default / component 220, regions 4)
+Center: X=100864 Y=64 Z=66048
+
+  1. X=100864 Y=64 Z=66048
+
+Base 760
+------
+Dimension: world
+Sub-bases: 1
+Source: Xaero island candidate (Multiplayer_uneasyvanilla (1).com / null / mw$default / component 222, regions 4)
+Center: X=-519680 Y=64 Z=-1200128
+
+  1. X=-519680 Y=64 Z=-1200128
+
+Base 761
+------
+Dimension: world
+Sub-bases: 1
+Source: Xaero island candidate (Multiplayer_uneasyvanilla (1).com / null / mw$default / component 227, regions 4)
+Center: X=12800 Y=64 Z=-42496
+
+  1. X=12800 Y=64 Z=-42496
+
+Base 762
+------
+Dimension: world
+Sub-bases: 1
+Source: Xaero island candidate (Multiplayer_uneasyvanilla (1).com / null / mw$default / component 231, regions 4)
+Center: X=3072 Y=64 Z=26624
+
+  1. X=3072 Y=64 Z=26624
+
+Base 763
+------
+Dimension: world
+Sub-bases: 1
+Source: Xaero island candidate (Multiplayer_uneasyvanilla (1).com / null / mw$default / component 232, regions 4)
+Center: X=-244224 Y=64 Z=-48640
+
+  1. X=-244224 Y=64 Z=-48640
+
+Base 764
+------
+Dimension: world
+Sub-bases: 1
+Source: Xaero island candidate (Multiplayer_uneasyvanilla (1).com / null / mw$default / component 234, regions 4)
+Center: X=11264 Y=64 Z=798720
+
+  1. X=11264 Y=64 Z=798720
+
+Base 765
+------
+Dimension: world
+Sub-bases: 1
+Source: Xaero island candidate (Multiplayer_uneasyvanilla (1).com / null / mw$default / component 235, regions 4)
+Center: X=169472 Y=64 Z=47616
+
+  1. X=169472 Y=64 Z=47616
+
+Base 766
+------
+Dimension: world
+Sub-bases: 1
+Source: Xaero island candidate (Multiplayer_uneasyvanilla (1).com / null / mw$default / component 239, regions 4)
+Center: X=-28160 Y=64 Z=31232
+
+  1. X=-28160 Y=64 Z=31232
+
+Base 767
+------
+Dimension: world
+Sub-bases: 1
+Source: Xaero island candidate (Multiplayer_uneasyvanilla (1).com / null / mw$default / component 240, regions 4)
+Center: X=-24064 Y=64 Z=12800
+
+  1. X=-24064 Y=64 Z=12800
+
+Base 768
+------
+Dimension: world
+Sub-bases: 1
+Source: Xaero island candidate (Multiplayer_uneasyvanilla (1).com / null / mw$default / component 241, regions 4)
+Center: X=153088 Y=64 Z=0
+
+  1. X=153088 Y=64 Z=0
+
+Base 769
+------
+Dimension: world
+Sub-bases: 1
+Source: Xaero island candidate (Multiplayer_uneasyvanilla (1).com / null / mw$default / component 242, regions 4)
+Center: X=-4608 Y=64 Z=424448
+
+  1. X=-4608 Y=64 Z=424448
+
+Base 770
+------
+Dimension: world
+Sub-bases: 1
+Source: Xaero island candidate (Multiplayer_uneasyvanilla (1).com / null / mw$default / component 248, regions 4)
+Center: X=-153088 Y=64 Z=25600
+
+  1. X=-153088 Y=64 Z=25600
+
+Base 771
+------
+Dimension: world
+Sub-bases: 1
+Source: Xaero island candidate (Multiplayer_uneasyvanilla (1).com / null / mw$default / component 249, regions 4)
+Center: X=-11264 Y=64 Z=-29999104
+
+  1. X=-11264 Y=64 Z=-29999104
+
+Base 772
+------
+Dimension: world
+Sub-bases: 1
+Source: Xaero island candidate (Multiplayer_uneasyvanilla (1).com / null / mw$default / component 250, regions 4)
+Center: X=0 Y=64 Z=-41984
+
+  1. X=0 Y=64 Z=-41984
+
+Base 773
+------
+Dimension: world
+Sub-bases: 1
+Source: Xaero island candidate (Multiplayer_uneasyvanilla (1).com / null / mw$default / component 259, regions 4)
+Center: X=996864 Y=64 Z=-5777408
+
+  1. X=996864 Y=64 Z=-5777408
+
+Base 774
+------
+Dimension: world
+Sub-bases: 1
+Source: Xaero island candidate (Multiplayer_uneasyvanilla (1).com / null / mw$default / component 262, regions 4)
+Center: X=14245376 Y=64 Z=29231616
+
+  1. X=14245376 Y=64 Z=29231616
+
+Base 775
+------
+Dimension: world
+Sub-bases: 1
+Source: Xaero island candidate (Multiplayer_uneasyvanilla (1).com / null / mw$default / component 264, regions 4)
+Center: X=-934912 Y=64 Z=-2284032
+
+  1. X=-934912 Y=64 Z=-2284032
+
+Base 776
+------
+Dimension: world
+Sub-bases: 1
+Source: Xaero island candidate (Multiplayer_uneasyvanilla (1).com / null / mw$default / component 265, regions 4)
+Center: X=-3204608 Y=64 Z=557568
+
+  1. X=-3204608 Y=64 Z=557568
+
+Base 777
+------
+Dimension: world
+Sub-bases: 1
+Source: Xaero island candidate (Multiplayer_uneasyvanilla (1).com / null / mw$default / component 268, regions 4)
+Center: X=-97792 Y=64 Z=97792
+
+  1. X=-97792 Y=64 Z=97792
+
+Base 778
+------
+Dimension: world
+Sub-bases: 1
+Source: Xaero island candidate (Multiplayer_uneasyvanilla (1).com / null / mw$default / component 270, regions 4)
+Center: X=1536 Y=64 Z=-6144
+
+  1. X=1536 Y=64 Z=-6144
+
+Base 779
+------
+Dimension: world
+Sub-bases: 1
+Source: Xaero island candidate (Multiplayer_uneasyvanilla (1).com / null / mw$default / component 271, regions 4)
+Center: X=174592 Y=64 Z=77824
+
+  1. X=174592 Y=64 Z=77824
+
+Base 780
+------
+Dimension: world
+Sub-bases: 1
+Source: Xaero island candidate (Multiplayer_uneasyvanilla (1).com / null / mw$default / component 272, regions 4)
+Center: X=-9728 Y=64 Z=1792
+
+  1. X=-9728 Y=64 Z=1792
+
+Base 781
+------
+Dimension: world
+Sub-bases: 1
+Source: Xaero island candidate (Multiplayer_uneasyvanilla (1).com / null / mw$default / component 273, regions 4)
+Center: X=16384 Y=64 Z=-11776
+
+  1. X=16384 Y=64 Z=-11776
+
+Base 782
+------
+Dimension: world
+Sub-bases: 1
+Source: Xaero island candidate (Multiplayer_uneasyvanilla (1).com / null / mw$default / component 275, regions 4)
+Center: X=-175104 Y=64 Z=-359936
+
+  1. X=-175104 Y=64 Z=-359936
+
+Base 783
+------
+Dimension: world
+Sub-bases: 1
+Source: Xaero island candidate (Multiplayer_uneasyvanilla (1).com / null / mw$default / component 276, regions 4)
+Center: X=327680 Y=64 Z=110592
+
+  1. X=327680 Y=64 Z=110592
+
+Base 784
+------
+Dimension: world
+Sub-bases: 1
+Source: Xaero island candidate (Multiplayer_uneasyvanilla (1).com / null / mw$default / component 277, regions 4)
+Center: X=-681472 Y=64 Z=266240
+
+  1. X=-681472 Y=64 Z=266240
+
+Base 785
+------
+Dimension: world
+Sub-bases: 1
+Source: Xaero island candidate (Multiplayer_uneasyvanilla (1).com / null / mw$default / component 279, regions 4)
+Center: X=-17920 Y=64 Z=-6656
+
+  1. X=-17920 Y=64 Z=-6656
+
+Base 786
+------
+Dimension: world
+Sub-bases: 1
+Source: Xaero island candidate (Multiplayer_uneasyvanilla (1).com / null / mw$default / component 281, regions 4)
+Center: X=2271616 Y=64 Z=417024
+
+  1. X=2271616 Y=64 Z=417024
+
+Base 787
+------
+Dimension: world
+Sub-bases: 1
+Source: Xaero island candidate (Multiplayer_uneasyvanilla (1).com / null / mw$default / component 292, regions 4)
+Center: X=-3200000 Y=64 Z=559104
+
+  1. X=-3200000 Y=64 Z=559104
+
+Base 788
+------
+Dimension: world
+Sub-bases: 1
+Source: Xaero island candidate (Multiplayer_uneasyvanilla (1).com / null / mw$default / component 294, regions 4)
+Center: X=-99328 Y=64 Z=-802816
+
+  1. X=-99328 Y=64 Z=-802816
+
+Base 789
+------
+Dimension: world
+Sub-bases: 1
+Source: Xaero island candidate (Multiplayer_uneasyvanilla (1).com / null / mw$default / component 295, regions 4)
+Center: X=-192000 Y=64 Z=344576
+
+  1. X=-192000 Y=64 Z=344576
+
+Base 790
+------
+Dimension: world
+Sub-bases: 1
+Source: Xaero island candidate (Multiplayer_uneasyvanilla (1).com / null / mw$default / component 297, regions 4)
+Center: X=-23552 Y=64 Z=-5120
+
+  1. X=-23552 Y=64 Z=-5120
+
+Base 791
+------
+Dimension: world
+Sub-bases: 1
+Source: Xaero island candidate (Multiplayer_uneasyvanilla (1).com / null / mw$default / component 298, regions 4)
+Center: X=0 Y=64 Z=-30000128
+
+  1. X=0 Y=64 Z=-30000128
+
+Base 792
+------
+Dimension: world
+Sub-bases: 1
+Source: Xaero island candidate (Multiplayer_uneasyvanilla (1).com / null / mw$default / component 300, regions 4)
+Center: X=0 Y=64 Z=-16000000
+
+  1. X=0 Y=64 Z=-16000000
+
+Base 793
+------
+Dimension: world
+Sub-bases: 1
+Source: Xaero island candidate (Multiplayer_uneasyvanilla (1).com / null / mw$default / component 306, regions 4)
+Center: X=-100352 Y=64 Z=-69120
+
+  1. X=-100352 Y=64 Z=-69120
+
+Base 794
+------
+Dimension: world
+Sub-bases: 1
+Source: Xaero island candidate (Multiplayer_uneasyvanilla (1).com / null / mw$default / component 313, regions 3)
+Center: X=-39509 Y=64 Z=71253
+
+  1. X=-39509 Y=64 Z=71253
+
+Base 795
+------
+Dimension: world
+Sub-bases: 1
+Source: Xaero island candidate (Multiplayer_uneasyvanilla (1).com / null / mw$default / component 314, regions 3)
+Center: X=-96341 Y=64 Z=-802901
+
+  1. X=-96341 Y=64 Z=-802901
+
+Base 796
+------
+Dimension: world
+Sub-bases: 1
+Source: Xaero island candidate (Multiplayer_uneasyvanilla (1).com / null / mw$default / component 316, regions 3)
+Center: X=3085909 Y=64 Z=-725589
+
+  1. X=3085909 Y=64 Z=-725589
+
+Base 797
+------
+Dimension: world
+Sub-bases: 1
+Source: Xaero island candidate (Multiplayer_uneasyvanilla (1).com / null / mw$default / component 319, regions 3)
+Center: X=-597 Y=64 Z=101803
+
+  1. X=-597 Y=64 Z=101803
+
+Base 798
+------
+Dimension: world
+Sub-bases: 1
+Source: Xaero island candidate (Multiplayer_uneasyvanilla (1).com / null / mw$default / component 325, regions 3)
+Center: X=38315 Y=64 Z=50091
+
+  1. X=38315 Y=64 Z=50091
+
+Base 799
+------
+Dimension: world
+Sub-bases: 1
+Source: Xaero island candidate (Multiplayer_uneasyvanilla (1).com / null / mw$default / component 327, regions 3)
+Center: X=63915 Y=64 Z=56235
+
+  1. X=63915 Y=64 Z=56235
+
+Base 800
+------
+Dimension: world
+Sub-bases: 1
+Source: Xaero island candidate (Multiplayer_uneasyvanilla (1).com / null / mw$default / component 330, regions 3)
+Center: X=-2475 Y=64 Z=20395
+
+  1. X=-2475 Y=64 Z=20395
+
+Base 801
+------
+Dimension: world
+Sub-bases: 1
+Source: Xaero island candidate (Multiplayer_uneasyvanilla (1).com / null / mw$default / component 331, regions 3)
+Center: X=-47019 Y=64 Z=-44459
+
+  1. X=-47019 Y=64 Z=-44459
+
+Base 802
+------
+Dimension: world
+Sub-bases: 1
+Source: Xaero island candidate (Multiplayer_uneasyvanilla (1).com / null / mw$default / component 335, regions 3)
+Center: X=-4523 Y=64 Z=-125355
+
+  1. X=-4523 Y=64 Z=-125355
+
+Base 803
+------
+Dimension: world
+Sub-bases: 1
+Source: Xaero island candidate (Multiplayer_uneasyvanilla (1).com / null / mw$default / component 341, regions 3)
+Center: X=-106069 Y=64 Z=-1621
+
+  1. X=-106069 Y=64 Z=-1621
+
+Base 804
+------
+Dimension: world
+Sub-bases: 1
+Source: Xaero island candidate (Multiplayer_uneasyvanilla (1).com / null / mw$default / component 342, regions 3)
+Center: X=-20565 Y=64 Z=-6741
+
+  1. X=-20565 Y=64 Z=-6741
+
+Base 805
+------
+Dimension: world
+Sub-bases: 1
+Source: Xaero island candidate (Multiplayer_uneasyvanilla (1).com / null / mw$default / component 344, regions 3)
+Center: X=-98901 Y=64 Z=-1109
+
+  1. X=-98901 Y=64 Z=-1109
+
+Base 806
+------
+Dimension: world
+Sub-bases: 1
+Source: Xaero island candidate (Multiplayer_uneasyvanilla (1).com / null / mw$default / component 346, regions 3)
+Center: X=-9813 Y=64 Z=-18005
+
+  1. X=-9813 Y=64 Z=-18005
+
+Base 807
+------
+Dimension: world
+Sub-bases: 1
+Source: Xaero island candidate (Multiplayer_uneasyvanilla (1).com / null / mw$default / component 347, regions 3)
+Center: X=-1259605 Y=64 Z=703915
+
+  1. X=-1259605 Y=64 Z=703915
+
+Base 808
+------
+Dimension: world
+Sub-bases: 1
+Source: Xaero island candidate (Multiplayer_uneasyvanilla (1).com / null / mw$default / component 348, regions 3)
+Center: X=-2037675 Y=64 Z=448939
+
+  1. X=-2037675 Y=64 Z=448939
+
+Base 809
+------
+Dimension: world
+Sub-bases: 1
+Source: Xaero island candidate (Multiplayer_uneasyvanilla (1).com / null / mw$default / component 351, regions 3)
+Center: X=421291 Y=64 Z=-18517
+
+  1. X=421291 Y=64 Z=-18517
+
+Base 810
+------
+Dimension: world
+Sub-bases: 1
+Source: Xaero island candidate (Multiplayer_uneasyvanilla (1).com / null / mw$default / component 352, regions 3)
+Center: X=-427 Y=64 Z=-10325
+
+  1. X=-427 Y=64 Z=-10325
+
+Base 811
+------
+Dimension: world
+Sub-bases: 1
+Source: Xaero island candidate (Multiplayer_uneasyvanilla (1).com / null / mw$default / component 353, regions 3)
+Center: X=184235 Y=64 Z=427
+
+  1. X=184235 Y=64 Z=427
+
+Base 812
+------
+Dimension: world
+Sub-bases: 1
+Source: Xaero island candidate (Multiplayer_uneasyvanilla (1).com / null / mw$default / component 359, regions 3)
+Center: X=164437 Y=64 Z=1042517
+
+  1. X=164437 Y=64 Z=1042517
+
+Base 813
+------
+Dimension: world
+Sub-bases: 1
+Source: Xaero island candidate (Multiplayer_uneasyvanilla (1).com / null / mw$default / component 365, regions 2)
+Center: X=-1674240 Y=64 Z=-2077952
+
+  1. X=-1674240 Y=64 Z=-2077952
+
+Base 814
+------
+Dimension: world
+Sub-bases: 1
+Source: Xaero island candidate (Multiplayer_uneasyvanilla (1).com / null / mw$default / component 366, regions 2)
+Center: X=11008 Y=64 Z=6144
+
+  1. X=11008 Y=64 Z=6144
+
+Base 815
+------
+Dimension: world
+Sub-bases: 1
+Source: Xaero island candidate (Multiplayer_uneasyvanilla (1).com / null / mw$default / component 374, regions 2)
+Center: X=8192 Y=64 Z=-37632
+
+  1. X=8192 Y=64 Z=-37632
+
+Base 816
+------
+Dimension: world
+Sub-bases: 1
+Source: Xaero island candidate (Multiplayer_uneasyvanilla (1).com / null / mw$default / component 380, regions 2)
+Center: X=-33280 Y=64 Z=-6400
+
+  1. X=-33280 Y=64 Z=-6400
+
+Base 817
+------
+Dimension: world
+Sub-bases: 1
+Source: Xaero island candidate (Multiplayer_uneasyvanilla (1).com / null / mw$default / component 392, regions 2)
+Center: X=81408 Y=64 Z=86272
+
+  1. X=81408 Y=64 Z=86272
+
+Base 818
+------
+Dimension: world
+Sub-bases: 1
+Source: Xaero island candidate (Multiplayer_uneasyvanilla (1).com / null / mw$default / component 398, regions 2)
+Center: X=-8704 Y=64 Z=4352
+
+  1. X=-8704 Y=64 Z=4352
+
+Base 819
+------
+Dimension: world
+Sub-bases: 1
+Source: Xaero island candidate (Multiplayer_uneasyvanilla (1).com / null / mw$default / component 403, regions 2)
+Center: X=642048 Y=64 Z=-5739776
+
+  1. X=642048 Y=64 Z=-5739776
+
+Base 820
+------
+Dimension: world
+Sub-bases: 1
+Source: Xaero island candidate (Multiplayer_uneasyvanilla (1).com / null / mw$default / component 405, regions 2)
+Center: X=256 Y=64 Z=115712
+
+  1. X=256 Y=64 Z=115712
+
+Base 821
+------
+Dimension: world
+Sub-bases: 1
+Source: Xaero island candidate (Multiplayer_uneasyvanilla (1).com / null / mw$default / component 406, regions 2)
+Center: X=10496 Y=64 Z=-1024
+
+  1. X=10496 Y=64 Z=-1024
+
+Base 822
+------
+Dimension: world
+Sub-bases: 1
+Source: Xaero island candidate (Multiplayer_uneasyvanilla (1).com / null / mw$default / component 408, regions 2)
+Center: X=8704 Y=64 Z=-1280
+
+  1. X=8704 Y=64 Z=-1280
+
+Base 823
+------
+Dimension: world
+Sub-bases: 1
+Source: Xaero island candidate (Multiplayer_uneasyvanilla (1).com / null / mw$default / component 409, regions 2)
+Center: X=-15616 Y=64 Z=13824
+
+  1. X=-15616 Y=64 Z=13824
+
+Base 824
+------
+Dimension: world
+Sub-bases: 1
+Source: Xaero island candidate (Multiplayer_uneasyvanilla (1).com / null / mw$default / component 410, regions 2)
+Center: X=61440 Y=64 Z=-4864
+
+  1. X=61440 Y=64 Z=-4864
+
+Base 825
+------
+Dimension: world
+Sub-bases: 1
+Source: Xaero island candidate (Multiplayer_uneasyvanilla (1).com / null / mw$default / component 420, regions 2)
+Center: X=-708608 Y=64 Z=-1726208
+
+  1. X=-708608 Y=64 Z=-1726208
+
+Base 826
+------
+Dimension: world
+Sub-bases: 1
+Source: Xaero island candidate (Multiplayer_uneasyvanilla (1).com / null / mw$default / component 421, regions 2)
+Center: X=0 Y=64 Z=111872
+
+  1. X=0 Y=64 Z=111872
+
+Base 827
+------
+Dimension: world
+Sub-bases: 1
+Source: Xaero island candidate (Multiplayer_uneasyvanilla (1).com / null / mw$default / component 422, regions 2)
+Center: X=-1057280 Y=64 Z=9984
+
+  1. X=-1057280 Y=64 Z=9984
+
+Base 828
+------
+Dimension: world
+Sub-bases: 1
+Source: Xaero island candidate (Multiplayer_uneasyvanilla (1).com / null / mw$default / component 424, regions 2)
+Center: X=-4232192 Y=64 Z=6230272
+
+  1. X=-4232192 Y=64 Z=6230272
+
+Base 829
+------
+Dimension: world
+Sub-bases: 1
+Source: Xaero island candidate (Multiplayer_uneasyvanilla (1).com / null / mw$default / component 426, regions 2)
+Center: X=67072 Y=64 Z=2816
+
+  1. X=67072 Y=64 Z=2816
+
+Base 830
+------
+Dimension: world
+Sub-bases: 1
+Source: Xaero island candidate (Multiplayer_uneasyvanilla (1).com / null / mw$default / component 427, regions 2)
+Center: X=-135936 Y=64 Z=-154112
+
+  1. X=-135936 Y=64 Z=-154112
+
+Base 831
+------
+Dimension: world
+Sub-bases: 1
+Source: Xaero island candidate (Multiplayer_uneasyvanilla (1).com / null / mw$default / component 431, regions 2)
+Center: X=12695296 Y=64 Z=29222400
+
+  1. X=12695296 Y=64 Z=29222400
+
+Base 832
+------
+Dimension: world
+Sub-bases: 1
+Source: Xaero island candidate (Multiplayer_uneasyvanilla (1).com / null / mw$default / component 432, regions 2)
+Center: X=7424 Y=64 Z=-572928
+
+  1. X=7424 Y=64 Z=-572928
+
+Base 833
+------
+Dimension: world
+Sub-bases: 1
+Source: Xaero island candidate (Multiplayer_uneasyvanilla (1).com / null / mw$default / component 434, regions 2)
+Center: X=-10240 Y=64 Z=-2304
+
+  1. X=-10240 Y=64 Z=-2304
+
+Base 834
+------
+Dimension: world
+Sub-bases: 1
+Source: Xaero island candidate (Multiplayer_uneasyvanilla (1).com / null / mw$default / component 436, regions 2)
+Center: X=13312 Y=64 Z=-3328
+
+  1. X=13312 Y=64 Z=-3328
+
+Base 835
+------
+Dimension: world
+Sub-bases: 1
+Source: Xaero island candidate (Multiplayer_uneasyvanilla (1).com / null / mw$default / component 440, regions 2)
+Center: X=369408 Y=64 Z=2560
+
+  1. X=369408 Y=64 Z=2560
+
+Base 836
+------
+Dimension: world
+Sub-bases: 1
+Source: Xaero island candidate (Multiplayer_uneasyvanilla (1).com / null / mw$default / component 445, regions 2)
+Center: X=24064 Y=64 Z=-23808
+
+  1. X=24064 Y=64 Z=-23808
+
+Base 837
+------
+Dimension: world
+Sub-bases: 1
+Source: Xaero island candidate (Multiplayer_uneasyvanilla (1).com / null / mw$default / component 448, regions 2)
+Center: X=12642304 Y=64 Z=29219584
+
+  1. X=12642304 Y=64 Z=29219584
+
+Base 838
+------
+Dimension: world
+Sub-bases: 1
+Source: Xaero island candidate (Multiplayer_uneasyvanilla (1).com / null / mw$default / component 452, regions 2)
+Center: X=-55808 Y=64 Z=-55552
+
+  1. X=-55808 Y=64 Z=-55552
+
+Base 839
+------
+Dimension: world
+Sub-bases: 1
+Source: Xaero island candidate (Multiplayer_uneasyvanilla (1).com / null / mw$default / component 454, regions 2)
+Center: X=-12032 Y=64 Z=-39424
+
+  1. X=-12032 Y=64 Z=-39424
+
+Base 840
+------
+Dimension: world
+Sub-bases: 1
+Source: Xaero island candidate (Multiplayer_uneasyvanilla (1).com / null / mw$default / component 455, regions 2)
+Center: X=256 Y=64 Z=-27648
+
+  1. X=256 Y=64 Z=-27648
+
+Base 841
+------
+Dimension: world
+Sub-bases: 1
+Source: Xaero island candidate (Multiplayer_uneasyvanilla (1).com / null / mw$default / component 456, regions 2)
+Center: X=294144 Y=64 Z=-2125312
+
+  1. X=294144 Y=64 Z=-2125312
+
+Base 842
+------
+Dimension: world
+Sub-bases: 1
+Source: Xaero island candidate (Multiplayer_uneasyvanilla (1).com / null / mw$default / component 457, regions 2)
+Center: X=-26368 Y=64 Z=26112
+
+  1. X=-26368 Y=64 Z=26112
+
+Base 843
+------
+Dimension: world
+Sub-bases: 1
+Source: Xaero island candidate (Multiplayer_uneasyvanilla (1).com / null / mw$default / component 462, regions 2)
+Center: X=13640704 Y=64 Z=29226752
+
+  1. X=13640704 Y=64 Z=29226752
+
+Base 844
+------
+Dimension: world
+Sub-bases: 1
+Source: Xaero island candidate (Multiplayer_uneasyvanilla (1).com / null / mw$default / component 464, regions 2)
+Center: X=0 Y=64 Z=-101632
+
+  1. X=0 Y=64 Z=-101632
+
+Base 845
+------
+Dimension: world
+Sub-bases: 1
+Source: Xaero island candidate (Multiplayer_uneasyvanilla (1).com / null / mw$default / component 466, regions 2)
+Center: X=512 Y=64 Z=984320
+
+  1. X=512 Y=64 Z=984320
+
+Base 846
+------
+Dimension: world
+Sub-bases: 1
+Source: Xaero island candidate (Multiplayer_uneasyvanilla (1).com / null / mw$default / component 468, regions 2)
+Center: X=-5888 Y=64 Z=-378880
+
+  1. X=-5888 Y=64 Z=-378880
+
+Base 847
+------
+Dimension: world
+Sub-bases: 1
+Source: Xaero island candidate (Multiplayer_uneasyvanilla (1).com / null / mw$default / component 469, regions 2)
+Center: X=94208 Y=64 Z=46336
+
+  1. X=94208 Y=64 Z=46336
+
+Base 848
+------
+Dimension: world
+Sub-bases: 1
+Source: Xaero island candidate (Multiplayer_uneasyvanilla (1).com / null / mw$default / component 470, regions 2)
+Center: X=194816 Y=64 Z=-752128
+
+  1. X=194816 Y=64 Z=-752128
+
+Base 849
+------
+Dimension: world
+Sub-bases: 1
+Source: Xaero island candidate (Multiplayer_uneasyvanilla (1).com / null / mw$default / component 471, regions 2)
+Center: X=14592 Y=64 Z=71168
+
+  1. X=14592 Y=64 Z=71168
+
+Base 850
+------
+Dimension: world
+Sub-bases: 1
+Source: Xaero island candidate (Multiplayer_uneasyvanilla (1).com / null / mw$default / component 474, regions 2)
+Center: X=116480 Y=64 Z=-141824
+
+  1. X=116480 Y=64 Z=-141824
+
+Base 851
+------
+Dimension: world
+Sub-bases: 1
+Source: Xaero island candidate (Multiplayer_uneasyvanilla (1).com / null / mw$default / component 477, regions 2)
+Center: X=12788224 Y=64 Z=29223168
+
+  1. X=12788224 Y=64 Z=29223168
+
+Base 852
+------
+Dimension: world
+Sub-bases: 1
+Source: Xaero island candidate (Multiplayer_uneasyvanilla (1).com / null / mw$default / component 478, regions 2)
+Center: X=-7936 Y=64 Z=16384
+
+  1. X=-7936 Y=64 Z=16384
+
+Base 853
+------
+Dimension: world
+Sub-bases: 1
+Source: Xaero island candidate (Multiplayer_uneasyvanilla (1).com / null / mw$default / component 480, regions 2)
+Center: X=691712 Y=64 Z=7225088
+
+  1. X=691712 Y=64 Z=7225088
+
+Base 854
+------
+Dimension: world
+Sub-bases: 1
+Source: Xaero island candidate (Multiplayer_uneasyvanilla (1).com / null / mw$default / component 483, regions 2)
+Center: X=-65792 Y=64 Z=0
+
+  1. X=-65792 Y=64 Z=0
+
+Base 855
+------
+Dimension: world
+Sub-bases: 1
+Source: Xaero island candidate (Multiplayer_uneasyvanilla (1).com / null / mw$default / component 487, regions 2)
+Center: X=512 Y=64 Z=-299776
+
+  1. X=512 Y=64 Z=-299776
+
+Base 856
+------
+Dimension: world
+Sub-bases: 1
+Source: Xaero island candidate (Multiplayer_uneasyvanilla (1).com / null / mw$default / component 488, regions 2)
+Center: X=-12544 Y=64 Z=7168
+
+  1. X=-12544 Y=64 Z=7168
+
+Base 857
+------
+Dimension: world
+Sub-bases: 1
+Source: Xaero island candidate (Multiplayer_uneasyvanilla (1).com / null / mw$default / component 492, regions 2)
+Center: X=3328 Y=64 Z=16384
+
+  1. X=3328 Y=64 Z=16384
+
+Base 858
+------
+Dimension: world
+Sub-bases: 1
+Source: Xaero island candidate (Multiplayer_uneasyvanilla (1).com / null / mw$default / component 496, regions 2)
+Center: X=-20736 Y=64 Z=9728
+
+  1. X=-20736 Y=64 Z=9728
+
+Base 859
+------
+Dimension: world
+Sub-bases: 1
+Source: Xaero island candidate (Multiplayer_uneasyvanilla (1).com / null / mw$default / component 499, regions 2)
+Center: X=253184 Y=64 Z=-512
+
+  1. X=253184 Y=64 Z=-512
+
+Base 860
+------
+Dimension: world
+Sub-bases: 1
+Source: Xaero island candidate (Multiplayer_uneasyvanilla (1).com / null / mw$default / component 501, regions 2)
+Center: X=9472 Y=64 Z=-5120
+
+  1. X=9472 Y=64 Z=-5120
+
+Base 861
+------
+Dimension: world
+Sub-bases: 1
+Source: Xaero island candidate (Multiplayer_uneasyvanilla (1).com / null / mw$default / component 503, regions 2)
+Center: X=-6912 Y=64 Z=304640
+
+  1. X=-6912 Y=64 Z=304640
+
+Base 862
+------
+Dimension: world
+Sub-bases: 1
+Source: Xaero island candidate (Multiplayer_uneasyvanilla (1).com / null / mw$default / component 505, regions 2)
+Center: X=-2107392 Y=64 Z=4695808
+
+  1. X=-2107392 Y=64 Z=4695808
+
+Base 863
+------
+Dimension: world
+Sub-bases: 1
+Source: Xaero island candidate (Multiplayer_uneasyvanilla (1).com / null / mw$default / component 509, regions 2)
+Center: X=1117696 Y=64 Z=-86784
+
+  1. X=1117696 Y=64 Z=-86784
+
+Base 864
+------
+Dimension: world
+Sub-bases: 1
+Source: Xaero island candidate (Multiplayer_uneasyvanilla (1).com / null / mw$default / component 516, regions 2)
+Center: X=13615360 Y=64 Z=29227008
+
+  1. X=13615360 Y=64 Z=29227008
+
+Base 865
+------
+Dimension: world
+Sub-bases: 1
+Source: Xaero island candidate (Multiplayer_uneasyvanilla (1).com / null / mw$default / component 518, regions 2)
+Center: X=-19456 Y=64 Z=-100096
+
+  1. X=-19456 Y=64 Z=-100096
+
+Base 866
+------
+Dimension: world
+Sub-bases: 1
+Source: Xaero island candidate (Multiplayer_uneasyvanilla (1).com / null / mw$default / component 523, regions 2)
+Center: X=342272 Y=64 Z=77824
+
+  1. X=342272 Y=64 Z=77824
+
+Base 867
+------
+Dimension: world
+Sub-bases: 1
+Source: Xaero island candidate (Multiplayer_uneasyvanilla (1).com / null / mw$default / component 524, regions 2)
+Center: X=13609216 Y=64 Z=29226496
+
+  1. X=13609216 Y=64 Z=29226496
+
+Base 868
+------
+Dimension: world
+Sub-bases: 1
+Source: Xaero island candidate (Multiplayer_uneasyvanilla (1).com / null / mw$default / component 525, regions 2)
+Center: X=4681984 Y=64 Z=-796672
+
+  1. X=4681984 Y=64 Z=-796672
+
+Base 869
+------
+Dimension: world
+Sub-bases: 1
+Source: Xaero island candidate (Multiplayer_uneasyvanilla (1).com / null / mw$default / component 529, regions 1)
+Center: X=8082688 Y=64 Z=2442496
+
+  1. X=8082688 Y=64 Z=2442496
+
+Base 870
+------
+Dimension: world
+Sub-bases: 1
+Source: Xaero island candidate (Multiplayer_uneasyvanilla (1).com / null / mw$default / component 534, regions 1)
+Center: X=407808 Y=64 Z=-4864
+
+  1. X=407808 Y=64 Z=-4864
+
+Base 871
+------
+Dimension: world
+Sub-bases: 1
+Source: Xaero island candidate (Multiplayer_uneasyvanilla (1).com / null / mw$default / component 537, regions 1)
+Center: X=-6400 Y=64 Z=-10496
+
+  1. X=-6400 Y=64 Z=-10496
+
+Base 872
+------
+Dimension: world
+Sub-bases: 1
+Source: Xaero island candidate (Multiplayer_uneasyvanilla (1).com / null / mw$default / component 545, regions 1)
+Center: X=-23808 Y=64 Z=-98560
+
+  1. X=-23808 Y=64 Z=-98560
+
+Base 873
+------
+Dimension: world
+Sub-bases: 1
+Source: Xaero island candidate (Multiplayer_uneasyvanilla (1).com / null / mw$default / component 546, regions 1)
+Center: X=291584 Y=64 Z=-262912
+
+  1. X=291584 Y=64 Z=-262912
+
+Base 874
+------
+Dimension: world
+Sub-bases: 1
+Source: Xaero island candidate (Multiplayer_uneasyvanilla (1).com / null / mw$default / component 547, regions 1)
+Center: X=18688 Y=64 Z=-2304
+
+  1. X=18688 Y=64 Z=-2304
+
+Base 875
+------
+Dimension: world
+Sub-bases: 1
+Source: Xaero island candidate (Multiplayer_uneasyvanilla (1).com / null / mw$default / component 548, regions 1)
+Center: X=-7936 Y=64 Z=7936
+
+  1. X=-7936 Y=64 Z=7936
+
+Base 876
+------
+Dimension: world
+Sub-bases: 1
+Source: Xaero island candidate (Multiplayer_uneasyvanilla (1).com / null / mw$default / component 550, regions 1)
+Center: X=8278272 Y=64 Z=2547456
+
+  1. X=8278272 Y=64 Z=2547456
+
+Base 877
+------
+Dimension: world
+Sub-bases: 1
+Source: Xaero island candidate (Multiplayer_uneasyvanilla (1).com / null / mw$default / component 554, regions 1)
+Center: X=256 Y=64 Z=239872
+
+  1. X=256 Y=64 Z=239872
+
+Base 878
+------
+Dimension: world
+Sub-bases: 1
+Source: Xaero island candidate (Multiplayer_uneasyvanilla (1).com / null / mw$default / component 555, regions 1)
+Center: X=9472 Y=64 Z=15616
+
+  1. X=9472 Y=64 Z=15616
+
+Base 879
+------
+Dimension: world
+Sub-bases: 1
+Source: Xaero island candidate (Multiplayer_uneasyvanilla (1).com / null / mw$default / component 559, regions 1)
+Center: X=-99072 Y=64 Z=-63744
+
+  1. X=-99072 Y=64 Z=-63744
+
+Base 880
+------
+Dimension: world
+Sub-bases: 1
+Source: Xaero island candidate (Multiplayer_uneasyvanilla (1).com / null / mw$default / component 561, regions 1)
+Center: X=14189312 Y=64 Z=29231872
+
+  1. X=14189312 Y=64 Z=29231872
+
+Base 881
+------
+Dimension: world
+Sub-bases: 1
+Source: Xaero island candidate (Multiplayer_uneasyvanilla (1).com / null / mw$default / component 563, regions 1)
+Center: X=-4864 Y=64 Z=-4864
+
+  1. X=-4864 Y=64 Z=-4864
+
+Base 882
+------
+Dimension: world
+Sub-bases: 1
+Source: Xaero island candidate (Multiplayer_uneasyvanilla (1).com / null / mw$default / component 565, regions 1)
+Center: X=197376 Y=64 Z=-751872
+
+  1. X=197376 Y=64 Z=-751872
+
+Base 883
+------
+Dimension: world
+Sub-bases: 1
+Source: Xaero island candidate (Multiplayer_uneasyvanilla (1).com / null / mw$default / component 566, regions 1)
+Center: X=256 Y=64 Z=-71424
+
+  1. X=256 Y=64 Z=-71424
+
+Base 884
+------
+Dimension: world
+Sub-bases: 1
+Source: Xaero island candidate (Multiplayer_uneasyvanilla (1).com / null / mw$default / component 568, regions 1)
+Center: X=13536000 Y=64 Z=29258496
+
+  1. X=13536000 Y=64 Z=29258496
+
+Base 885
+------
+Dimension: world
+Sub-bases: 1
+Source: Xaero island candidate (Multiplayer_uneasyvanilla (1).com / null / mw$default / component 570, regions 1)
+Center: X=417536 Y=64 Z=37120
+
+  1. X=417536 Y=64 Z=37120
+
+Base 886
+------
+Dimension: world
+Sub-bases: 1
+Source: Xaero island candidate (Multiplayer_uneasyvanilla (1).com / null / mw$default / component 571, regions 1)
+Center: X=67328 Y=64 Z=-7936
+
+  1. X=67328 Y=64 Z=-7936
+
+Base 887
+------
+Dimension: world
+Sub-bases: 1
+Source: Xaero island candidate (Multiplayer_uneasyvanilla (1).com / null / mw$default / component 580, regions 1)
+Center: X=8960 Y=64 Z=-15616
+
+  1. X=8960 Y=64 Z=-15616
+
+Base 888
+------
+Dimension: world
+Sub-bases: 1
+Source: Xaero island candidate (Multiplayer_uneasyvanilla (1).com / null / mw$default / component 581, regions 1)
+Center: X=-15616 Y=64 Z=-12544
+
+  1. X=-15616 Y=64 Z=-12544
+
+Base 889
+------
+Dimension: world
+Sub-bases: 1
+Source: Xaero island candidate (Multiplayer_uneasyvanilla (1).com / null / mw$default / component 582, regions 1)
+Center: X=12525824 Y=64 Z=29211392
+
+  1. X=12525824 Y=64 Z=29211392
+
+Base 890
+------
+Dimension: world
+Sub-bases: 1
+Source: Xaero island candidate (Multiplayer_uneasyvanilla (1).com / null / mw$default / component 583, regions 1)
+Center: X=14057216 Y=64 Z=29270272
+
+  1. X=14057216 Y=64 Z=29270272
+
+Base 891
+------
+Dimension: world
+Sub-bases: 1
+Source: Xaero island candidate (Multiplayer_uneasyvanilla (1).com / null / mw$default / component 585, regions 1)
+Center: X=-193280 Y=64 Z=97536
+
+  1. X=-193280 Y=64 Z=97536
+
+Base 892
+------
+Dimension: world
+Sub-bases: 1
+Source: Xaero island candidate (Multiplayer_uneasyvanilla (1).com / null / mw$default / component 587, regions 1)
+Center: X=1792 Y=64 Z=985344
+
+  1. X=1792 Y=64 Z=985344
+
+Base 893
+------
+Dimension: world
+Sub-bases: 1
+Source: Xaero island candidate (Multiplayer_uneasyvanilla (1).com / null / mw$default / component 589, regions 1)
+Center: X=570624 Y=64 Z=-1606912
+
+  1. X=570624 Y=64 Z=-1606912
+
+Base 894
+------
+Dimension: world
+Sub-bases: 1
+Source: Xaero island candidate (Multiplayer_uneasyvanilla (1).com / null / mw$default / component 590, regions 1)
+Center: X=-5888 Y=64 Z=-5376
+
+  1. X=-5888 Y=64 Z=-5376
+
+Base 895
+------
+Dimension: world
+Sub-bases: 1
+Source: Xaero island candidate (Multiplayer_uneasyvanilla (1).com / null / mw$default / component 593, regions 1)
+Center: X=1010944 Y=64 Z=21760
+
+  1. X=1010944 Y=64 Z=21760

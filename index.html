@@ -1,0 +1,166 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>UneasyVanilla Coordinate Leak</title>
+    <link rel="icon" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 64 64'%3E%3Crect width='64' height='64' fill='%23111416'/%3E%3Ccircle cx='32' cy='32' r='15' fill='%235dd9d6'/%3E%3Cpath d='M32 5v54M5 32h54' stroke='%23ffd166' stroke-width='5'/%3E%3C/svg%3E">
+    <link rel="stylesheet" href="styles.css?v=2026-05-09-xaero280">
+  </head>
+  <body>
+    <header class="topbar">
+      <div>
+        <h1>UneasyVanilla Coordinate Leak</h1>
+      </div>
+      <div class="actions">
+        <button id="resetView" class="ghost" type="button">Reset View</button>
+        <a class="ghost" href="intel.html">Alts & Bans</a>
+        <a class="ghost" href="xaero.html">Xaero Map Files</a>
+        <a id="downloadLeak" class="download" href="./coords.txt" download="UneasyVanilla-coordinate-leak.txt">Download Full Leak</a>
+      </div>
+    </header>
+
+    <main>
+      <section class="stats-grid" aria-label="Summary statistics">
+        <article>
+          <span>Total bases</span>
+          <strong id="totalBases">...</strong>
+        </article>
+        <article>
+          <span>Sub-bases</span>
+          <strong id="totalSubBases">...</strong>
+        </article>
+        <article>
+          <span>Farthest from spawn</span>
+          <strong id="farthestBase">...</strong>
+        </article>
+      </section>
+
+      <section class="atlas-shell">
+        <div class="panel-head">
+          <div>
+            <h2>Interactive Coordinate Graph</h2>
+            <p>Drag to pan, scroll to zoom, hover points for exact base data.</p>
+          </div>
+          <div class="panel-tools">
+            <div class="view-tabs" aria-label="View mode">
+              <button id="graphTab" class="active" type="button">Graph</button>
+              <button id="listTab" type="button">List</button>
+            </div>
+            <div id="dimensionFilters" class="filters" aria-label="Dimension filters"></div>
+          </div>
+        </div>
+        <div id="graphView" class="graph-wrap">
+          <canvas id="atlasCanvas" width="1600" height="900"></canvas>
+          <div id="tooltip" class="tooltip" hidden></div>
+        </div>
+        <div id="listView" class="list-view" hidden>
+          <div class="list-controls">
+            <input id="baseSearch" type="search" placeholder="Search base, dimension, or coordinate">
+            <select id="sortMode" aria-label="Sort bases">
+              <option value="id">Sort by base number</option>
+              <option value="distance-desc">Farthest from spawn</option>
+              <option value="distance-asc">Closest to spawn</option>
+              <option value="subbases-desc">Most sub-bases</option>
+              <option value="y-desc">Highest Y</option>
+              <option value="y-asc">Lowest Y</option>
+            </select>
+          </div>
+          <div class="table-wrap">
+            <table>
+              <thead>
+                <tr>
+                  <th>Base</th>
+                  <th>Known as / residents</th>
+                  <th>Dimension</th>
+                  <th>Center</th>
+                  <th>Sub-bases</th>
+                  <th>Distance</th>
+                </tr>
+              </thead>
+              <tbody id="baseTable"></tbody>
+            </table>
+          </div>
+        </div>
+      </section>
+
+      <section class="dashboard-grid">
+        <article class="chart-panel">
+          <h2>Dimension Split</h2>
+          <canvas id="dimensionChart" width="700" height="360"></canvas>
+        </article>
+        <article class="chart-panel">
+          <h2>Coordinate Quadrants</h2>
+          <canvas id="quadrantChart" width="700" height="360"></canvas>
+        </article>
+        <article class="chart-panel">
+          <h2>Y-Level Distribution</h2>
+          <canvas id="heightChart" width="700" height="360"></canvas>
+        </article>
+        <article class="chart-panel">
+          <h2>Distance From Spawn</h2>
+          <canvas id="distanceChart" width="700" height="360"></canvas>
+        </article>
+        <article class="chart-panel">
+          <h2>Sub-Base Cluster Sizes</h2>
+          <canvas id="clusterChart" width="700" height="360"></canvas>
+        </article>
+        <article class="chart-panel">
+          <h2>Axis Hotspots</h2>
+          <canvas id="axisChart" width="700" height="360"></canvas>
+        </article>
+        <article class="chart-panel">
+          <h2>Spawn Range Bands</h2>
+          <canvas id="rangeChart" width="700" height="360"></canvas>
+        </article>
+        <article class="chart-panel">
+          <h2>Overworld vs Nether Scale</h2>
+          <canvas id="scaleChart" width="700" height="360"></canvas>
+        </article>
+        <article class="chart-panel findings">
+          <h2>Notable Finds</h2>
+          <div id="findingsList"></div>
+        </article>
+        <article class="chart-panel quote-card">
+          <figure class="quote-picture">
+            <img src="screenshots/1957-04-18_00.00.00.png" alt="Featured connected quote screenshot">
+          </figure>
+          <blockquote>
+            <p>No matter where you go, everyone's connected.</p>
+          </blockquote>
+        </article>
+      </section>
+
+      <section class="gallery-shell">
+        <div class="panel-head">
+          <div>
+            <h2>Screenshot Gallery</h2>
+          </div>
+          <strong id="galleryCount">...</strong>
+        </div>
+        <div id="screenshotGallery" class="gallery-grid"></div>
+      </section>
+    </main>
+
+    <div id="lightbox" class="lightbox" hidden>
+      <div class="lightbox-actions">
+        <a id="downloadLightboxImage" class="download" href="#" download>Download High Res</a>
+        <button id="closeLightbox" type="button" aria-label="Close image">Close</button>
+      </div>
+      <img id="lightboxImage" alt="">
+      <span id="lightboxCaption"></span>
+    </div>
+
+    <div id="updateNotice" class="update-notice" hidden>
+      <div class="update-card" role="dialog" aria-modal="true" aria-labelledby="updateNoticeTitle">
+        <span class="update-eyebrow">Map update</span>
+        <h2 id="updateNoticeTitle">280 new bases added</h2>
+        <p>We added 280 new base candidates from Xaero map data.</p>
+        <button id="dismissUpdateNotice" class="download" type="button">Got it</button>
+      </div>
+    </div>
+
+    <script src="gallery-data.js"></script>
+    <script src="script.js?v=2026-05-09-xaero280"></script>
+  </body>
+</html>
