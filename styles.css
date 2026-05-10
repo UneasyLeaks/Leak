@@ -225,7 +225,8 @@ main {
 }
 
 input,
-select {
+select,
+textarea {
   min-height: 2.6rem;
   width: 100%;
   border: 1px solid var(--line);
@@ -234,6 +235,15 @@ select {
   background: #111619;
   color: var(--text);
   font: inherit;
+}
+
+textarea {
+  resize: vertical;
+  line-height: 1.4;
+}
+
+input[type="file"] {
+  padding: 0.5rem;
 }
 
 .update-notice {
@@ -249,6 +259,66 @@ select {
 
 .update-notice[hidden] {
   display: none;
+}
+
+.report-overlay {
+  position: fixed;
+  inset: 0;
+  z-index: 21;
+  display: grid;
+  align-items: start;
+  justify-items: start;
+  padding: 1rem;
+  background: rgba(5, 8, 10, 0.62);
+  backdrop-filter: blur(7px);
+}
+
+.report-overlay[hidden] {
+  display: none;
+}
+
+.report-card {
+  display: grid;
+  width: min(100%, 430px);
+  max-height: calc(100vh - 2rem);
+  overflow: auto;
+  gap: 0.75rem;
+  border: 1px solid rgba(93, 217, 214, 0.48);
+  border-radius: 8px;
+  padding: 1rem;
+  background: #191d20;
+  box-shadow: 0 24px 80px rgba(0, 0, 0, 0.46);
+}
+
+.report-card-head {
+  display: flex;
+  align-items: flex-start;
+  justify-content: space-between;
+  gap: 0.75rem;
+}
+
+.report-card label {
+  display: grid;
+  gap: 0.35rem;
+  color: var(--muted);
+  font-size: 0.82rem;
+  font-weight: 750;
+}
+
+.report-coordinate-grid {
+  display: grid;
+  grid-template-columns: repeat(2, minmax(0, 1fr));
+  gap: 0.75rem;
+}
+
+.report-coordinate-grid[hidden] {
+  display: none;
+}
+
+.form-hint {
+  margin: -0.25rem 0 0;
+  font-size: 0.83rem;
+  line-height: 1.4;
 }
 
 .update-card {
@@ -654,6 +724,18 @@ td a {
   color: #ffd7d7;
 }
 
+.status-tag.is-griefed {
+  border-color: rgba(255, 107, 107, 0.42);
+  background: rgba(255, 107, 107, 0.14);
+  color: #ffd7d7;
+}
+
+.status-tag.not-griefed {
+  border-color: rgba(93, 217, 214, 0.36);
+  background: rgba(93, 217, 214, 0.11);
+  color: #c9fbfa;
+}
+
 .status-tag.not-banned {
   border-color: rgba(139, 212, 110, 0.42);
   background: rgba(139, 212, 110, 0.13);
@@ -878,6 +960,10 @@ pre {
   }
 
   .list-controls {
+    grid-template-columns: 1fr;
+  }
+
+  .report-coordinate-grid {
     grid-template-columns: 1fr;
   }
 

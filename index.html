@@ -13,6 +13,7 @@
         <h1>UneasyVanilla Coordinate Leak</h1>
       </div>
       <div class="actions">
+        <button id="openReportForm" class="download" type="button">Report</button>
         <button id="openLeakCheck" class="download" type="button">Am I leaked?</button>
         <button id="resetView" class="ghost" type="button">Reset View</button>
         <a class="ghost" href="intel.html">Alts & Bans</a>
@@ -89,6 +90,7 @@
                 <tr>
                   <th>Base</th>
                   <th>Known as / residents</th>
+                  <th>Status</th>
                   <th>Dimension</th>
                   <th>Center</th>
                   <th>Sub-bases</th>
@@ -168,11 +170,64 @@
       <span id="lightboxCaption"></span>
     </div>
 
+    <div id="reportOverlay" class="report-overlay" hidden>
+      <form id="reportForm" class="report-card" role="dialog" aria-modal="true" aria-labelledby="reportFormTitle" novalidate>
+        <div class="report-card-head">
+          <div>
+            <span class="update-eyebrow">Report</span>
+            <h2 id="reportFormTitle">Send a report</h2>
+          </div>
+          <button id="closeReportForm" class="ghost compact-button" type="button" aria-label="Close report form">Close</button>
+        </div>
+        <label>
+          Report type
+          <select id="reportType" required>
+            <option value="griefed">Report griefed base</option>
+            <option value="missing">Report missing base</option>
+            <option value="feedback">Website feedback</option>
+          </select>
+        </label>
+        <label>
+          Base name or ID
+          <input id="reportLocation" type="text" placeholder="Base 12 or known name">
+        </label>
+        <div id="reportCoordinates" class="report-coordinate-grid">
+          <label>
+            X coordinate
+            <input id="reportX" type="text" inputmode="numeric" placeholder="12345" required>
+          </label>
+          <label>
+            Z coordinate
+            <input id="reportZ" type="text" inputmode="numeric" placeholder="-67890" required>
+          </label>
+        </div>
+        <label>
+          Discord name or contact
+          <input id="reportContact" type="text" placeholder="Optional">
+        </label>
+        <label>
+          Details
+          <textarea id="reportDetails" rows="5" placeholder="What should be changed or checked?" required></textarea>
+        </label>
+        <label>
+          Notes
+          <textarea id="reportNotes" rows="3" placeholder="Anything else you want to add"></textarea>
+        </label>
+        <label id="reportProofLabel">
+          Photo proof
+          <input id="reportProof" type="file" accept="image/*" required>
+        </label>
+        <p id="reportProofHint" class="form-hint">Photo proof is required. We will mark it griefed once it is verified.</p>
+        <button id="submitReport" class="download" type="submit">Send Report</button>
+        <p id="reportStatus" class="leak-check-result" aria-live="polite"></p>
+      </form>
+    </div>
+
     <div id="updateNotice" class="update-notice" hidden>
       <div class="update-card" role="dialog" aria-modal="true" aria-labelledby="updateNoticeTitle">
-        <span class="update-eyebrow">Map update</span>
-        <h2 id="updateNoticeTitle">New leak checker added</h2>
-        <p>Use the Am I leaked button to enter your X and Z coordinates, jump to them on the map, and check whether they match the leaked data.</p>
+        <span class="update-eyebrow">Site update</span>
+        <h2 id="updateNoticeTitle">Feedback and reports added</h2>
+        <p>Use the new Report button to send website feedback, report a griefed base, or report a missing base. Griefed and missing reports require photo proof and matching coordinates from the leak records.</p>
         <button id="dismissUpdateNotice" class="download" type="button">Got it</button>
       </div>
     </div>

@@ -8,8 +8,17 @@ const colors = {
 };
 
 const leakRadius = 3000;
+// Report endpoint usage:
+// - Only submitReport(reportPayload) below uses this URL.
+// - It is only for user-submitted griefed/missing-base reports and website feedback.
+// - It is not used for analytics, tracking, leak checks, map viewing, gallery viewing, or downloads.
+// To audit this yourself, search this file for "reportEndpointUrl" and "submitReport".
+const reportEndpointUrl = "https://morning-haze-c95b.2m8dt9xwzk.workers.dev";
+const verifiedGriefedBaseIds = new Set([
+  // Add verified griefed base numbers here, for example: 12, 48, 103
+]);
 
-const updateNoticeKey = "uneasyvanilla:update-notice:2026-05-09-leak-checker";
+const updateNoticeKey = "uneasyvanilla:update-notice:2026-05-09-feedback-reporting";
 
 const state = {
   bases: [],
@@ -61,6 +70,7 @@ function parseCoords(text) {
       id,
       knownName,
       dimension,
+      isGriefed: verifiedGriefedBaseIds.has(id),
       subBaseCount,
       center,
       subBases,
@@ -334,6 +344,13 @@ function attachUiEvents() {
   document.getElementById("graphTab").addEventListener("click", () => setViewMode("graph"));
   document.getElementById("listTab").addEventListener("click", () => setViewMode("list"));
   document.getElementById("openLeakCheck").addEventListener("click", openLeakCheck);
+  document.getElementById("openReportForm").addEventListener("click", openReportForm);
+  document.getElementById("closeReportForm").addEventListener("click", closeReportForm);
+  document.getElementById("reportOverlay").addEventListener("click", (event) => {
+    if (event.target.id === "reportOverlay") closeReportForm();
+  });
+  document.getElementById("reportType").addEventListener("change", updateReportRequirements);
+  document.getElementById("reportForm").addEventListener("submit", handleReportSubmit);
   document.getElementById("closeLeakCheck").addEventListener("click", closeLeakCheck);
   document.getElementById("leakCheckPanel").addEventListener("submit", checkLeakCoordinate);
   document.getElementById("baseSearch").addEventListener("input", renderBaseTable);
@@ -344,8 +361,12 @@ function attachUiEvents() {
     if (event.target.id === "lightbox") closeLightbox();
   });
   window.addEventListener("keydown", (event) => {
-    if (event.key === "Escape") closeLightbox();
+    if (event.key === "Escape") {
+      closeLightbox();
+      closeReportForm();
+    }
   });
+  updateReportRequirements();
 }
 
 function openLeakCheck() {
@@ -357,6 +378,185 @@ function openLeakCheck() {
 
 function closeLeakCheck() {
   document.getElementById("leakCheckPanel").hidden = true;
+}
+
+function openReportForm() {
+  const overlay = document.getElementById("reportOverlay");
+  overlay.hidden = false;
+  document.body.classList.add("notice-open");
+  document.getElementById("reportType").focus();
+}
+
+function closeReportForm() {
+  const overlay = document.getElementById("reportOverlay");
+  overlay.hidden = true;
+  document.body.classList.remove("notice-open");
+}
+
+function updateReportRequirements() {
+  const type = document.getElementById("reportType").value;
+  const proof = document.getElementById("reportProof");
+  const proofLabel = document.getElementById("reportProofLabel");
+  const coords = document.getElementById("reportCoordinates");
+  const reportX = document.getElementById("reportX");
+  const reportZ = document.getElementById("reportZ");
+  const hint = document.getElementById("reportProofHint");
+  const title = document.getElementById("reportFormTitle");
+  const needsProof = type === "griefed" || type === "missing";
+  proof.required = needsProof;
+  reportX.required = needsProof;
+  reportZ.required = needsProof;
+  coords.hidden = !needsProof;
+  proofLabel.hidden = false;
+  hint.hidden = false;
+
+  if (type === "griefed") {
+    title.textContent = "Report a griefed base";
+    hint.textContent = "Photo proof is required. We will mark it griefed once it is verified.";
+  } else if (type === "missing") {
+    title.textContent = "Report a missing base";
+    hint.textContent = "Photo proof is required so the missing location can be verified.";
+  } else {
+    title.textContent = "Send website feedback";
+    proof.required = false;
+    hint.textContent = "Photo is optional for website feedback.";
+  }
+}
+
+async function handleReportSubmit(event) {
+  event.preventDefault();
+  // This is the only form code path that sends anything to the report Worker.
+  // It runs only after the visitor presses "Send Report" in the report/feedback form.
+  const status = document.getElementById("reportStatus");
+  const submit = document.getElementById("submitReport");
+  const type = document.getElementById("reportType").value;
+  const location = document.getElementById("reportLocation").value.trim();
+  const reportX = document.getElementById("reportX").value.trim();
+  const reportZ = document.getElementById("reportZ").value.trim();
+  const contact = document.getElementById("reportContact").value.trim();
+  const details = document.getElementById("reportDetails").value.trim();
+  const notes = document.getElementById("reportNotes").value.trim();
+  const proof = document.getElementById("reportProof").files[0];
+  const needsProof = type === "griefed" || type === "missing";
+  let matchedRecord = null;
+
+  if (!details) {
+    setReportStatus("Add report details before sending.", "leaked");
+    return;
+  }
+
+  if (needsProof && !proof) {
+    setReportStatus("Photo proof is required for griefed and missing reports.", "leaked");
+    return;
+  }
+
+  if (needsProof) {
+    const x = Number(reportX);
+    const z = Number(reportZ);
+    if (!Number.isFinite(x) || !Number.isFinite(z)) {
+      setReportStatus("Enter valid X and Z coordinates for this report.", "leaked");
+      return;
+    }
+
+    matchedRecord = findNearestKnownCoordinate(x, z);
+    if (!matchedRecord || matchedRecord.distance > leakRadius) {
+      setReportStatus("No base record was found within 3000 blocks of those coordinates.", "leaked");
+      return;
+    }
+
+    const confirmed = window.confirm(`This report matches Base ${matchedRecord.base.id}, ${formatNumber(Math.round(matchedRecord.distance))} blocks from your coordinates. Submit it for verification?`);
+    if (!confirmed) {
+      setReportStatus("Report was not sent.", "");
+      return;
+    }
+  }
+
+  submit.disabled = true;
+  setReportStatus("Sending report...", "");
+
+  try {
+    const titleByType = {
+      griefed: "Griefed base report",
+      missing: "Missing base report",
+      feedback: "Website feedback",
+    };
+    const payload = {
+      type,
+      title: titleByType[type],
+      baseNameOrId: location || null,
+      contact: contact || null,
+      details,
+      notes: notes || null,
+      coordinates: needsProof ? {
+        x: Number(reportX),
+        z: Number(reportZ),
+      } : null,
+      matchedRecord: matchedRecord ? {
+        baseId: matchedRecord.base.id,
+        distanceBlocks: Math.round(matchedRecord.distance),
+        dimension: matchedRecord.base.dimension,
+        center: matchedRecord.base.center,
+        isAlreadyMarkedGriefed: matchedRecord.base.isGriefed,
+      } : null,
+      verificationMessage: type === "griefed" ? "Mark griefed once verified." : "Review and verify before updating the site.",
+      pageUrl: window.location.href,
+      submittedAt: new Date().toISOString(),
+      file: proof || null,
+    };
+
+    await submitReport(payload);
+    document.getElementById("reportForm").reset();
+    updateReportRequirements();
+    setReportStatus("Report sent. It will be reviewed before the site is updated.", "not-leaked");
+  } catch (error) {
+    setReportStatus(`Report failed to send: ${error.message}`, "leaked");
+  } finally {
+    submit.disabled = false;
+  }
+}
+
+async function submitReport(reportPayload) {
+  const formData = new FormData();
+  formData.append("type", reportPayload.title || reportPayload.type || "report");
+  formData.append("baseId", reportPayload.matchedRecord?.baseId ? `Base ${reportPayload.matchedRecord.baseId}` : reportPayload.baseNameOrId || "N/A");
+  formData.append("message", buildWorkerReportMessage(reportPayload));
+  if (reportPayload.file) {
+    formData.append("file", reportPayload.file, reportPayload.file.name || "upload.png");
+  }
+
+  const response = await fetch(reportEndpointUrl, {
+    method: "POST",
+    body: formData,
+  });
+
+  if (!response.ok) {
+    const message = await response.text();
+    throw new Error(message || "Report failed");
+  }
+
+  return response.json();
+}
+
+function buildWorkerReportMessage(reportPayload) {
+  return [
+    `Type: ${reportPayload.title || reportPayload.type}`,
+    `Base name or ID: ${reportPayload.baseNameOrId || "Not provided"}`,
+    `Contact: ${reportPayload.contact || "Not provided"}`,
+    `Coordinates: ${reportPayload.coordinates ? `X ${reportPayload.coordinates.x} / Z ${reportPayload.coordinates.z}` : "Not required"}`,
+    `Matched record: ${reportPayload.matchedRecord ? `Base ${reportPayload.matchedRecord.baseId}, ${reportPayload.matchedRecord.distanceBlocks} blocks away` : "Not checked"}`,
+    `Current site status: ${reportPayload.matchedRecord?.isAlreadyMarkedGriefed ? "Already marked griefed" : "Not marked griefed"}`,
+    `Verification: ${reportPayload.verificationMessage}`,
+    `Details: ${reportPayload.details}`,
+    `Notes: ${reportPayload.notes || "Not provided"}`,
+    `Page: ${reportPayload.pageUrl}`,
+    `Submitted: ${reportPayload.submittedAt}`,
+  ].join("\n");
+}
+
+function setReportStatus(message, variant) {
+  const status = document.getElementById("reportStatus");
+  status.className = `leak-check-result${variant ? ` ${variant}` : ""}`;
+  status.textContent = message;
 }
 
 function checkLeakCoordinate(event) {
@@ -455,6 +655,7 @@ function updateHover(event) {
   tooltip.style.top = `${Math.max(12, mouse.y + 16)}px`;
   tooltip.innerHTML = `
     <strong>Base ${nearest.id}</strong><br>
+    ${nearest.isGriefed ? '<span class="status-tag is-griefed">Verified griefed</span><br>' : ""}
     ${nearest.knownName ? `<span class="tooltip-name">${escapeHtml(nearest.knownName)}</span><br>` : ""}
     ${nearest.dimension}<br>
     X ${formatNumber(nearest.center.x)} / Y ${formatNumber(nearest.center.y)} / Z ${formatNumber(nearest.center.z)}<br>
@@ -647,6 +848,7 @@ function renderBaseTable() {
     <tr>
       <td>Base ${base.id}</td>
       <td>${base.knownName ? escapeHtml(base.knownName) : '<span class="muted">Unknown</span>'}</td>
+      <td>${base.isGriefed ? '<span class="status-tag is-griefed">Griefed</span>' : '<span class="status-tag not-griefed">Active/unknown</span>'}</td>
       <td>${base.dimension}</td>
       <td>X ${formatNumber(base.center.x)} / Y ${formatNumber(base.center.y)} / Z ${formatNumber(base.center.z)}</td>
       <td>${base.subBaseCount}</td>
