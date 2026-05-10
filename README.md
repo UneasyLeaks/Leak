@@ -1,4 +1,3 @@
-=======
 # UneasyVanilla Coordinate Leak Site
 
 This repository is a static website. It is not malware, it does not install or run anything, it does not grab sessions, it does not log checked coordinates, it does not collect IP addresses, and it does not run visitor analytics (had google analytics briefly but removed now). Additionally google analytics on this site only ever recorded country and number of visits and what pages, and is now completely gone.
