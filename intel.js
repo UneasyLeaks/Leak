@@ -7,6 +7,12 @@ const intelState = {
 
 attachIntelEvents();
 
+// Privacy and safety audit notes:
+// - This page only loads static repository files for display.
+// - It does not POST data, call geolocation, open WebSockets, use analytics,
+//   collect IP addresses, or inspect anything from Minecraft or the visitor's machine.
+// - To verify, search this file for "fetch(", "sendBeacon", "XMLHttpRequest",
+//   "WebSocket", "geolocation", and "localStorage".
 Promise.all([
   fetch("alts_with_main.txt").then((response) => response.text()),
   fetch("bans.txt").then((response) => response.text()),

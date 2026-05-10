@@ -8,11 +8,15 @@ const colors = {
 };
 
 const leakRadius = 3000;
-// Report endpoint usage:
-// - Only submitReport(reportPayload) below uses this URL.
-// - It is only for user-submitted griefed/missing-base reports and website feedback.
-// - It is not used for analytics, tracking, leak checks, map viewing, gallery viewing, or downloads.
-// To audit this yourself, search this file for "reportEndpointUrl" and "submitReport".
+// Privacy and safety audit notes:
+// - This is a static browser page. There is no installed client, executable payload,
+//   session grabber, geolocation call, IP logger, visitor analytics, or background beacon.
+// - The "Am I leaked?" checker runs entirely in this browser against coords.txt after
+//   coords.txt is downloaded as a static file. It does not POST checked coordinates.
+// - Only submitReport(reportPayload) below uses reportEndpointUrl, and only after the
+//   visitor manually presses "Send Report" in the report/feedback form.
+// - To audit this yourself, search for network APIs such as "fetch(", "sendBeacon",
+//   "XMLHttpRequest", "WebSocket", "geolocation", and "reportEndpointUrl".
 const reportEndpointUrl = "https://morning-haze-c95b.2m8dt9xwzk.workers.dev";
 const verifiedGriefedBaseIds = new Set([
   // Add verified griefed base numbers here, for example: 12, 48, 103
@@ -34,6 +38,8 @@ const atlas = document.getElementById("atlasCanvas");
 const atlasCtx = atlas.getContext("2d");
 const tooltip = document.getElementById("tooltip");
 
+// Static file load only. The coordinate data is read from the repository-hosted
+// coords.txt file so the graph and local leak checker can work in the browser.
 fetch("coords.txt")
   .then((response) => response.text())
   .then((text) => {
@@ -426,7 +432,8 @@ function updateReportRequirements() {
 async function handleReportSubmit(event) {
   event.preventDefault();
   // This is the only form code path that sends anything to the report Worker.
-  // It runs only after the visitor presses "Send Report" in the report/feedback form.
+  // It runs only after the visitor presses "Send Report" in the report/feedback form,
+  // and it sends only the fields assembled below plus an optional proof image.
   const status = document.getElementById("reportStatus");
   const submit = document.getElementById("submitReport");
   const type = document.getElementById("reportType").value;
@@ -561,6 +568,9 @@ function setReportStatus(message, variant) {
 
 function checkLeakCoordinate(event) {
   event.preventDefault();
+  // Local-only check: this reads the typed X/Z values, compares them with the
+  // already-loaded coords.txt data, and updates the canvas/result text. No
+  // network request is made from this function.
   const x = Number(document.getElementById("leakX").value);
   const z = Number(document.getElementById("leakZ").value);
   const result = document.getElementById("leakCheckResult");

@@ -101,6 +101,36 @@ main {
   padding: 0 clamp(1rem, 3vw, 2.5rem) 2.5rem;
 }
 
+.transparency-notice {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 1rem;
+  margin: 0 0 1rem;
+  padding: 1rem;
+  border: 1px solid rgba(93, 217, 214, 0.62);
+  border-left: 6px solid var(--cyan);
+  border-radius: 8px;
+  background: rgba(13, 31, 34, 0.9);
+  box-shadow: 0 18px 55px rgba(0, 0, 0, 0.22);
+}
+
+.transparency-notice h2 {
+  margin-bottom: 0.45rem;
+  font-size: clamp(1.25rem, 2vw, 1.8rem);
+}
+
+.transparency-notice p {
+  max-width: 78rem;
+  margin-bottom: 0;
+  color: #d7eff0;
+  line-height: 1.5;
+}
+
+.transparency-notice .ghost {
+  flex: 0 0 auto;
+}
+
 .stats-grid,
 .dashboard-grid {
   display: grid;
@@ -931,6 +961,11 @@ pre {
 }
 
 @media (max-width: 900px) {
+  .transparency-notice {
+    align-items: stretch;
+    flex-direction: column;
+  }
+
   .topbar,
   .panel-head {
     flex-direction: column;
