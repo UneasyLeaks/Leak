@@ -54,4 +54,3 @@ python3 -m http.server 8000
 ```
 
 Then open `http://localhost:8000`. Use your browser devtools Network tab to verify that normal browsing only loads local static files. The only POST should happen when you intentionally submit the report form.
->>>>>>> a05beab (Transparency!)
